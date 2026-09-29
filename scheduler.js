@@ -5,6 +5,7 @@ const POSTS_FILE="posts.json";
 const LOGS_FILE="logs.json";
 const MAX_RETRIES=3;
 const MAX_LOGS=500;
+const DELETE_AFTER_HOURS=5;
 
 function readJson(file,fallback=[]){
   try{return JSON.parse(fs.readFileSync(file,"utf8"))}
@@ -46,6 +47,12 @@ function sleep(ms){return new Promise(r=>setTimeout(r,ms))}
 function isDue(post,now){
   return post.status==="scheduled" && !post.posted && new Date(post.date)<=now;
 }
+function isExpired(post,now){
+  if(post.status!=="posted" || !post.postedAt)return false;
+  const postedTime=new Date(post.postedAt);
+  const expirationTime=new Date(postedTime.getTime()+DELETE_AFTER_HOURS*60*60*1000);
+  return now>=expirationTime;
+}
 async function uploadMedia(agent,post){
   if(!post.media?.path)return null;
   const data=fs.readFileSync(post.media.path);
@@ -86,9 +93,19 @@ async function publishPost(agent,post){
 const posts=readJson(POSTS_FILE);
 const logs=readJson(LOGS_FILE);
 const now=new Date();
+
+// Clean up old posted posts (after 5 hours)
+const expiredPosts=posts.filter(p=>isExpired(p,now));
+if(expiredPosts.length){
+  for(const post of expiredPosts){
+    log(logs,"info","DELETED",`Deleted posted post ${post.id} after ${DELETE_AFTER_HOURS} hours.`,post);
+  }
+  posts.splice(0,posts.length,...posts.filter(p=>!isExpired(p,now)));
+}
+
 const due=posts.filter(p=>isDue(p,now));
 
-if(!due.length){log(logs,"info","CHECK","No posts are due.");writeJson(LOGS_FILE,logs.slice(-MAX_LOGS));process.exit(0)}
+if(!due.length){log(logs,"info","CHECK","No posts are due.");writeJson(LOGS_FILE,logs.slice(-MAX_LOGS));writeJson(POSTS_FILE,posts);process.exit(0)}
 
 const agent=new BskyAgent({service:"https://bsky.social"});
 await agent.login({identifier:process.env.BLUESKY_HANDLE,password:process.env.BLUESKY_APP_PASSWORD});
