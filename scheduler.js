@@ -55,10 +55,14 @@ function isExpired(post,now){
 }
 async function uploadMedia(agent,post){
   if(!post.media?.path)return null;
-  const data=fs.readFileSync(post.media.path);
-  const mime=post.media.type||"image/jpeg";
-  const r=await agent.uploadBlob(data,{encoding:mime});
-  return r.data.blob;
+  try{
+    const data=fs.readFileSync(post.media.path);
+    const mime=post.media.type||"image/jpeg";
+    const r=await agent.uploadBlob(data,{encoding:mime});
+    return r.data.blob;
+  }catch(err){
+    throw new Error(`Media upload failed: ${err.message}`);
+  }
 }
 async function publishSingle(agent,text,blob){
   const rt=new RichText({text});
@@ -100,16 +104,32 @@ if(expiredPosts.length){
   for(const post of expiredPosts){
     log(logs,"info","DELETED",`Deleted posted post ${post.id} after ${DELETE_AFTER_HOURS} hours.`,post);
   }
-  posts.splice(0,posts.length,...posts.filter(p=>!isExpired(p,now)));
+  const filteredPosts=posts.filter(p=>!isExpired(p,now));
+  posts.length=0;
+  posts.push(...filteredPosts);
 }
 
 const due=posts.filter(p=>isDue(p,now));
 
-if(!due.length){log(logs,"info","CHECK","No posts are due.");writeJson(LOGS_FILE,logs.slice(-MAX_LOGS));writeJson(POSTS_FILE,posts);process.exit(0)}
+if(!due.length){
+  log(logs,"info","CHECK","No posts are due.");
+  writeJson(LOGS_FILE,logs.slice(-MAX_LOGS));
+  writeJson(POSTS_FILE,posts);
+  console.log("No posts to process.");
+  process.exit(0);
+}
 
 const agent=new BskyAgent({service:"https://bsky.social"});
-await agent.login({identifier:process.env.BLUESKY_HANDLE,password:process.env.BLUESKY_APP_PASSWORD});
-log(logs,"info","LOGIN","Logged into Bluesky.");
+
+try{
+  await agent.login({identifier:process.env.BLUESKY_HANDLE,password:process.env.BLUESKY_APP_PASSWORD});
+  log(logs,"info","LOGIN","Logged into Bluesky.");
+}catch(err){
+  log(logs,"error","LOGIN_FAILED",`Bluesky login failed: ${err.message}`);
+  writeJson(LOGS_FILE,logs.slice(-MAX_LOGS));
+  console.error(`Login failed: ${err.message}`);
+  process.exit(1);
+}
 
 for(const post of due){
   post.retryCount=post.retryCount||0;
