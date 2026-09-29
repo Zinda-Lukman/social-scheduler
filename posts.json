@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "29064ec5-6c2c-4cc7-9f87-a8b10a0a491a",
+    "platform": "bluesky",
+    "date": "2026-09-29T07:50:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "Beautiful Ocean",
+    "thread": null,
+    "media": {
+      "path": "media/1790668035190-photo_5262974271238556827_y.jpg",
+      "sha": "59b28641f45015e0ed555ae9b3ec9569ba6b1378",
+      "name": "photo_5262974271238556827_y.jpg",
+      "type": "image/jpeg",
+      "size": 142865
+    },
+    "createdAt": "2026-09-29T07:47:19.980Z"
+  }
+]
