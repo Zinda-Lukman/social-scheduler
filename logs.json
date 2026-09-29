@@ -38,5 +38,13 @@
     "message": "Post b9ee6166-4bc7-4ae8-b55e-595c05974736 published successfully.",
     "postId": "b9ee6166-4bc7-4ae8-b55e-595c05974736",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-09-29T20:25:34.851Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
