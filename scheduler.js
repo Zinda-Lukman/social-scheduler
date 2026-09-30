@@ -5,7 +5,7 @@ const POSTS_FILE="posts.json";
 const LOGS_FILE="logs.json";
 const MAX_RETRIES=3;
 const MAX_LOGS=500;
-const DELETE_AFTER_HOURS=5;
+const DELETE_AFTER_HOURS=24;
 
 function readJson(file,fallback=[]){
   try{return JSON.parse(fs.readFileSync(file,"utf8"))}
@@ -53,6 +53,17 @@ function isExpired(post,now){
   const expirationTime=new Date(postedTime.getTime()+DELETE_AFTER_HOURS*60*60*1000);
   return now>=expirationTime;
 }
+function deleteMediaFile(mediaPath){
+  try{
+    if(mediaPath && fs.existsSync(mediaPath)){
+      fs.unlinkSync(mediaPath);
+      return true;
+    }
+  }catch(err){
+    console.warn(`Warning: Failed to delete media file ${mediaPath}: ${err.message}`);
+  }
+  return false;
+}
 async function uploadMedia(agent,post){
   if(!post.media?.path)return null;
   try{
@@ -98,11 +109,18 @@ const posts=readJson(POSTS_FILE);
 const logs=readJson(LOGS_FILE);
 const now=new Date();
 
-// Clean up old posted posts (after 5 hours)
+// Clean up old posted posts (after 24 hours)
 const expiredPosts=posts.filter(p=>isExpired(p,now));
 if(expiredPosts.length){
   for(const post of expiredPosts){
-    log(logs,"info","DELETED",`Deleted posted post ${post.id} after ${DELETE_AFTER_HOURS} hours.`,post);
+    // Delete associated media file
+    if(post.media?.path){
+      const mediaDeleted=deleteMediaFile(post.media.path);
+      const mediaStatus=mediaDeleted ? "and associated media file deleted" : "but media file deletion failed";
+      log(logs,"info","DELETED",`Deleted posted post ${post.id} after ${DELETE_AFTER_HOURS} hours ${mediaStatus}.`,post);
+    }else{
+      log(logs,"info","DELETED",`Deleted posted post ${post.id} after ${DELETE_AFTER_HOURS} hours.`,post);
+    }
   }
   const filteredPosts=posts.filter(p=>!isExpired(p,now));
   posts.length=0;
