@@ -162,5 +162,28 @@
       "size": 218362
     },
     "createdAt": "2026-09-30T09:07:05.560Z"
+  },
+  {
+    "id": "6df796d2-071a-4492-aa77-ce4c723f865f",
+    "platform": "bluesky",
+    "date": "2026-10-01T07:10:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Wall Pavilion, Zwinger, Dresden, Germany 🇩🇪\n\n Famous for its grand Baroque crown. \n\nBuilt in the 18th century. While beneath it, it’s easy to see why it was called it a masterpiece. \n\nWould you explore it?\n\n#Travel #TravelPhotography #Dresden #Germany",
+    "thread": null,
+    "media": {
+      "path": "media/1790759522330-photo_5251579869031159120_y.jpg",
+      "sha": "f4558755e703fff8215b45aa69292347cf8a73d3",
+      "name": "photo_5251579869031159120_y.jpg",
+      "type": "image/jpeg",
+      "size": 264941
+    },
+    "createdAt": "2026-09-30T09:12:09.656Z"
   }
 ]
