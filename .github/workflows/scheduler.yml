@@ -2,7 +2,7 @@ name: Social Scheduler
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "7 * * * *"
   workflow_dispatch:
 
 permissions:
