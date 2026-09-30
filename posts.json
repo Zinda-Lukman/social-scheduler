@@ -33,8 +33,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Egeskov Castle, Funen, Denmark 🇩🇰 \n\nA 1554 Renaissance water castle, built on oak foundations, with secret stairs and a well inside its thick walls. \n\nIt still feels like a real home. \n\nWould you cross the moat?\n\n#Denmark #Castles #Egeskov #Travel #TravelPhotography",
@@ -46,7 +46,10 @@
       "type": "image/jpeg",
       "size": 171083
     },
-    "createdAt": "2026-09-30T08:18:41.489Z"
+    "createdAt": "2026-09-30T08:18:41.489Z",
+    "postedAt": "2026-09-30T17:58:48.353Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwqwaknymv2m",
+    "cid": "bafyreihmtfwvtkxvazpbnkxiwj2qsrml37v35qa6rzmsya2pmu7dmjgjx4"
   },
   {
     "id": "774ebd23-d3f0-4dc9-905b-639fef9552c0",
@@ -56,8 +59,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Langur Way, Penang Hill, Malaysia 🇲🇾 \n\nA 230m ribbon bridge, 40m above a centuries old rainforest. Two spans, three headlands, two valleys—and incredible canopy views. \n\nImagine standing up there with nothing but jungle below. \n\nWould you cross it?\n\n#Travel #TravelPhotography #Malaysia #Penang",
@@ -69,7 +72,10 @@
       "type": "image/jpeg",
       "size": 221906
     },
-    "createdAt": "2026-09-30T08:22:25.108Z"
+    "createdAt": "2026-09-30T08:22:25.108Z",
+    "postedAt": "2026-09-30T17:58:49.437Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwqwalnqga2h",
+    "cid": "bafyreielrkqn36lrveaeyh4fsry574gu735sjart3cuxk54xumzrbhw3ey"
   },
   {
     "id": "62b8e227-e9e9-46ce-881b-6ef055e58b55",
@@ -105,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "Menton, French Riviera, France 🇫🇷 \n\nFamous for pastel houses, citrus gardens & sea views. Right by Italy, it’s sunnier than much of France, and lemons are a local symbol\n\n The old town feels like a maze above the Mediterranean. \n\nWould you wander here?\n\n#Travel #TravelPhotography #France #Menton",
@@ -118,7 +124,10 @@
       "type": "image/jpeg",
       "size": 171083
     },
-    "createdAt": "2026-09-30T08:30:52.242Z"
+    "createdAt": "2026-09-30T08:30:52.242Z",
+    "postedAt": "2026-09-30T17:58:49.867Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwqwammkjt2r",
+    "cid": "bafyreiacht4vu36wohejws53g4duxkhqwplqtcej5e4fblucnm5q7awccy"
   },
   {
     "id": "bf2e56e8-32b0-4fc5-9479-d78e7547611c",
