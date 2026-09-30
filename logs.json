@@ -174,5 +174,13 @@
     "message": "Post 970c2f62-262e-4b5e-b03a-b6be5306e477 published successfully.",
     "postId": "970c2f62-262e-4b5e-b03a-b6be5306e477",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-09-30T22:11:16.076Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
