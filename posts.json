@@ -93,5 +93,28 @@
       "size": 241625
     },
     "createdAt": "2026-09-30T08:27:14.238Z"
+  },
+  {
+    "id": "970c2f62-262e-4b5e-b03a-b6be5306e477",
+    "platform": "bluesky",
+    "date": "2026-09-30T14:16:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "Menton, French Riviera, France 🇫🇷 \n\nFamous for pastel houses, citrus gardens & sea views. Right by Italy, it’s sunnier than much of France, and lemons are a local symbol\n\n The old town feels like a maze above the Mediterranean. \n\nWould you wander here?\n\n#Travel #TravelPhotography #France #Menton",
+    "thread": null,
+    "media": {
+      "path": "media/1790757045771-photo_5233525583160396608_y.jpg",
+      "sha": "0cd90c7fcf7a8b8575d14bd29454af24a8c3e5f5",
+      "name": "photo_5233525583160396608_y.jpg",
+      "type": "image/jpeg",
+      "size": 171083
+    },
+    "createdAt": "2026-09-30T08:30:52.242Z"
   }
 ]
