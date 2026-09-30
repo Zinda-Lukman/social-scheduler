@@ -79,8 +79,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Jatiya Sangsad Bhaban, Bangladesh 🇧🇩\n\n Famous for Louis Kahn’s geometric design. \n\nBuilt 1962–82, surrounded by water, nine blocks form one striking structure, and daylight shapes the chamber. \n\nIt Feels  unreal in person \n\nWould you visit?\n\n#Travel #TravelPhotography #Bangladesh #Architecture",
@@ -92,7 +92,10 @@
       "type": "image/jpeg",
       "size": 241625
     },
-    "createdAt": "2026-09-30T08:27:14.238Z"
+    "createdAt": "2026-09-30T08:27:14.238Z",
+    "postedAt": "2026-09-30T11:08:13.950Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwq7cfko572a",
+    "cid": "bafyreialmrq7rp4f22bgtf3vxyycb3komybb4ppkbta2vvoqfztiub3ohe"
   },
   {
     "id": "970c2f62-262e-4b5e-b03a-b6be5306e477",
