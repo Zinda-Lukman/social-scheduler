@@ -7,8 +7,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Castelfalfi, Montaione, Tuscany, Italy 🇮🇹\n\nFamous for its rolling Tuscan hills 🌿, Castelfalfi has a medieval village feel, old stone buildings, vineyards, olive groves, and peaceful countryside.\n\nWould you visit? What would you explore first?\n\n#Travel #Italy  #Architecture #TravelPhotography",
@@ -20,6 +20,9 @@
       "type": "image/jpeg",
       "size": 147358
     },
-    "createdAt": "2026-09-30T04:07:38.033Z"
+    "createdAt": "2026-09-30T04:07:38.033Z",
+    "postedAt": "2026-09-30T04:09:45.386Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwphw42a3g22",
+    "cid": "bafyreig4u7bwf4mst4lu4gtp3o37glh2z4d5c5hu7jzsdlavd7rylajlja"
   }
 ]
