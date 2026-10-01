@@ -318,5 +318,28 @@
       "size": 407396
     },
     "createdAt": "2026-10-01T08:31:53.494Z"
+  },
+  {
+    "id": "a03af4f9-9cbd-41e7-b7cf-ef11859bb179",
+    "platform": "bluesky",
+    "date": "2026-10-02T03:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Tuscan, Italy 🇮🇹 \n\nFamous for warm brick villas, rolling hills and cypress-lined roads. \n\nVineyards, olive groves and centuries-old farmhouses dot the landscape. It’s the kind of view that makes you slow down. \n\nWould you stay here for a week?\n\n#Travel #TravelPhotography #Tuscany #Italy",
+    "thread": null,
+    "media": {
+      "path": "media/1790843659432-photo_5321243151945550033_y.jpg",
+      "sha": "9d68184fae4866ce139b3246e7bea130affe168b",
+      "name": "photo_5321243151945550033_y.jpg",
+      "type": "image/jpeg",
+      "size": 147358
+    },
+    "createdAt": "2026-10-01T08:34:23.974Z"
   }
 ]
