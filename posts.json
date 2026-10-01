@@ -571,5 +571,28 @@
       "size": 272424
     },
     "createdAt": "2026-10-01T09:55:24.088Z"
+  },
+  {
+    "id": "8022dbd8-d8b5-40c6-85b7-77a2ee9f25aa",
+    "platform": "bluesky",
+    "date": "2026-10-03T18:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Bahrain World Trade Center, Manama 🇧🇭 \n\nFamous for its twin sail-shaped towers and giant wind turbines built into the design. \n\nOpened in 2008, it was among the first skyscrapers to integrate wind power. \n\nWould you visit?\n\n#Travel #TravelPhotography #Bahrain #Manama",
+    "thread": null,
+    "media": {
+      "path": "media/1790851069110-photo_5404703884154359759_y.jpg",
+      "sha": "3cc36f93d148a0de51f55c0bdf551053ac3bc329",
+      "name": "photo_5404703884154359759_y.jpg",
+      "type": "image/jpeg",
+      "size": 218576
+    },
+    "createdAt": "2026-10-01T10:37:59.975Z"
   }
 ]
