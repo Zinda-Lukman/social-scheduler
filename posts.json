@@ -502,5 +502,28 @@
       "size": 314550
     },
     "createdAt": "2026-10-01T09:21:01.836Z"
+  },
+  {
+    "id": "371c9745-beb6-4b2e-b60d-9c3ea1cc38c7",
+    "platform": "bluesky",
+    "date": "2026-10-03T09:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Rajgad Fort, Maharashtra, India 🇮🇳\n\nRising above the Western Ghats, this 17th-century hill fort was once the capital of Shivaji Maharaj’s kingdom.\n\nIts massive walls, steep cliffs and mountain views make the climb unforgettable.\n\nWould you hike up?\n\n#Travel #TravelPhotography #India #Rajgad",
+    "thread": null,
+    "media": {
+      "path": "media/1790847359359-photo_5420346030492341618_y.jpg",
+      "sha": "70c48ee142a52158d5bac06d6d51bf98db699348",
+      "name": "photo_5420346030492341618_y.jpg",
+      "type": "image/jpeg",
+      "size": 307419
+    },
+    "createdAt": "2026-10-01T09:36:06.577Z"
   }
 ]
