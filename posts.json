@@ -479,5 +479,28 @@
       "size": 200271
     },
     "createdAt": "2026-10-01T09:12:37.660Z"
+  },
+  {
+    "id": "6c789d1e-e46a-42a0-9b7c-37343eb51c21",
+    "platform": "bluesky",
+    "date": "2026-10-03T06:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Vizcaya Bridge, Portugalete, Spain 🇪🇸\n\nKnown as the Puente Colgante, this 1893 bridge carries people and vehicles in a suspended gondola over the Nervión River.\n\nIt’s a UNESCO World Heritage site and still operates today.\n\nWould you cross it?\n\n#Travel #TravelPhotography #Spain #Vizcaya",
+    "thread": null,
+    "media": {
+      "path": "media/1790846455214-photo_5355192523368287190_y.jpg",
+      "sha": "16a83d65decef9e2118964ec4713a5639196f59a",
+      "name": "photo_5355192523368287190_y.jpg",
+      "type": "image/jpeg",
+      "size": 314550
+    },
+    "createdAt": "2026-10-01T09:21:01.836Z"
   }
 ]
