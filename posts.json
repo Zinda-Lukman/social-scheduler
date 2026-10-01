@@ -548,5 +548,28 @@
       "size": 213099
     },
     "createdAt": "2026-10-01T09:43:40.143Z"
+  },
+  {
+    "id": "ec309bd4-5809-4b81-9799-16b397bf5a38",
+    "platform": "bluesky",
+    "date": "2026-10-03T15:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Svaneti, Georgia 🇬🇪\n\nTraditional stone towers rise among green valleys, pine forests and the Greater Caucasus\n\nFor centuries, these remote villages were shaped by mountain life and isolation\n\nThe scenery feels almost untouched.\n\nWould you stay here?\n\n#Travel #TravelPhotography #Georgia #Svaneti",
+    "thread": null,
+    "media": {
+      "path": "media/1790848516832-photo_5409211220403276813_y.jpg",
+      "sha": "46acd80ee8c207b4661d40485a50263d35f5cbb9",
+      "name": "photo_5409211220403276813_y.jpg",
+      "type": "image/jpeg",
+      "size": 272424
+    },
+    "createdAt": "2026-10-01T09:55:24.088Z"
   }
 ]
