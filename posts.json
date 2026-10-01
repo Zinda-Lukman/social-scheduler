@@ -189,8 +189,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Dyrhólaey, South Iceland 🇮🇸 \n\nFamous for dramatic black-sand beaches and its sea arch. Cliffs rise above the Atlantic, puffins nest here in summer, and waves crash far below. \n\nIt looks almost unreal in person. Would you stand at the edge?\n\n#Travel #TravelPhotography #Iceland #Dyrholaey",
@@ -202,7 +202,10 @@
       "type": "image/jpeg",
       "size": 142865
     },
-    "createdAt": "2026-10-01T08:10:59.325Z"
+    "createdAt": "2026-10-01T08:10:59.325Z",
+    "postedAt": "2026-10-01T16:48:54.093Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwtcshvu7h2g",
+    "cid": "bafyreieog3vzcv32q63ct622h2wv4qkb6zgat2env7qqurwvyiwmd2fkmy"
   },
   {
     "id": "3a22c142-b1c9-4978-b19f-b30e7989a63a",
