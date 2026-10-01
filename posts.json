@@ -341,5 +341,28 @@
       "size": 147358
     },
     "createdAt": "2026-10-01T08:34:23.974Z"
+  },
+  {
+    "id": "274cef5a-07a1-4e83-be43-9a19602fd876",
+    "platform": "bluesky",
+    "date": "2026-10-01T09:39:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Golden Gate Bridge, San Francisco, USA 🇺🇸 \n\nFamous for its Orange towers and Art Deco lines. \n\nOpened in 1937, it spans 2.7 km across the strait, often wrapped in fog. \n\nSeeing the towers emerge from the mist is something else. \n\nEver crossed it?\n\n#Travel #TravelPhotography #SanFrancisco #USA",
+    "thread": null,
+    "media": {
+      "path": "media/1790844013786-photo_5334848727870983047_y.jpg",
+      "sha": "36ac307b4bff9df6cfd5c5b1064c9605f2d55df8",
+      "name": "photo_5334848727870983047_y.jpg",
+      "type": "image/jpeg",
+      "size": 188577
+    },
+    "createdAt": "2026-10-01T08:40:18.859Z"
   }
 ]
