@@ -387,5 +387,28 @@
       "size": 71381
     },
     "createdAt": "2026-10-01T08:43:16.951Z"
+  },
+  {
+    "id": "dd3d207c-a340-47b6-a0e1-e3e04d28bced",
+    "platform": "bluesky",
+    "date": "2026-10-02T18:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Paphos Medieval Castle, Cyprus 🇨🇾 \n\nFamous for its stone tower at the harbor’s edge.\n\nBuilt as a fortress, rebuilt by the Ottomans, and once used as a prison and salt store.\n\nWith the sea behind it, the setting feels timeless. \n\nWould you explore it?\n\n#Travel #TravelPhotography #Cyprus #Paphos",
+    "thread": null,
+    "media": {
+      "path": "media/1790844805997-photo_5366601021658353187_y.jpg",
+      "sha": "7b4eebc4e70f7b858e43d70c886fce5064dbb127",
+      "name": "photo_5366601021658353187_y.jpg",
+      "type": "image/jpeg",
+      "size": 209938
+    },
+    "createdAt": "2026-10-01T08:53:35.002Z"
   }
 ]
