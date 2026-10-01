@@ -456,5 +456,28 @@
       "size": 87973
     },
     "createdAt": "2026-10-01T09:08:48.452Z"
+  },
+  {
+    "id": "5552f28a-e833-48b5-9f6e-daee25f2c6b5",
+    "platform": "bluesky",
+    "date": "2026-10-03T03:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Hohensalzburg Fortress, Salzburg, Austria 🇦🇹 \n\nPerched above the city, this massive medieval fortress dates to 1077.\n\nIts towers overlook Salzburg, the Alps and the Salzach River.\n\nImagine waking up to that view every day.\n\nWould you explore it?\n\n#Travel #TravelPhotography #Austria #Salzburg",
+    "thread": null,
+    "media": {
+      "path": "media/1790845951605-photo_5381977631643256978_y.jpg",
+      "sha": "a2a7e416ed1294c33c4096372dcec1fa44e10790",
+      "name": "photo_5381977631643256978_y.jpg",
+      "type": "image/jpeg",
+      "size": 200271
+    },
+    "createdAt": "2026-10-01T09:12:37.660Z"
   }
 ]
