@@ -180,5 +180,28 @@
     "postedAt": "2026-10-01T07:22:07.225Z",
     "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwsd4ykmwv2w",
     "cid": "bafyreid2czbykr6newgqztlxtpgeetfjutzypoxubd74hv52ggrqnufnhu"
+  },
+  {
+    "id": "a90c0de0-bb28-4813-9303-9670604c5158",
+    "platform": "bluesky",
+    "date": "2026-10-01T10:33:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Geirangerfjord, Møre og \n\nRomsdal, Norway 🇳🇴 Famous for towering cliffs and waterfalls. \n\nA UNESCO World Heritage site, it stretches 15 km inland, with the Seven Sisters falling into the fjord. \n\nImagine seeing it from a boat, would you go?\n\n#Travel #TravelPhotography #Norway #Fjords",
+    "thread": null,
+    "media": {
+      "path": "media/1790840067996-photo_5260383881973058402_y.jpg",
+      "sha": "53b6f2a3085c6f1c3e696f79ab2472066f3f2542",
+      "name": "photo_5260383881973058402_y.jpg",
+      "type": "image/jpeg",
+      "size": 211964
+    },
+    "createdAt": "2026-10-01T07:34:38.744Z"
   }
 ]
