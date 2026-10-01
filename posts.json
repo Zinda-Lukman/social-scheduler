@@ -1,31 +1,5 @@
 [
   {
-    "id": "15085a8e-8881-4e67-9f24-1f61488e249c",
-    "platform": "bluesky",
-    "date": "2026-09-29T05:03:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Castelfalfi, Montaione, Tuscany, Italy 🇮🇹\n\nFamous for its rolling Tuscan hills 🌿, Castelfalfi has a medieval village feel, old stone buildings, vineyards, olive groves, and peaceful countryside.\n\nWould you visit? What would you explore first?\n\n#Travel #Italy  #Architecture #TravelPhotography",
-    "thread": null,
-    "media": {
-      "path": "media/1790741252013-photo_5321243151945550033_y.jpg",
-      "sha": "9d68184fae4866ce139b3246e7bea130affe168b",
-      "name": "photo_5321243151945550033_y.jpg",
-      "type": "image/jpeg",
-      "size": 147358
-    },
-    "createdAt": "2026-09-30T04:07:38.033Z",
-    "postedAt": "2026-09-30T04:09:45.386Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwphw42a3g22",
-    "cid": "bafyreig4u7bwf4mst4lu4gtp3o37glh2z4d5c5hu7jzsdlavd7rylajlja"
-  },
-  {
     "id": "4a6f9772-e281-4ae8-ac8d-54e589b725be",
     "platform": "bluesky",
     "date": "2026-09-30T16:16:00.000Z",
@@ -163,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Museum of Islamic Art, Doha, Qatar 🇶🇦 \n\nFamous for I.M. Pei’s geometric design. Opened in 2008, it sits on a purpose-built island and holds 1,400 years of Islamic art. \n\nPei studied Islamic architecture for six months before designing it. \n\nWould you visit?\n\n#Travel #TravelPhotography #Qatar",
@@ -176,7 +150,10 @@
       "type": "image/jpeg",
       "size": 218362
     },
-    "createdAt": "2026-09-30T09:07:05.560Z"
+    "createdAt": "2026-09-30T09:07:05.560Z",
+    "postedAt": "2026-10-01T07:22:05.902Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwsd4xagft2w",
+    "cid": "bafyreiahgg7kekia6nkwr3gv4ggeq644ludqruzwlf6lwlftlo6w4ciqhe"
   },
   {
     "id": "6df796d2-071a-4492-aa77-ce4c723f865f",
@@ -186,8 +163,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Wall Pavilion, Zwinger, Dresden, Germany 🇩🇪\n\n Famous for its grand Baroque crown. \n\nBuilt in the 18th century. While beneath it, it’s easy to see why it was called it a masterpiece. \n\nWould you explore it?\n\n#Travel #TravelPhotography #Dresden #Germany",
@@ -199,6 +176,9 @@
       "type": "image/jpeg",
       "size": 264941
     },
-    "createdAt": "2026-09-30T09:12:09.656Z"
+    "createdAt": "2026-09-30T09:12:09.656Z",
+    "postedAt": "2026-10-01T07:22:07.225Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwsd4ykmwv2w",
+    "cid": "bafyreid2czbykr6newgqztlxtpgeetfjutzypoxubd74hv52ggrqnufnhu"
   }
 ]
