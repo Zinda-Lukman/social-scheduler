@@ -525,5 +525,28 @@
       "size": 307419
     },
     "createdAt": "2026-10-01T09:36:06.577Z"
+  },
+  {
+    "id": "f1e0744c-9c58-4281-b4ab-e5515514a8eb",
+    "platform": "bluesky",
+    "date": "2026-10-03T12:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Sultan Ahmed Mosque, Istanbul, Türkiye 🇹🇷 \n\nKnown as the Blue Mosque for its blue İznik tiles, it was completed in 1616 with six minarets and a vast central dome. \n\nAt sunset, its silhouette is unforgettable. Would you visit?\n\n\n#Travel #TravelPhotography #Istanbul #Turkey",
+    "thread": null,
+    "media": {
+      "path": "media/1790847815133-photo_5415828549530668830_y.jpg",
+      "sha": "75a92b3e2432180ad5e0d1bb96f89efd611ab2b3",
+      "name": "photo_5415828549530668830_y.jpg",
+      "type": "image/jpeg",
+      "size": 213099
+    },
+    "createdAt": "2026-10-01T09:43:40.143Z"
   }
 ]
