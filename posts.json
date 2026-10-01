@@ -295,5 +295,28 @@
       "size": 393500
     },
     "createdAt": "2026-10-01T08:28:02.800Z"
+  },
+  {
+    "id": "0e64015c-4d52-4595-9715-221ba4c490b3",
+    "platform": "bluesky",
+    "date": "2026-10-01T23:30:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Socotra Island, Yemen 🇾🇪 \n\nFamous for its umbrella-shaped dragon trees. \n\nTheir red sap inspired the name “dragon’s blood,” and many species here exist nowhere else. On a rocky ridge, they look almost otherworldly. \n\nWould you visit Socotra?\n\n#Travel #TravelPhotography #Yemen #Socotra",
+    "thread": null,
+    "media": {
+      "path": "media/1790843505382-photo_5314647581122481267_y.jpg",
+      "sha": "3d9193b8846758c6d9c5c4a25db46bec051807c5",
+      "name": "photo_5314647581122481267_y.jpg",
+      "type": "image/jpeg",
+      "size": 407396
+    },
+    "createdAt": "2026-10-01T08:31:53.494Z"
   }
 ]
