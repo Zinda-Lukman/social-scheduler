@@ -238,8 +238,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Rakotzbrücke, Kromlau, Saxony, Germany 🇩🇪 \n\nFamous for its near-perfect stone circle reflected in the water. \n\nBuilt in the 19th century, it was designed for the illusion.\n\nNo magic, just clever architecture and still water. Would you photograph it?\n\n#Travel #TravelPhotography #Germany #Saxony",
@@ -251,7 +251,10 @@
       "type": "image/jpeg",
       "size": 333040
     },
-    "createdAt": "2026-10-01T08:21:44.703Z"
+    "createdAt": "2026-10-01T08:21:44.703Z",
+    "postedAt": "2026-10-01T17:23:39.940Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwteqnadkb2x",
+    "cid": "bafyreihf7qoqk3plmmax4qlf2zo4onvdnb3orfg5iusnqrmfmfignvbon4"
   },
   {
     "id": "af5ceaff-ebae-48e6-9f40-5d5850b8e59c",
