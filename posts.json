@@ -617,5 +617,28 @@
       "size": 199608
     },
     "createdAt": "2026-10-01T10:44:21.509Z"
+  },
+  {
+    "id": "18d6d206-1f70-4e80-a1ea-b076efd16470",
+    "platform": "bluesky",
+    "date": "2026-10-04T04:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Twin Lagoon, Coron, Philippines 🇵🇭 \n\nTwo lagoons meet through a rocky opening, creating a striking mix of warm and cool water.\n\n Surrounded by towering limestone cliffs, it feels like a hidden tropical world. \n\nWould you swim here?\n\n\n#Travel #TravelPhotography #Philippines #Coron",
+    "thread": null,
+    "media": {
+      "path": "media/1790851851332-photo_5402516624814231027_y.jpg",
+      "sha": "535bbc5117b5ad0e97a94d3ea9cfd9065f5ff9a7",
+      "name": "photo_5402516624814231027_y.jpg",
+      "type": "image/jpeg",
+      "size": 314339
+    },
+    "createdAt": "2026-10-01T10:51:07.447Z"
   }
 ]
