@@ -364,5 +364,28 @@
       "size": 188577
     },
     "createdAt": "2026-10-01T08:40:18.859Z"
+  },
+  {
+    "id": "5286fed5-f2e9-4758-b64d-67e408d8716c",
+    "platform": "bluesky",
+    "date": "2026-10-01T08:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Giza Pyramid Complex, Egypt 🇪🇬 \n\nFamous for the Great Pyramid, the only surviving Ancient Wonder.\n\n Built over 4,500 years ago, the pyramids were royal tombs, while the Sphinx guards the plateau. \n\nStanding beside them must feel surreal. \n\nWould you go?\n\n#Travel #TravelPhotography #Egypt #Giza",
+    "thread": null,
+    "media": {
+      "path": "media/1790844191853-photo_5337100527684668191_y.jpg",
+      "sha": "9677876199deb44bdd57d9178d6f7eb951df2412",
+      "name": "photo_5337100527684668191_y.jpg",
+      "type": "image/jpeg",
+      "size": 71381
+    },
+    "createdAt": "2026-10-01T08:43:16.951Z"
   }
 ]
