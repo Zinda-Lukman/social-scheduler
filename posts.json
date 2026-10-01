@@ -272,5 +272,28 @@
       "size": 333040
     },
     "createdAt": "2026-10-01T08:21:44.703Z"
+  },
+  {
+    "id": "af5ceaff-ebae-48e6-9f40-5d5850b8e59c",
+    "platform": "bluesky",
+    "date": "2026-10-01T16:26:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Palisade Falls, Hyalite Canyon, Montana 🇺🇸 \n\nA 80m waterfall dropping over dramatic basalt cliffs. \n\nA short trail leads through pine forest to the falls, where the sound of rushing water hits before the view does. \n\nWould you hike to it?\n\n#Travel #TravelPhotography #Montana #Waterfalls",
+    "thread": null,
+    "media": {
+      "path": "media/1790843275048-photo_5305770519376808899_y.jpg",
+      "sha": "ee3ec56c5e6eff40a444b4fa1f9e363ed6f5bcad",
+      "name": "photo_5305770519376808899_y.jpg",
+      "type": "image/jpeg",
+      "size": 393500
+    },
+    "createdAt": "2026-10-01T08:28:02.800Z"
   }
 ]
