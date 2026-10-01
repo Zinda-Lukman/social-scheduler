@@ -52,32 +52,6 @@
     "cid": "bafyreielrkqn36lrveaeyh4fsry574gu735sjart3cuxk54xumzrbhw3ey"
   },
   {
-    "id": "62b8e227-e9e9-46ce-881b-6ef055e58b55",
-    "platform": "bluesky",
-    "date": "2026-09-30T09:22:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Jatiya Sangsad Bhaban, Bangladesh 🇧🇩\n\n Famous for Louis Kahn’s geometric design. \n\nBuilt 1962–82, surrounded by water, nine blocks form one striking structure, and daylight shapes the chamber. \n\nIt Feels  unreal in person \n\nWould you visit?\n\n#Travel #TravelPhotography #Bangladesh #Architecture",
-    "thread": null,
-    "media": {
-      "path": "media/1790756827308-photo_5224419037017131686_y.jpg",
-      "sha": "a5c94509ed0129748cab1653254b7e8d61e2a29e",
-      "name": "photo_5224419037017131686_y.jpg",
-      "type": "image/jpeg",
-      "size": 241625
-    },
-    "createdAt": "2026-09-30T08:27:14.238Z",
-    "postedAt": "2026-09-30T11:08:13.950Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwq7cfko572a",
-    "cid": "bafyreialmrq7rp4f22bgtf3vxyycb3komybb4ppkbta2vvoqfztiub3ohe"
-  },
-  {
     "id": "970c2f62-262e-4b5e-b03a-b6be5306e477",
     "platform": "bluesky",
     "date": "2026-09-30T14:16:00.000Z",
@@ -189,8 +163,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Geirangerfjord, Møre og \n\nRomsdal, Norway 🇳🇴 Famous for towering cliffs and waterfalls. \n\nA UNESCO World Heritage site, it stretches 15 km inland, with the Seven Sisters falling into the fjord. \n\nImagine seeing it from a boat, would you go?\n\n#Travel #TravelPhotography #Norway #Fjords",
@@ -202,7 +176,10 @@
       "type": "image/jpeg",
       "size": 211964
     },
-    "createdAt": "2026-10-01T07:34:38.744Z"
+    "createdAt": "2026-10-01T07:34:38.744Z",
+    "postedAt": "2026-10-01T11:14:47.594Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwsq52f6vh26",
+    "cid": "bafyreiclnmhghfe5vko7rkrsqixzrgenbw42lgosm7weoxd7y7tdeoms7a"
   },
   {
     "id": "b227c10f-4efb-471e-a2b1-95fa22bf1d44",
