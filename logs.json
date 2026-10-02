@@ -502,5 +502,13 @@
     "message": "Post 5286fed5-f2e9-4758-b64d-67e408d8716c published successfully.",
     "postId": "5286fed5-f2e9-4758-b64d-67e408d8716c",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-02T13:49:41.512Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
