@@ -446,5 +446,13 @@
     "message": "Post a03af4f9-9cbd-41e7-b7cf-ef11859bb179 published successfully.",
     "postId": "a03af4f9-9cbd-41e7-b7cf-ef11859bb179",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-02T07:06:04.607Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
