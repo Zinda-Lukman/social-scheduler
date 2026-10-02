@@ -1,31 +1,5 @@
 [
   {
-    "id": "bf2e56e8-32b0-4fc5-9479-d78e7547611c",
-    "platform": "bluesky",
-    "date": "2026-10-01T00:03:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Salar de Uyuni, Potosí, Bolivia 🇧🇴 \n\nFamous for its giant mirror. \n\n10,582 km² of salt, 3,656m high, ancient lakebed, lithium-rich brine. \n\nAfter rain, sky and ground seem to disappear into each other. \n\nWould you walk across this?\n\n#Travel #TravelPhotography #Bolivia",
-    "thread": null,
-    "media": {
-      "path": "media/1790758972834-photo_5240391887246969315_x.jpg",
-      "sha": "9f23e5559d0e011ed125bd48a81e5fe901977f3b",
-      "name": "photo_5240391887246969315_x.jpg",
-      "type": "image/jpeg",
-      "size": 58334
-    },
-    "createdAt": "2026-09-30T09:02:56.501Z",
-    "postedAt": "2026-10-01T02:04:18.899Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwrreppqe62a",
-    "cid": "bafyreifl2c7kne4cfu7i2yljm6pu2ypm2e2rhcfa4hsxq3z6x4jqh6t4fm"
-  },
-  {
     "id": "d5a42baa-1782-49db-84ca-48014d340545",
     "platform": "bluesky",
     "date": "2026-10-01T04:05:00.000Z",
@@ -238,8 +212,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Tuscan, Italy 🇮🇹 \n\nFamous for warm brick villas, rolling hills and cypress-lined roads. \n\nVineyards, olive groves and centuries-old farmhouses dot the landscape. It’s the kind of view that makes you slow down. \n\nWould you stay here for a week?\n\n#Travel #TravelPhotography #Tuscany #Italy",
@@ -251,7 +225,10 @@
       "type": "image/jpeg",
       "size": 147358
     },
-    "createdAt": "2026-10-01T08:34:23.974Z"
+    "createdAt": "2026-10-01T08:34:23.974Z",
+    "postedAt": "2026-10-02T06:38:58.450Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwur6rsemn2g",
+    "cid": "bafyreibwixs7lumysonba6vef5jkbibtntebksy6ws56gdpwoeecjp4us4"
   },
   {
     "id": "274cef5a-07a1-4e83-be43-9a19602fd876",
