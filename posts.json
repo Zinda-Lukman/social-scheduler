@@ -1,31 +1,5 @@
 [
   {
-    "id": "0e64015c-4d52-4595-9715-221ba4c490b3",
-    "platform": "bluesky",
-    "date": "2026-10-01T23:30:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Socotra Island, Yemen 🇾🇪 \n\nFamous for its umbrella-shaped dragon trees. \n\nTheir red sap inspired the name “dragon’s blood,” and many species here exist nowhere else. On a rocky ridge, they look almost otherworldly. \n\nWould you visit Socotra?\n\n#Travel #TravelPhotography #Yemen #Socotra",
-    "thread": null,
-    "media": {
-      "path": "media/1790843505382-photo_5314647581122481267_y.jpg",
-      "sha": "3d9193b8846758c6d9c5c4a25db46bec051807c5",
-      "name": "photo_5314647581122481267_y.jpg",
-      "type": "image/jpeg",
-      "size": 407396
-    },
-    "createdAt": "2026-10-01T08:31:53.494Z",
-    "postedAt": "2026-10-02T01:19:39.065Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwu7drapmm2q",
-    "cid": "bafyreib5msglje5epv2niuxz6qn6sce33jsfkxcxydachpfzh7nsbz3lnm"
-  },
-  {
     "id": "a03af4f9-9cbd-41e7-b7cf-ef11859bb179",
     "platform": "bluesky",
     "date": "2026-10-02T03:00:00.000Z",
@@ -163,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Pico do Areeiro, Madeira, Portugal 🇵🇹 \n\nAt 1,818m, it’s one of Madeira’s highest peaks. Rugged ridges rise above the clouds, creating an almost otherworldly view. \n\nOn clear days, the mountains seem to float in the sky. \n\nWould you hike here?\n\n#Travel #TravelPhotography #Madeira #Portugal",
@@ -176,7 +150,10 @@
       "type": "image/jpeg",
       "size": 87973
     },
-    "createdAt": "2026-10-01T09:08:48.452Z"
+    "createdAt": "2026-10-01T09:08:48.452Z",
+    "postedAt": "2026-10-03T01:26:36.917Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwwq75hzrq2l",
+    "cid": "bafyreib6d3dpcxuhs672hnzf4meg4pvq42oqacvqqyuhxhlz4dfonomiom"
   },
   {
     "id": "5552f28a-e833-48b5-9f6e-daee25f2c6b5",
