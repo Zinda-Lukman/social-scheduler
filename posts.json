@@ -1,57 +1,5 @@
 [
   {
-    "id": "274cef5a-07a1-4e83-be43-9a19602fd876",
-    "platform": "bluesky",
-    "date": "2026-10-02T14:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Golden Gate Bridge, San Francisco, USA 🇺🇸 \n\nFamous for its Orange towers and Art Deco lines. \n\nOpened in 1937, it spans 2.7 km across the strait, often wrapped in fog. \n\nSeeing the towers emerge from the mist is something else. \n\nEver crossed it?\n\n#Travel #TravelPhotography #SanFrancisco #USA",
-    "thread": null,
-    "media": {
-      "path": "media/1790844253573-photo_5337100527684668191_y.jpg",
-      "sha": "9677876199deb44bdd57d9178d6f7eb951df2412",
-      "name": "photo_5337100527684668191_y.jpg",
-      "type": "image/jpeg",
-      "size": 71381
-    },
-    "createdAt": "2026-10-01T08:40:18.859Z",
-    "postedAt": "2026-10-02T18:45:36.882Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwvzs4izcc2o",
-    "cid": "bafyreigva6uk226pfmlhlx4qou4qhjjf57aj7gvfqymgojtjam22kvdcpy"
-  },
-  {
-    "id": "dd3d207c-a340-47b6-a0e1-e3e04d28bced",
-    "platform": "bluesky",
-    "date": "2026-10-02T18:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Paphos Medieval Castle, Cyprus 🇨🇾 \n\nFamous for its stone tower at the harbor’s edge.\n\nBuilt as a fortress, rebuilt by the Ottomans, and once used as a prison and salt store.\n\nWith the sea behind it, the setting feels timeless. \n\nWould you explore it?\n\n#Travel #TravelPhotography #Cyprus #Paphos",
-    "thread": null,
-    "media": {
-      "path": "media/1790844805997-photo_5366601021658353187_y.jpg",
-      "sha": "7b4eebc4e70f7b858e43d70c886fce5064dbb127",
-      "name": "photo_5366601021658353187_y.jpg",
-      "type": "image/jpeg",
-      "size": 209938
-    },
-    "createdAt": "2026-10-01T08:53:35.002Z",
-    "postedAt": "2026-10-02T18:45:37.858Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwvzs4zmkc2o",
-    "cid": "bafyreihp4etxdmn2vslczpzfxjkp6ehbarhtphlxo4rl3uqolvsxaptktu"
-  },
-  {
     "id": "2e4cc853-ea3d-48a3-867f-57e183d8bbaa",
     "platform": "bluesky",
     "date": "2026-10-02T21:00:00.000Z",
@@ -241,8 +189,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Bahrain World Trade Center, Manama 🇧🇭 \n\nFamous for its twin sail-shaped towers and giant wind turbines built into the design. \n\nOpened in 2008, it was among the first skyscrapers to integrate wind power. \n\nWould you visit?\n\n#Travel #TravelPhotography #Bahrain #Manama",
@@ -254,7 +202,10 @@
       "type": "image/jpeg",
       "size": 218576
     },
-    "createdAt": "2026-10-01T10:37:59.975Z"
+    "createdAt": "2026-10-01T10:37:59.975Z",
+    "postedAt": "2026-10-03T19:23:59.935Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwymfny5vx27",
+    "cid": "bafyreieky2kvmqyyyjlyvjiqpidnjx2jrfjrr6od3mawh2hznbkcm3ltey"
   },
   {
     "id": "0626629b-2ace-449f-aff1-eed79b66c173",
