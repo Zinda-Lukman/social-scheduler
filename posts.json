@@ -215,8 +215,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Moraine Lake, Banff, Canada 🇨🇦 \n\nFamous for its vivid turquoise water, surrounded by the Valley of the Ten Peaks. \n\nFed by glacial melt, its color comes from fine rock flour in the water. \n\nThe view almost looks unreal. \n\nWould you visit?\n\n#Travel #TravelPhotography #Canada #Banff",
@@ -228,7 +228,10 @@
       "type": "image/jpeg",
       "size": 199608
     },
-    "createdAt": "2026-10-01T10:44:21.509Z"
+    "createdAt": "2026-10-01T10:44:21.509Z",
+    "postedAt": "2026-10-03T22:17:58.575Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwyw4qyamq2l",
+    "cid": "bafyreieyjbmhrvptidudlhqiqspeudaiw2gtnw6otqfqedqc62q7anm5oi"
   },
   {
     "id": "18d6d206-1f70-4e80-a1ea-b076efd16470",
