@@ -1,57 +1,5 @@
 [
   {
-    "id": "5552f28a-e833-48b5-9f6e-daee25f2c6b5",
-    "platform": "bluesky",
-    "date": "2026-10-03T03:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Hohensalzburg Fortress, Salzburg, Austria 🇦🇹 \n\nPerched above the city, this massive medieval fortress dates to 1077.\n\nIts towers overlook Salzburg, the Alps and the Salzach River.\n\nImagine waking up to that view every day.\n\nWould you explore it?\n\n#Travel #TravelPhotography #Austria #Salzburg",
-    "thread": null,
-    "media": {
-      "path": "media/1790845951605-photo_5381977631643256978_y.jpg",
-      "sha": "a2a7e416ed1294c33c4096372dcec1fa44e10790",
-      "name": "photo_5381977631643256978_y.jpg",
-      "type": "image/jpeg",
-      "size": 200271
-    },
-    "createdAt": "2026-10-01T09:12:37.660Z",
-    "postedAt": "2026-10-03T06:58:39.635Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwxcqv5fbf2q",
-    "cid": "bafyreigudas3vvgxeqyu2zyuzgxzm4eholf32rwktn7gvfjxji3xl6xvsy"
-  },
-  {
-    "id": "6c789d1e-e46a-42a0-9b7c-37343eb51c21",
-    "platform": "bluesky",
-    "date": "2026-10-03T06:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Vizcaya Bridge, Portugalete, Spain 🇪🇸\n\nKnown as the Puente Colgante, this 1893 bridge carries people and vehicles in a suspended gondola over the Nervión River.\n\nIt’s a UNESCO World Heritage site and still operates today.\n\nWould you cross it?\n\n#Travel #TravelPhotography #Spain #Vizcaya",
-    "thread": null,
-    "media": {
-      "path": "media/1790846455214-photo_5355192523368287190_y.jpg",
-      "sha": "16a83d65decef9e2118964ec4713a5639196f59a",
-      "name": "photo_5355192523368287190_y.jpg",
-      "type": "image/jpeg",
-      "size": 314550
-    },
-    "createdAt": "2026-10-01T09:21:01.836Z",
-    "postedAt": "2026-10-03T06:58:40.550Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwxcqw6ho52r",
-    "cid": "bafyreih4a2ocrs7d44iwq6wohxyuhqvw23i2bcujenysrj7bovh3wtcztq"
-  },
-  {
     "id": "371c9745-beb6-4b2e-b60d-9c3ea1cc38c7",
     "platform": "bluesky",
     "date": "2026-10-03T09:00:00.000Z",
@@ -189,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Twin Lagoon, Coron, Philippines 🇵🇭 \n\nTwo lagoons meet through a rocky opening, creating a striking mix of warm and cool water.\n\n Surrounded by towering limestone cliffs, it feels like a hidden tropical world. \n\nWould you swim here?\n\n\n#Travel #TravelPhotography #Philippines #Coron",
@@ -202,6 +150,9 @@
       "type": "image/jpeg",
       "size": 314339
     },
-    "createdAt": "2026-10-01T10:51:07.447Z"
+    "createdAt": "2026-10-01T10:51:07.447Z",
+    "postedAt": "2026-10-04T07:25:55.239Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwzuqknbrb2y",
+    "cid": "bafyreib5zxukrdr4jn5czqvbj53gnh7bd6zynnf2qieql2s6zqkfybxmra"
   }
 ]
