@@ -1,57 +1,5 @@
 [
   {
-    "id": "2e4cc853-ea3d-48a3-867f-57e183d8bbaa",
-    "platform": "bluesky",
-    "date": "2026-10-02T21:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Vacha Reservoir, Bulgaria 🇧🇬 \n\nTurquoise water winds through the forested Rhodope Mountains, creating one of Bulgaria’s most striking landscapes. \n\nFrom above, it almost looks like a river between the hills. \n\nWould you visit?\n\n#Travel #TravelPhotography #Bulgaria #Rhodope",
-    "thread": null,
-    "media": {
-      "path": "media/1790845348134-photo_5395336401567992278_y.jpg",
-      "sha": "54ba5a4828ceba508a4ce2e778980e43223e783c",
-      "name": "photo_5395336401567992278_y.jpg",
-      "type": "image/jpeg",
-      "size": 204552
-    },
-    "createdAt": "2026-10-01T09:01:47.145Z",
-    "postedAt": "2026-10-02T22:37:03.916Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwwgpxn2bd2y",
-    "cid": "bafyreie64doifgblkrvcnkjyh4pg62qrhajf2dnjc5ek3mrlcudwoh2hby"
-  },
-  {
-    "id": "724b949f-8b50-4d43-9d38-97289301ee57",
-    "platform": "bluesky",
-    "date": "2026-10-03T00:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Pico do Areeiro, Madeira, Portugal 🇵🇹 \n\nAt 1,818m, it’s one of Madeira’s highest peaks. Rugged ridges rise above the clouds, creating an almost otherworldly view. \n\nOn clear days, the mountains seem to float in the sky. \n\nWould you hike here?\n\n#Travel #TravelPhotography #Madeira #Portugal",
-    "thread": null,
-    "media": {
-      "path": "media/1790845724557-photo_5388831622058594827_y.jpg",
-      "sha": "a5f20f96a1b555a93c1746e3bd0b8033f92c85c3",
-      "name": "photo_5388831622058594827_y.jpg",
-      "type": "image/jpeg",
-      "size": 87973
-    },
-    "createdAt": "2026-10-01T09:08:48.452Z",
-    "postedAt": "2026-10-03T01:26:36.917Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwwq75hzrq2l",
-    "cid": "bafyreib6d3dpcxuhs672hnzf4meg4pvq42oqacvqqyuhxhlz4dfonomiom"
-  },
-  {
     "id": "5552f28a-e833-48b5-9f6e-daee25f2c6b5",
     "platform": "bluesky",
     "date": "2026-10-03T03:00:00.000Z",
