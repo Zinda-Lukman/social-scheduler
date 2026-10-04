@@ -1,57 +1,5 @@
 [
   {
-    "id": "371c9745-beb6-4b2e-b60d-9c3ea1cc38c7",
-    "platform": "bluesky",
-    "date": "2026-10-03T09:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Rajgad Fort, Maharashtra, India 🇮🇳\n\nRising above the Western Ghats, this 17th-century hill fort was once the capital of Shivaji Maharaj’s kingdom.\n\nIts massive walls, steep cliffs and mountain views make the climb unforgettable.\n\nWould you hike up?\n\n#Travel #TravelPhotography #India #Rajgad",
-    "thread": null,
-    "media": {
-      "path": "media/1790847359359-photo_5420346030492341618_y.jpg",
-      "sha": "70c48ee142a52158d5bac06d6d51bf98db699348",
-      "name": "photo_5420346030492341618_y.jpg",
-      "type": "image/jpeg",
-      "size": 307419
-    },
-    "createdAt": "2026-10-01T09:36:06.577Z",
-    "postedAt": "2026-10-03T12:25:58.410Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwxv26cnde2o",
-    "cid": "bafyreidznpbqqb252xqvgzd5iuwav6mm55m6plwtc6pwusrum36s3625ky"
-  },
-  {
-    "id": "f1e0744c-9c58-4281-b4ab-e5515514a8eb",
-    "platform": "bluesky",
-    "date": "2026-10-03T12:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Sultan Ahmed Mosque, Istanbul, Türkiye 🇹🇷 \n\nKnown as the Blue Mosque for its blue İznik tiles, it was completed in 1616 with six minarets and a vast central dome. \n\nAt sunset, its silhouette is unforgettable. Would you visit?\n\n\n#Travel #TravelPhotography #Istanbul #Turkey",
-    "thread": null,
-    "media": {
-      "path": "media/1790847815133-photo_5415828549530668830_y.jpg",
-      "sha": "75a92b3e2432180ad5e0d1bb96f89efd611ab2b3",
-      "name": "photo_5415828549530668830_y.jpg",
-      "type": "image/jpeg",
-      "size": 213099
-    },
-    "createdAt": "2026-10-01T09:43:40.143Z",
-    "postedAt": "2026-10-03T12:25:59.306Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mwxv276hzh2w",
-    "cid": "bafyreidvv4aniey5cu7ezcauheomq5kzpwtopgtykceqvt6tm4ebxkzka4"
-  },
-  {
     "id": "ec309bd4-5809-4b81-9799-16b397bf5a38",
     "platform": "bluesky",
     "date": "2026-10-03T15:00:00.000Z",
