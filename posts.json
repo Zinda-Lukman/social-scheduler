@@ -136,5 +136,28 @@
       "size": 134927
     },
     "createdAt": "2026-10-08T08:18:48.798Z"
+  },
+  {
+    "id": "9dcfe0fa-a2c7-44a0-9143-a87942a9215a",
+    "platform": "bluesky",
+    "date": "2026-10-09T10:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Tegallalang Rice Terraces, Bali 🇮🇩\n\nFamous for lush green rice fields carved into steep hillsides.\n\nFarmers use subak irrigation, a system shaped by Balinese culture for centuries. \n\nThe layered terraces look incredible from above.\n\nWould you visit?\n\n#Travel #TravelPhotography #Bali #Indonesia",
+    "thread": null,
+    "media": {
+      "path": "media/1791447706357-photo_5467665605042754394_y.jpg",
+      "sha": "36d44a789e04e8349e5c837d00b02f3d9434a857",
+      "name": "photo_5467665605042754394_y.jpg",
+      "type": "image/jpeg",
+      "size": 280137
+    },
+    "createdAt": "2026-10-08T08:21:50.586Z"
   }
 ]
