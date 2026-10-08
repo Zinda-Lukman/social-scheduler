@@ -67,5 +67,28 @@
       "size": 159020
     },
     "createdAt": "2026-10-08T08:05:35.530Z"
+  },
+  {
+    "id": "d568106e-ca5f-4985-bd3b-939052677b28",
+    "platform": "bluesky",
+    "date": "2026-10-08T21:07:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Fjaðrárgljúfur Canyon, Iceland 🇮🇸\n\nMoss-covered cliffs rise above a winding river in this dramatic canyon, carved by water over thousands of years. \n\nIts twisting shape makes every viewpoint look different.\n\nWould you hike through it?\n\n#Travel #TravelPhotography #Iceland #Fjadrargljufur",
+    "thread": null,
+    "media": {
+      "path": "media/1791446908901-photo_5443055519746084611_y.jpg",
+      "sha": "917de51ba1a7b9b4a5813637945cf0fab87fbd14",
+      "name": "photo_5443055519746084611_y.jpg",
+      "type": "image/jpeg",
+      "size": 189590
+    },
+    "createdAt": "2026-10-08T08:08:32.727Z"
   }
 ]
