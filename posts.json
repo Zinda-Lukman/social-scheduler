@@ -343,5 +343,28 @@
       "size": 189031
     },
     "createdAt": "2026-10-08T09:20:05.431Z"
+  },
+  {
+    "id": "ba0f1fa8-d5d0-4d5b-a4b3-399f5b1497b4",
+    "platform": "bluesky",
+    "date": "2026-10-11T12:21:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 OCBC Skyway, Gardens by the Bay, Singapore🇸🇬\n\nA 128m-long aerial walkway connects the giant Supertrees, about 22m above the ground.\n\nBy day it overlooks the gardens; after dark, the Supertrees light up around you.\n\nWould you walk it?\n\n#Travel #TravelPhotography #Singapore #GardensByTheBay",
+    "thread": null,
+    "media": {
+      "path": "media/1791451350387-photo_5210969660462321841_y.jpg",
+      "sha": "9dc3fe1f62bfc81626bd57bc74dd0caa9f95743c",
+      "name": "photo_5210969660462321841_y.jpg",
+      "type": "image/jpeg",
+      "size": 337290
+    },
+    "createdAt": "2026-10-08T09:22:36.342Z"
   }
 ]
