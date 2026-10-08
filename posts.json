@@ -297,5 +297,28 @@
       "size": 239702
     },
     "createdAt": "2026-10-08T08:55:56.841Z"
+  },
+  {
+    "id": "6242bbe3-55fe-4fe0-8191-bf6c04797496",
+    "platform": "bluesky",
+    "date": "2026-10-10T17:12:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Plitvice Lakes National Park, Croatia🇭🇷\n\nFamous for lakes, waterfalls and wooden walkways through lush forest.\n\nSixteen interconnected lakes cascade into each other, shaped by natural limestone barriers.\n\nWould you wander through this landscape?\n\n#Travel #TravelPhotography #Croatia #Plitvice",
+    "thread": null,
+    "media": {
+      "path": "media/1791450863759-photo_5204039846694340813_y.jpg",
+      "sha": "219d407ce08c61048c461b3036720cecc1641592",
+      "name": "photo_5204039846694340813_y.jpg",
+      "type": "image/jpeg",
+      "size": 407548
+    },
+    "createdAt": "2026-10-08T09:14:29.147Z"
   }
 ]
