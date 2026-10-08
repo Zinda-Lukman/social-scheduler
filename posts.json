@@ -205,5 +205,28 @@
       "size": 270817
     },
     "createdAt": "2026-10-08T08:34:05.028Z"
+  },
+  {
+    "id": "f9e4bae1-25f0-4aa4-9fb2-0ebc0aa4d655",
+    "platform": "bluesky",
+    "date": "2026-10-08T09:36:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "draft",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Manhattan Bridge, Brooklyn, NYC 🇺🇸 \n\nFramed by red-brick buildings on Washington Street, its steel towers create one of New York’s most recognizable views. \n\nThe Empire State Building appears perfectly between the arches. \n\nWould you take this photo?\n\n#Travel #TravelPhotography #NYC #Brooklyn",
+    "thread": null,
+    "media": {
+      "path": "media/1791448628420-photo_5474393894650236464_y.jpg",
+      "sha": "c4f91d34253bbe04d97ae15978a7398f5e67cc1f",
+      "name": "photo_5474393894650236464_y.jpg",
+      "type": "image/jpeg",
+      "size": 270817
+    },
+    "createdAt": "2026-10-08T08:37:13.086Z"
   }
 ]
