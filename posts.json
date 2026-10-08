@@ -274,5 +274,28 @@
       "size": 197899
     },
     "createdAt": "2026-10-08T08:50:00.095Z"
+  },
+  {
+    "id": "3283f635-7ea5-4a65-99d0-0ef223f681fa",
+    "platform": "bluesky",
+    "date": "2026-10-10T13:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Glen Coe, Scottish Highlands 🏴 \n\nFamous for mountains, deep valleys and winding roads.\n\nShaped by glaciers and volcanic activity, the landscape feels vast and wild.\n\n One of Scotland’s most recognizable Highland views.\n\nWould you drive through it?\n\n#Travel #TravelPhotography #Scotland #GlenCoe",
+    "thread": null,
+    "media": {
+      "path": "media/1791449752292-photo_5206466060834951859_y.jpg",
+      "sha": "7086fede88709b547eab269ce1d2ac9fee906930",
+      "name": "photo_5206466060834951859_y.jpg",
+      "type": "image/jpeg",
+      "size": 239702
+    },
+    "createdAt": "2026-10-08T08:55:56.841Z"
   }
 ]
