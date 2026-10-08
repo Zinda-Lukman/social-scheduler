@@ -159,5 +159,28 @@
       "size": 280137
     },
     "createdAt": "2026-10-08T08:21:50.586Z"
+  },
+  {
+    "id": "0d9e102e-a070-407d-8590-0df0aadfbda5",
+    "platform": "bluesky",
+    "date": "2026-10-09T15:30:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Place de la Bourse, Bordeaux, France 🇫🇷 \n\nIts grand 18th-century façades reflect in the Miroir d’eau, the world’s largest reflecting pool. \n\nWhen the water turns to mist, the square takes on a completely different look. \n\nWould you visit?\n\n#Travel #TravelPhotography #Bordeaux #France",
+    "thread": null,
+    "media": {
+      "path": "media/1791448273853-photo_5188475924595724400_y.jpg",
+      "sha": "8c00ffff81bb770c65e7afea66b69d01e4fcec5c",
+      "name": "photo_5188475924595724400_y.jpg",
+      "type": "image/jpeg",
+      "size": 147160
+    },
+    "createdAt": "2026-10-08T08:31:17.797Z"
   }
 ]
