@@ -251,5 +251,28 @@
       "size": 165771
     },
     "createdAt": "2026-10-08T08:47:32.240Z"
+  },
+  {
+    "id": "b172b03d-3785-4429-a5fd-6ca900ad0b26",
+    "platform": "bluesky",
+    "date": "2026-10-10T09:23:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Taipei, Taiwan 🇹🇼 \n\nHighways weave through the city beside the river, with Taipei’s mountains rising beyond. \n\nIt’s a striking mix of dense urban life, water and green hills, all in one view.\n\n Would you explore Taipei this way?\n\n#Travel #TravelPhotography #Taipei #Taiwan",
+    "thread": null,
+    "media": {
+      "path": "media/1791449395781-photo_5217574710278212763_y.jpg",
+      "sha": "0012dfe0ccd80965d23cde9791fe0cec9eafa520",
+      "name": "photo_5217574710278212763_y.jpg",
+      "type": "image/jpeg",
+      "size": 197899
+    },
+    "createdAt": "2026-10-08T08:50:00.095Z"
   }
 ]
