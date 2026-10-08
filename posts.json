@@ -44,5 +44,28 @@
       "size": 194011
     },
     "createdAt": "2026-10-08T08:00:06.577Z"
+  },
+  {
+    "id": "22b06c16-3e9e-4087-9d2f-08de2c382329",
+    "platform": "bluesky",
+    "date": "2026-10-08T18:04:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "draft",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Hong Kong–Zhuhai–Macau Bridge 🇭🇰🇨🇳🇲🇴 \n\nFamous for its huge scale: 55 km of bridges, tunnels and artificial islands connect Hong Kong, Zhuhai and Macau. \n\nOpened in 2018, it crosses the Pearl River estuary. \n\nWould you drive across it?\n\n#Travel #TravelPhotography #China #HongKong",
+    "thread": null,
+    "media": {
+      "path": "media/1791446731645-photo_5440594477715673074_y.jpg",
+      "sha": "81267961416b8e2ec9076fe877982d299b4433c7",
+      "name": "photo_5440594477715673074_y.jpg",
+      "type": "image/jpeg",
+      "size": 159020
+    },
+    "createdAt": "2026-10-08T08:05:35.530Z"
   }
 ]
