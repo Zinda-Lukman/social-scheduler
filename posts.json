@@ -228,5 +228,28 @@
       "size": 270817
     },
     "createdAt": "2026-10-08T08:37:13.086Z"
+  },
+  {
+    "id": "cbc2282a-067d-431a-ad59-1e890aec6bf6",
+    "platform": "bluesky",
+    "date": "2026-10-10T03:33:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Èze, French Riviera, France 🇫🇷 \n\nFamous for its medieval lanes perched high above the Mediterranean. \n\nStone houses, narrow passages and sea views fill the old village, while the exotic garden crowns the hilltop.\n\nWould you wander these streets?\n\n#Travel #TravelPhotography #France #Eze",
+    "thread": null,
+    "media": {
+      "path": "media/1791449248431-photo_5197601875401231476_y.jpg",
+      "sha": "b34b90b116e126c0732cbd587a208a87363e1aa6",
+      "name": "photo_5197601875401231476_y.jpg",
+      "type": "image/jpeg",
+      "size": 165771
+    },
+    "createdAt": "2026-10-08T08:47:32.240Z"
   }
 ]
