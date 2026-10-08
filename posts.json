@@ -320,5 +320,28 @@
       "size": 407548
     },
     "createdAt": "2026-10-08T09:14:29.147Z"
+  },
+  {
+    "id": "336e26ee-bf52-4802-a2e0-ec30e21bd39d",
+    "platform": "bluesky",
+    "date": "2026-10-10T20:57:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Nejmeh Square, Beirut, Lebanon🇱🇧\n\nFamous for its clock tower and historic Mandate-era architecture.\n\nThe square sits in the heart of downtown, surrounded by stone buildings and cafés.\n\nAt its center, the clock tower is hard to miss.\n\nWould you visit?\n#Travel #TravelPhotography #Beirut #Lebanon",
+    "thread": null,
+    "media": {
+      "path": "media/1791451196676-photo_5213008459962896249_y.jpg",
+      "sha": "645c40c94e28c834c0e028882537c58219c4bda4",
+      "name": "photo_5213008459962896249_y.jpg",
+      "type": "image/jpeg",
+      "size": 189031
+    },
+    "createdAt": "2026-10-08T09:20:05.431Z"
   }
 ]
