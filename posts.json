@@ -90,5 +90,28 @@
       "size": 189590
     },
     "createdAt": "2026-10-08T08:08:32.727Z"
+  },
+  {
+    "id": "06d29d09-3ba1-4ae5-829f-9fbadf8822c5",
+    "platform": "bluesky",
+    "date": "2026-10-09T03:13:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Azat Reservoir, Armenia 🇦🇲\n\n Nestled below the Yeranos Mountains, its deep blue water contrasts with the rugged landscape. \n\nThe reservoir lies near the famous Khosrov Forest and Mount Ararat can be seen from nearby viewpoints. \n\nWould you visit?\n\n#Travel #TravelPhotography #Armenia #Azat",
+    "thread": null,
+    "media": {
+      "path": "media/1791447251421-photo_5449847692697128327_y.jpg",
+      "sha": "c70d9c64b579570dbbf8ab2519727c06b06d595a",
+      "name": "photo_5449847692697128327_y.jpg",
+      "type": "image/jpeg",
+      "size": 188727
+    },
+    "createdAt": "2026-10-08T08:14:15.455Z"
   }
 ]
