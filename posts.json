@@ -113,5 +113,28 @@
       "size": 188727
     },
     "createdAt": "2026-10-08T08:14:15.455Z"
+  },
+  {
+    "id": "df9361d0-808a-45f6-9d44-e7b0353b5273",
+    "platform": "bluesky",
+    "date": "2026-10-09T07:18:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Toronto skyline, Canada 🇨🇦\n\n Dominated by the iconic CN Tower, once the world’s tallest free-standing structure. \n\nRising 553m above the city, it still defines Toronto’s skyline.\n\n At sunset, the tower seems to glow above the rooftops.\n\nWould you visit?\n#Travel #TravelPhotography #Toronto #Cana",
+    "thread": null,
+    "media": {
+      "path": "media/1791447524949-photo_5456149844239438519_y.jpg",
+      "sha": "6cd275a3a8f326b6847ea197598609694f33194c",
+      "name": "photo_5456149844239438519_y.jpg",
+      "type": "image/jpeg",
+      "size": 134927
+    },
+    "createdAt": "2026-10-08T08:18:48.798Z"
   }
 ]
