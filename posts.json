@@ -137,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Toronto skyline, Canada 🇨🇦\n\n Dominated by the iconic CN Tower, once the world’s tallest free-standing structure.\n\nRising 553m above the city, it still defines Toronto’s skyline.\n\nAt sunset, the tower seems to glow above the rooftops.\n\nWould you visit?\n#Travel #TravelPhotography #Toronto #Canada",
@@ -150,7 +150,10 @@
       "type": "image/jpeg",
       "size": 280137
     },
-    "createdAt": "2026-10-08T08:18:48.798Z"
+    "createdAt": "2026-10-08T08:18:48.798Z",
+    "postedAt": "2026-10-09T13:09:43.662Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxh2bwoxvs2l",
+    "cid": "bafyreia3peywnvsp7tlxie7cdg7xqcrsuxrky6oigqsw2c4ixymuyay4ja"
   },
   {
     "id": "9dcfe0fa-a2c7-44a0-9143-a87942a9215a",
@@ -160,8 +163,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Tegallalang Rice Terraces, Bali 🇮🇩\n\nFamous for lush green rice fields carved into steep hillsides.\n\nFarmers use subak irrigation, a system shaped by Balinese culture for centuries. \n\nThe layered terraces look incredible from above.\n\nWould you visit?\n\n#Travel #TravelPhotography #Bali #Indonesia",
@@ -173,7 +176,10 @@
       "type": "image/jpeg",
       "size": 280137
     },
-    "createdAt": "2026-10-08T08:21:50.586Z"
+    "createdAt": "2026-10-08T08:21:50.586Z",
+    "postedAt": "2026-10-09T13:09:44.296Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxh2bxqdrf2q",
+    "cid": "bafyreid4hmgug6erjafzvno5gogosnw4od5ao7migk2e5cgzsuvx7nfzxq"
   },
   {
     "id": "0d9e102e-a070-407d-8590-0df0aadfbda5",
