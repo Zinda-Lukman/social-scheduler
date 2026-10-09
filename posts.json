@@ -1,31 +1,5 @@
 [
   {
-    "id": "0a646f1a-3403-478f-a3b0-481530e2645e",
-    "platform": "bluesky",
-    "date": "2026-10-08T12:03:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Santamaría Bullring, Bogotá, Colombia 🇨🇴 \n\nBuilt in 1931, this striking Moorish-style arena is one of Bogotá’s best-known historic landmarks. \n\nIts red-brick façade and horseshoe arches stand out in the city. \n\nWould you visit?\n\n#Travel #TravelPhotography #Bogota #Colombia",
-    "thread": null,
-    "media": {
-      "path": "media/1791446053717-photo_5429354544007073070_y.jpg",
-      "sha": "1534b3b8c7b8da542c7a1d77d9882e780fb25a54",
-      "name": "photo_5429354544007073070_y.jpg",
-      "type": "image/jpeg",
-      "size": 388502
-    },
-    "createdAt": "2026-10-08T07:54:18.322Z",
-    "postedAt": "2026-10-08T14:03:35.544Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxemtdeotr2e",
-    "cid": "bafyreidke6w6lhn4u4oc7275lq7rlbdk3o3zmhzm5s5ondlya7h7yn5hha"
-  },
-  {
     "id": "cd6d0f53-ec58-427f-93b3-fb17628fe9f2",
     "platform": "bluesky",
     "date": "2026-10-08T15:03:00.000Z",
@@ -189,8 +163,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Place de la Bourse, Bordeaux, France 🇫🇷 \n\nIts grand 18th-century façades reflect in the Miroir d’eau, the world’s largest reflecting pool. \n\nWhen the water turns to mist, the square takes on a completely different look. \n\nWould you visit?\n\n#Travel #TravelPhotography #Bordeaux #France",
@@ -202,7 +176,10 @@
       "type": "image/jpeg",
       "size": 147160
     },
-    "createdAt": "2026-10-08T08:31:17.797Z"
+    "createdAt": "2026-10-08T08:31:17.797Z",
+    "postedAt": "2026-10-09T18:49:21.559Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxhnbajd6d2r",
+    "cid": "bafyreibwi6ms72dpb5by2nwxxdthvmiuphp3lsescxhtddree7bl3h3zga"
   },
   {
     "id": "9d0f9a2f-4649-4ff1-9770-85f3b61bf3a8",
