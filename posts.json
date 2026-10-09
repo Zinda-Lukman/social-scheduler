@@ -1,57 +1,5 @@
 [
   {
-    "id": "cd6d0f53-ec58-427f-93b3-fb17628fe9f2",
-    "platform": "bluesky",
-    "date": "2026-10-08T15:03:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Mann Island & Port of Liverpool, England 🇬🇧\n\nBlack-clad Mann Island buildings meet the grand 1907 Port of Liverpool Building along the Mersey.\n\nTogether, they create one of Liverpool’s most striking waterfront views.\n\nWould you explore it?\n#Travel #TravelPhotography #Liverpool #England",
-    "thread": null,
-    "media": {
-      "path": "media/1791446399829-photo_5435989890522272240_y.jpg",
-      "sha": "8b7c4530f737434991c9cd44241074105824d709",
-      "name": "photo_5435989890522272240_y.jpg",
-      "type": "image/jpeg",
-      "size": 194011
-    },
-    "createdAt": "2026-10-08T08:00:06.577Z",
-    "postedAt": "2026-10-08T19:53:22.847Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxfaesdg4z2o",
-    "cid": "bafyreidgr6g3nvngttzgamq4gfei56eyfbdm2uibwgkg77s364z5q5dkha"
-  },
-  {
-    "id": "22b06c16-3e9e-4087-9d2f-08de2c382329",
-    "platform": "bluesky",
-    "date": "2026-10-08T18:04:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Hong Kong–Zhuhai–Macau Bridge 🇭🇰🇨🇳🇲🇴 \n\nFamous for its huge scale: 55 km of bridges, tunnels and artificial islands connect Hong Kong, Zhuhai and Macau. \n\nOpened in 2018, it crosses the Pearl River estuary. \n\nWould you drive across it?\n\n#Travel #TravelPhotography #China #HongKong",
-    "thread": null,
-    "media": {
-      "path": "media/1791446763460-photo_5440594477715673074_y.jpg",
-      "sha": "81267961416b8e2ec9076fe877982d299b4433c7",
-      "name": "photo_5440594477715673074_y.jpg",
-      "type": "image/jpeg",
-      "size": 159020
-    },
-    "createdAt": "2026-10-08T08:05:35.530Z",
-    "postedAt": "2026-10-08T19:53:23.657Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxfaet7jo32w",
-    "cid": "bafyreic7cxyil4bm7cwmtcdmee24ljbk7xy6r4y7sfdrrnuspodxbuzd3y"
-  },
-  {
     "id": "d568106e-ca5f-4985-bd3b-939052677b28",
     "platform": "bluesky",
     "date": "2026-10-08T21:07:00.000Z",
@@ -215,8 +163,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Manhattan Bridge, Brooklyn, NYC 🇺🇸 \n\nFramed by red-brick buildings on Washington Street, its steel towers create one of New York’s most recognizable views. \n\nThe Empire State Building appears perfectly between the arches. \n\nWould you take this photo?\n\n#Travel #TravelPhotography #NYC #Brooklyn",
@@ -228,7 +176,10 @@
       "type": "image/jpeg",
       "size": 270817
     },
-    "createdAt": "2026-10-08T08:37:13.086Z"
+    "createdAt": "2026-10-08T08:37:13.086Z",
+    "postedAt": "2026-10-09T22:56:46.756Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxi33oi6ij2l",
+    "cid": "bafyreib256wuyeomb5ts5q6eorom4nmztoedcvcvbjifxcsdwwguptpapa"
   },
   {
     "id": "cbc2282a-067d-431a-ad59-1e890aec6bf6",
