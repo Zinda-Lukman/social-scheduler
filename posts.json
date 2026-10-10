@@ -1,31 +1,5 @@
 [
   {
-    "id": "0d9e102e-a070-407d-8590-0df0aadfbda5",
-    "platform": "bluesky",
-    "date": "2026-10-09T15:30:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Place de la Bourse, Bordeaux, France 🇫🇷 \n\nIts grand 18th-century façades reflect in the Miroir d’eau, the world’s largest reflecting pool. \n\nWhen the water turns to mist, the square takes on a completely different look. \n\nWould you visit?\n\n#Travel #TravelPhotography #Bordeaux #France",
-    "thread": null,
-    "media": {
-      "path": "media/1791448273853-photo_5188475924595724400_y.jpg",
-      "sha": "8c00ffff81bb770c65e7afea66b69d01e4fcec5c",
-      "name": "photo_5188475924595724400_y.jpg",
-      "type": "image/jpeg",
-      "size": 147160
-    },
-    "createdAt": "2026-10-08T08:31:17.797Z",
-    "postedAt": "2026-10-09T18:49:21.559Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxhnbajd6d2r",
-    "cid": "bafyreibwi6ms72dpb5by2nwxxdthvmiuphp3lsescxhtddree7bl3h3zga"
-  },
-  {
     "id": "f9e4bae1-25f0-4aa4-9fb2-0ebc0aa4d655",
     "platform": "bluesky",
     "date": "2026-10-09T21:20:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Plitvice Lakes National Park, Croatia🇭🇷\n\nFamous for lakes, waterfalls and wooden walkways through lush forest.\n\nSixteen interconnected lakes cascade into each other, shaped by natural limestone barriers.\n\nWould you wander through this landscape?\n\n#Travel #TravelPhotography #Croatia #Plitvice",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 407548
     },
-    "createdAt": "2026-10-08T09:14:29.147Z"
+    "createdAt": "2026-10-08T09:14:29.147Z",
+    "postedAt": "2026-10-10T18:54:27.117Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxk5zbgtrv2r",
+    "cid": "bafyreiavib5pnsk7whraietejmtahpa4wrhnp6d5p7dtkksiynlezfvw4q"
   },
   {
     "id": "336e26ee-bf52-4802-a2e0-ec30e21bd39d",
