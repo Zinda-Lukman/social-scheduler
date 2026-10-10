@@ -1,31 +1,5 @@
 [
   {
-    "id": "06d29d09-3ba1-4ae5-829f-9fbadf8822c5",
-    "platform": "bluesky",
-    "date": "2026-10-09T03:13:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Azat Reservoir, Armenia 🇦🇲\n\n Nestled below the Yeranos Mountains, its deep blue water contrasts with the rugged landscape. \n\nThe reservoir lies near the famous Khosrov Forest and Mount Ararat can be seen from nearby viewpoints. \n\nWould you visit?\n\n#Travel #TravelPhotography #Armenia #Azat",
-    "thread": null,
-    "media": {
-      "path": "media/1791447251421-photo_5449847692697128327_y.jpg",
-      "sha": "c70d9c64b579570dbbf8ab2519727c06b06d595a",
-      "name": "photo_5449847692697128327_y.jpg",
-      "type": "image/jpeg",
-      "size": 188727
-    },
-    "createdAt": "2026-10-08T08:14:15.455Z",
-    "postedAt": "2026-10-09T06:04:56.439Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxgcke2btf2l",
-    "cid": "bafyreic5vbumdza2w6vx362tyo5l2svszyvy3ccpssxug76vgdh6le57gm"
-  },
-  {
     "id": "df9361d0-808a-45f6-9d44-e7b0353b5273",
     "platform": "bluesky",
     "date": "2026-10-09T07:18:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Èze, French Riviera, France 🇫🇷 \n\nFamous for its medieval lanes perched high above the Mediterranean. \n\nStone houses, narrow passages and sea views fill the old village, while the exotic garden crowns the hilltop.\n\nWould you wander these streets?\n\n#Travel #TravelPhotography #France #Eze",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 165771
     },
-    "createdAt": "2026-10-08T08:47:32.240Z"
+    "createdAt": "2026-10-08T08:47:32.240Z",
+    "postedAt": "2026-10-10T08:34:36.549Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxj3evnxvx27",
+    "cid": "bafyreidfqgljsvyzgjtoxs36szxv25rcemyvrzcawwxuj3bc4kzgyr5whu"
   },
   {
     "id": "b172b03d-3785-4429-a5fd-6ca900ad0b26",
