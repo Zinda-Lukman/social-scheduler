@@ -1,31 +1,5 @@
 [
   {
-    "id": "d568106e-ca5f-4985-bd3b-939052677b28",
-    "platform": "bluesky",
-    "date": "2026-10-08T21:07:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Fjaðrárgljúfur Canyon, Iceland 🇮🇸\n\nMoss-covered cliffs rise above a winding river in this dramatic canyon, carved by water over thousands of years. \n\nIts twisting shape makes every viewpoint look different.\n\nWould you hike through it?\n\n#Travel #TravelPhotography #Iceland #Fjadrargljufur",
-    "thread": null,
-    "media": {
-      "path": "media/1791446908901-photo_5443055519746084611_y.jpg",
-      "sha": "917de51ba1a7b9b4a5813637945cf0fab87fbd14",
-      "name": "photo_5443055519746084611_y.jpg",
-      "type": "image/jpeg",
-      "size": 189590
-    },
-    "createdAt": "2026-10-08T08:08:32.727Z",
-    "postedAt": "2026-10-09T00:07:19.835Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxfokvl6zl2r",
-    "cid": "bafyreigf42wvti2b3ut2mz53pk2hux2ogom3rq7rmuondhxqjwpeefehty"
-  },
-  {
     "id": "06d29d09-3ba1-4ae5-829f-9fbadf8822c5",
     "platform": "bluesky",
     "date": "2026-10-09T03:13:00.000Z",
@@ -128,32 +102,6 @@
     "postedAt": "2026-10-09T18:49:21.559Z",
     "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxhnbajd6d2r",
     "cid": "bafyreibwi6ms72dpb5by2nwxxdthvmiuphp3lsescxhtddree7bl3h3zga"
-  },
-  {
-    "id": "9d0f9a2f-4649-4ff1-9770-85f3b61bf3a8",
-    "platform": "bluesky",
-    "date": "2026-10-08T21:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Manhattan Bridge, Brooklyn, NYC 🇺🇸 \n\nFramed by red-brick buildings on Washington Street, its steel towers create one of New York’s most recognizable views. \n\nThe Empire State Building appears perfectly between the arches. \n\nWould you take this photo?\n\n#Travel #TravelPhotography #NYC #Brooklyn",
-    "thread": null,
-    "media": {
-      "path": "media/1791448570365-photo_5474393894650236464_y.jpg",
-      "sha": "c4f91d34253bbe04d97ae15978a7398f5e67cc1f",
-      "name": "photo_5474393894650236464_y.jpg",
-      "type": "image/jpeg",
-      "size": 270817
-    },
-    "createdAt": "2026-10-08T08:34:05.028Z",
-    "postedAt": "2026-10-09T00:07:20.609Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxfokwc7uc2w",
-    "cid": "bafyreieid4rijv4j5kbyyk6fqh2lgpez5z6iha6qxvbvlpjm3g2bmshnsq"
   },
   {
     "id": "f9e4bae1-25f0-4aa4-9fb2-0ebc0aa4d655",
