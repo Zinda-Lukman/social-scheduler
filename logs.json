@@ -1366,5 +1366,61 @@
     "message": "Post cbc2282a-067d-431a-ad59-1e890aec6bf6 published successfully.",
     "postId": "cbc2282a-067d-431a-ad59-1e890aec6bf6",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-10T14:42:26.840Z",
+    "level": "info",
+    "event": "DELETED",
+    "message": "Deleted posted post df9361d0-808a-45f6-9d44-e7b0353b5273 after 24 hours and associated media file deleted.",
+    "postId": "df9361d0-808a-45f6-9d44-e7b0353b5273",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-10T14:42:26.840Z",
+    "level": "info",
+    "event": "DELETED",
+    "message": "Deleted posted post 9dcfe0fa-a2c7-44a0-9143-a87942a9215a after 24 hours and associated media file deleted.",
+    "postId": "9dcfe0fa-a2c7-44a0-9143-a87942a9215a",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-10T14:42:27.334Z",
+    "level": "info",
+    "event": "LOGIN",
+    "message": "Logged into Bluesky.",
+    "postId": null,
+    "timezone": "UTC"
+  },
+  {
+    "time": "2026-10-10T14:42:27.334Z",
+    "level": "info",
+    "event": "PUBLISH_START",
+    "message": "Publishing post b172b03d-3785-4429-a5fd-6ca900ad0b26.",
+    "postId": "b172b03d-3785-4429-a5fd-6ca900ad0b26",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-10T14:42:28.750Z",
+    "level": "info",
+    "event": "PUBLISHED",
+    "message": "Post b172b03d-3785-4429-a5fd-6ca900ad0b26 published successfully.",
+    "postId": "b172b03d-3785-4429-a5fd-6ca900ad0b26",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-10T14:42:28.750Z",
+    "level": "info",
+    "event": "PUBLISH_START",
+    "message": "Publishing post 3283f635-7ea5-4a65-99d0-0ef223f681fa.",
+    "postId": "3283f635-7ea5-4a65-99d0-0ef223f681fa",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-10T14:42:29.800Z",
+    "level": "info",
+    "event": "PUBLISHED",
+    "message": "Post 3283f635-7ea5-4a65-99d0-0ef223f681fa published successfully.",
+    "postId": "3283f635-7ea5-4a65-99d0-0ef223f681fa",
+    "timezone": "Africa/Nairobi"
   }
 ]
