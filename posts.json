@@ -1,57 +1,5 @@
 [
   {
-    "id": "b172b03d-3785-4429-a5fd-6ca900ad0b26",
-    "platform": "bluesky",
-    "date": "2026-10-10T09:23:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Taipei, Taiwan 🇹🇼 \n\nHighways weave through the city beside the river, with Taipei’s mountains rising beyond. \n\nIt’s a striking mix of dense urban life, water and green hills, all in one view.\n\n Would you explore Taipei this way?\n\n#Travel #TravelPhotography #Taipei #Taiwan",
-    "thread": null,
-    "media": {
-      "path": "media/1791449395781-photo_5217574710278212763_y.jpg",
-      "sha": "0012dfe0ccd80965d23cde9791fe0cec9eafa520",
-      "name": "photo_5217574710278212763_y.jpg",
-      "type": "image/jpeg",
-      "size": 197899
-    },
-    "createdAt": "2026-10-08T08:50:00.095Z",
-    "postedAt": "2026-10-10T14:42:28.750Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxjpwpgpio2b",
-    "cid": "bafyreigqqhpt7nywdavmtd5xvsxwwqghadaz2jvpt7np7q35ew47h2v3jy"
-  },
-  {
-    "id": "3283f635-7ea5-4a65-99d0-0ef223f681fa",
-    "platform": "bluesky",
-    "date": "2026-10-10T13:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Glen Coe, Scottish Highlands 🏴 \n\nFamous for mountains, deep valleys and winding roads.\n\nShaped by glaciers and volcanic activity, the landscape feels vast and wild.\n\n One of Scotland’s most recognizable Highland views.\n\nWould you drive through it?\n\n#Travel #TravelPhotography #Scotland #GlenCoe",
-    "thread": null,
-    "media": {
-      "path": "media/1791449752292-photo_5206466060834951859_y.jpg",
-      "sha": "7086fede88709b547eab269ce1d2ac9fee906930",
-      "name": "photo_5206466060834951859_y.jpg",
-      "type": "image/jpeg",
-      "size": 239702
-    },
-    "createdAt": "2026-10-08T08:55:56.841Z",
-    "postedAt": "2026-10-10T14:42:29.800Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxjpwqfrtb27",
-    "cid": "bafyreifowl7fnho2f5byus7t3vmb2m5trzf7f6hvdpdcw6pewrktdsydii"
-  },
-  {
     "id": "6242bbe3-55fe-4fe0-8191-bf6c04797496",
     "platform": "bluesky",
     "date": "2026-10-10T17:12:00.000Z",
