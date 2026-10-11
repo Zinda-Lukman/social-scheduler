@@ -1558,5 +1558,29 @@
     "message": "No posts are due.",
     "postId": null,
     "timezone": "UTC"
+  },
+  {
+    "time": "2026-10-11T22:31:34.444Z",
+    "level": "info",
+    "event": "DELETED",
+    "message": "Deleted posted post 6242bbe3-55fe-4fe0-8191-bf6c04797496 after 24 hours and associated media file deleted.",
+    "postId": "6242bbe3-55fe-4fe0-8191-bf6c04797496",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-11T22:31:34.444Z",
+    "level": "info",
+    "event": "DELETED",
+    "message": "Deleted posted post 336e26ee-bf52-4802-a2e0-ec30e21bd39d after 24 hours and associated media file deleted.",
+    "postId": "336e26ee-bf52-4802-a2e0-ec30e21bd39d",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-11T22:31:34.444Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
