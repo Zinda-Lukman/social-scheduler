@@ -33,8 +33,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Rastoke, Slunj, Croatia 🇭🇷 \n\nFamous for wooden watermills, old houses and waterfalls flowing between them.\n\nHere, the Slunjčica River spills into the Korana, creating a village built around rushing water.\n\nWould you wander these riverside paths?\n\n#Travel #TravelPhotography #Croatia #Rastoke",
@@ -46,7 +46,10 @@
       "type": "image/jpeg",
       "size": 317944
     },
-    "createdAt": "2026-10-15T09:16:01.535Z"
+    "createdAt": "2026-10-15T09:16:01.535Z",
+    "postedAt": "2026-10-15T18:22:57.103Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxwolk256j2r",
+    "cid": "bafyreieh67tcdqk5xjpvyrjmu4ztbsswatp5qwbojolryqeo5yb6m6oq7a"
   },
   {
     "id": "9922acce-a404-430a-902d-40983e917e86",
