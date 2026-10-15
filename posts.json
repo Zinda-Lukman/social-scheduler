@@ -182,5 +182,28 @@
       "size": 288243
     },
     "createdAt": "2026-10-15T09:49:51.691Z"
+  },
+  {
+    "id": "01a82831-1d99-4fe0-8cc3-462377d57b73",
+    "platform": "bluesky",
+    "date": "2026-10-17T03:03:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "Pamukkale, Türkiye 🇹🇷 \n\nKnown as “Cotton Castle,” its white travertine terraces hold brilliant blue thermal pools\n\nMineral-rich waters have shaped this surreal landscape for thousands of years, beside the old city of Hierapolis.\n\nWould you swim here?\n\n#Travel #TravelPhotography #Turkey #Pamukkale",
+    "thread": null,
+    "media": {
+      "path": "media/1792058393642-photo_5231237134390776677_y.jpg",
+      "sha": "cc6f9a90e054331cc3aeb609ba37027e380f0946",
+      "name": "photo_5231237134390776677_y.jpg",
+      "type": "image/jpeg",
+      "size": 211252
+    },
+    "createdAt": "2026-10-15T10:00:08.719Z"
   }
 ]
