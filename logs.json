@@ -1718,5 +1718,29 @@
     "message": "No posts are due.",
     "postId": null,
     "timezone": "UTC"
+  },
+  {
+    "time": "2026-10-15T14:15:12.085Z",
+    "level": "info",
+    "event": "LOGIN",
+    "message": "Logged into Bluesky.",
+    "postId": null,
+    "timezone": "UTC"
+  },
+  {
+    "time": "2026-10-15T14:15:12.085Z",
+    "level": "info",
+    "event": "PUBLISH_START",
+    "message": "Publishing post 7a67bde7-74a2-4f69-aa19-3633801d0de6.",
+    "postId": "7a67bde7-74a2-4f69-aa19-3633801d0de6",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-15T14:15:13.729Z",
+    "level": "info",
+    "event": "PUBLISHED",
+    "message": "Post 7a67bde7-74a2-4f69-aa19-3633801d0de6 published successfully.",
+    "postId": "7a67bde7-74a2-4f69-aa19-3633801d0de6",
+    "timezone": "Africa/Nairobi"
   }
 ]

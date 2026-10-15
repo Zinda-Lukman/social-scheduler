@@ -7,8 +7,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Diagonal 197, Barcelona, Spain 🇪🇸\n\nA striking modern building on Avenida Diagonal, known for its bold geometric design and glass façade. Architecture here keeps surprising you, from Gothic streets to contemporary landmarks.\n\nWould you explore it?\n\n#Travel #TravelPhotography #Barcelona #Spain",
@@ -20,7 +20,10 @@
       "type": "image/jpeg",
       "size": 345055
     },
-    "createdAt": "2026-10-15T09:08:26.629Z"
+    "createdAt": "2026-10-15T09:08:26.629Z",
+    "postedAt": "2026-10-15T14:15:13.729Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxwaqleayc2o",
+    "cid": "bafyreic36zn7g5fhvejaxk45awjynalssh24pvfm3kwswm4p5qthix65fi"
   },
   {
     "id": "2bf95dea-7385-4e77-9b6c-806156b13e17",
