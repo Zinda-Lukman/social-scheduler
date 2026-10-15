@@ -1790,5 +1790,13 @@
     "message": "Post 9922acce-a404-430a-902d-40983e917e86 published successfully.",
     "postId": "9922acce-a404-430a-902d-40983e917e86",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-15T23:50:36.405Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
