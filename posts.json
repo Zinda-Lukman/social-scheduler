@@ -90,5 +90,28 @@
       "size": 278882
     },
     "createdAt": "2026-10-15T09:25:34.394Z"
+  },
+  {
+    "id": "c04bc6f7-827d-4413-b199-2e0803fa3f42",
+    "platform": "bluesky",
+    "date": "2026-10-16T05:09:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Victoria, Australia 🇦🇺 \n\nThese towering limestone stacks rise from the Southern Ocean along the Great Ocean Road. \n\nDespite the name, there were never twelve, and waves continue reshaping the cliffs. \n\nWould you watch the sunset here?\n\n#Travel #TravelPhotography #Australia #GreatOceanRoad",
+    "thread": null,
+    "media": {
+      "path": "media/1792056652173-photo_5240164666297143478_y.jpg",
+      "sha": "2b6108ee6842aa6ce4bb482aa5ec2db906c79065",
+      "name": "photo_5240164666297143478_y.jpg",
+      "type": "image/jpeg",
+      "size": 178765
+    },
+    "createdAt": "2026-10-15T09:31:05.462Z"
   }
 ]
