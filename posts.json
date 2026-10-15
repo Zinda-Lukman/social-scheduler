@@ -136,5 +136,28 @@
       "size": 212193
     },
     "createdAt": "2026-10-15T09:33:49.404Z"
+  },
+  {
+    "id": "5147e786-209d-4524-a84b-6ae341623b2d",
+    "platform": "bluesky",
+    "date": "2026-10-16T15:14:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Split, Croatia 🇭🇷 \n\nFrom Marjan Hill, terracotta rooftops meet the blue Adriatic, with the historic old town stretching toward the harbor. \n\nDiocletian’s Palace sits at the heart of this ancient coastal city. \n\nWould you enjoy this view?\n\n#Travel #TravelPhotography #Croatia #Split",
+    "thread": null,
+    "media": {
+      "path": "media/1792057034894-photo_5219693683933302877_y.jpg",
+      "sha": "3fc0e3f5eaac7bfd2a1c033c94fdb471e74a34c0",
+      "name": "photo_5219693683933302877_y.jpg",
+      "type": "image/jpeg",
+      "size": 277577
+    },
+    "createdAt": "2026-10-15T09:37:22.892Z"
   }
 ]
