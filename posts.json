@@ -67,5 +67,28 @@
       "size": 381858
     },
     "createdAt": "2026-10-15T09:19:41.630Z"
+  },
+  {
+    "id": "16ab5acd-c1fc-4efd-858e-c94d82db0e47",
+    "platform": "bluesky",
+    "date": "2026-10-16T01:25:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Florence, Italy 🇮🇹 \n\nThe Arno River reflects centuries of history, with terracotta rooftops and historic bridges shaping the skyline. \n\nThe famous Ponte Vecchio connects the riverbanks with shops built right along it. \n\nWould you watch sunset here?\n#Travel #TravelPhotography #Florence #Italy",
+    "thread": null,
+    "media": {
+      "path": "media/1792056325598-photo_5246718734851232462_y.jpg",
+      "sha": "9c41d7d15209f5aa0ebaa17d99a7a42850834eb5",
+      "name": "photo_5246718734851232462_y.jpg",
+      "type": "image/jpeg",
+      "size": 278882
+    },
+    "createdAt": "2026-10-15T09:25:34.394Z"
   }
 ]
