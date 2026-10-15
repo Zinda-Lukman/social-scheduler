@@ -59,8 +59,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Marine City, Busan, South Korea 🇰🇷 \n\nGlass skyscrapers rise beside the sea, creating one of Busan’s most striking skylines. \n\nAfter dark, the towers shimmer across the waterfront. \n\nWould you enjoy this oceanfront city view?\n\n#Travel #TravelPhotography #Busan #SouthKorea",
@@ -72,7 +72,10 @@
       "type": "image/jpeg",
       "size": 381858
     },
-    "createdAt": "2026-10-15T09:19:41.630Z"
+    "createdAt": "2026-10-15T09:19:41.630Z",
+    "postedAt": "2026-10-15T21:35:53.233Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxwzejywgl2w",
+    "cid": "bafyreieu3tpsuupg7pd4ikqbltnxotbctopdpxnp56m7wrmar55fexc5re"
   },
   {
     "id": "16ab5acd-c1fc-4efd-858e-c94d82db0e47",
