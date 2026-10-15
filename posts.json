@@ -44,5 +44,28 @@
       "size": 317944
     },
     "createdAt": "2026-10-15T09:16:01.535Z"
+  },
+  {
+    "id": "9922acce-a404-430a-902d-40983e917e86",
+    "platform": "bluesky",
+    "date": "2026-10-15T21:04:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Marine City, Busan, South Korea 🇰🇷 \n\nGlass skyscrapers rise beside the sea, creating one of Busan’s most striking skylines. \n\nAfter dark, the towers shimmer across the waterfront. \n\nWould you enjoy this oceanfront city view?\n\n#Travel #TravelPhotography #Busan #SouthKorea",
+    "thread": null,
+    "media": {
+      "path": "media/1792055962103-photo_5262748716736040227_y.jpg",
+      "sha": "6704670880e99795c7a8db18d6983f691ba2c60a",
+      "name": "photo_5262748716736040227_y.jpg",
+      "type": "image/jpeg",
+      "size": 381858
+    },
+    "createdAt": "2026-10-15T09:19:41.630Z"
   }
 ]
