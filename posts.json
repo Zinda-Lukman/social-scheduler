@@ -200,5 +200,28 @@
       "size": 211252
     },
     "createdAt": "2026-10-15T10:00:08.719Z"
+  },
+  {
+    "id": "c7e927da-21c2-4949-b346-20ab7571306b",
+    "platform": "bluesky",
+    "date": "2026-10-17T09:06:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 St. Ursula Street, Valletta, Malta 🇲🇹\n\nFamous for its steep steps, honey-coloured limestone buildings and traditional balconies.\n\nThis narrow street captures Valletta’s historic charm, with the Mediterranean never far away.\n\nWould you wander here?\n\n#Travel #TravelPhotography #Malta #Valletta",
+    "thread": null,
+    "media": {
+      "path": "media/1792177698854-photo_5289938260606438642_y.jpg",
+      "sha": "b7b3b894e7b9dd6fe3292cd36648ebd6bdd5170f",
+      "name": "photo_5289938260606438642_y.jpg",
+      "type": "image/jpeg",
+      "size": 257306
+    },
+    "createdAt": "2026-10-16T19:08:48.154Z"
   }
 ]
