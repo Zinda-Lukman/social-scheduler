@@ -1,31 +1,5 @@
 [
   {
-    "id": "9922acce-a404-430a-902d-40983e917e86",
-    "platform": "bluesky",
-    "date": "2026-10-15T21:04:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Marine City, Busan, South Korea 🇰🇷 \n\nGlass skyscrapers rise beside the sea, creating one of Busan’s most striking skylines. \n\nAfter dark, the towers shimmer across the waterfront. \n\nWould you enjoy this oceanfront city view?\n\n#Travel #TravelPhotography #Busan #SouthKorea",
-    "thread": null,
-    "media": {
-      "path": "media/1792055962103-photo_5262748716736040227_y.jpg",
-      "sha": "6704670880e99795c7a8db18d6983f691ba2c60a",
-      "name": "photo_5262748716736040227_y.jpg",
-      "type": "image/jpeg",
-      "size": 381858
-    },
-    "createdAt": "2026-10-15T09:19:41.630Z",
-    "postedAt": "2026-10-15T21:35:53.233Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxwzejywgl2w",
-    "cid": "bafyreieu3tpsuupg7pd4ikqbltnxotbctopdpxnp56m7wrmar55fexc5re"
-  },
-  {
     "id": "16ab5acd-c1fc-4efd-858e-c94d82db0e47",
     "platform": "bluesky",
     "date": "2026-10-16T01:25:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Fragas do Eume, Galicia, Spain 🇪🇸 \n\nAn ancient stone arch bridge crosses rushing water beneath moss-covered trees in one of Galicia’s lushest forests. \n\nThis Atlantic woodland feels like a hidden world. \n\nWould you explore it?\n\n#Travel #TravelPhotography #Galicia #Spain",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 288243
     },
-    "createdAt": "2026-10-15T09:49:51.691Z"
+    "createdAt": "2026-10-15T09:49:51.691Z",
+    "postedAt": "2026-10-16T22:13:39.375Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxzlwyp7s22e",
+    "cid": "bafyreibhqh5p5p37eiyuwqdowua4ac5nvuxl5rf6zrjnvufofqkewp46u4"
   },
   {
     "id": "01a82831-1d99-4fe0-8cc3-462377d57b73",
