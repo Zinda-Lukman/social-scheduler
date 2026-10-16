@@ -266,5 +266,28 @@
       "size": 150072
     },
     "createdAt": "2026-10-16T19:49:04.023Z"
+  },
+  {
+    "id": "ce30f587-3c8e-4a53-bb4f-fe35f54c5ec6",
+    "platform": "bluesky",
+    "date": "2026-10-18T01:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Mont-Saint-Michel, Normandy, France 🇫🇷\n\nA medieval abbey crowns this rocky island, surrounded by vast tidal flats.\n\nThe sea can return surprisingly fast, transforming the landscape around it.\n\nWould you walk across the bay?\n\n#Travel #TravelPhotography #France #MontSaintMichel",
+    "thread": null,
+    "media": {
+      "path": "media/1792180397082-photo_5314414480362426884_y.jpg",
+      "sha": "d1aacbeb67023dab6dd22e9905c99bfedb6f4c62",
+      "name": "photo_5314414480362426884_y.jpg",
+      "type": "image/jpeg",
+      "size": 124320
+    },
+    "createdAt": "2026-10-16T19:53:21.696Z"
   }
 ]
