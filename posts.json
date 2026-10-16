@@ -85,8 +85,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Florence, Italy 🇮🇹 \n\nThe Arno River reflects centuries of history, with terracotta rooftops and historic bridges shaping the skyline. \n\nThe famous Ponte Vecchio connects the riverbanks with shops built right along it. \n\nWould you watch sunset here?\n#Travel #TravelPhotography #Florence #Italy",
@@ -98,7 +98,10 @@
       "type": "image/jpeg",
       "size": 278882
     },
-    "createdAt": "2026-10-15T09:25:34.394Z"
+    "createdAt": "2026-10-15T09:25:34.394Z",
+    "postedAt": "2026-10-16T02:04:46.218Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxxifdn3gb2w",
+    "cid": "bafyreihk2usiv3ihfmqf7e7af6ejfnohaekn2zdefhm44e4iongsmcfpaa"
   },
   {
     "id": "c04bc6f7-827d-4413-b199-2e0803fa3f42",
