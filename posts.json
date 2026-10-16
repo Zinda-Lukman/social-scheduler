@@ -289,5 +289,28 @@
       "size": 124320
     },
     "createdAt": "2026-10-16T19:53:21.696Z"
+  },
+  {
+    "id": "cb9d4e91-1339-4133-a14b-23b40af1d69d",
+    "platform": "bluesky",
+    "date": "2026-10-18T06:03:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Puerto de Larrau, Pyrenees, Spain 🇪🇸\n\nA winding mountain road climbs through green slopes toward the French-Spanish border.\n\nAt 1,573m, this pass offers sweeping Pyrenean views and a favourite challenge for cyclists.\n\nWould you drive this road?\n\n#Travel #TravelPhotography #Pyrenees #Spain",
+    "thread": null,
+    "media": {
+      "path": "media/1792180621698-photo_5321066375386614364_y.jpg",
+      "sha": "ad212487b62be7a102667467383d64f830adc461",
+      "name": "photo_5321066375386614364_y.jpg",
+      "type": "image/jpeg",
+      "size": 152159
+    },
+    "createdAt": "2026-10-16T19:57:05.779Z"
   }
 ]
