@@ -1,31 +1,5 @@
 [
   {
-    "id": "7a67bde7-74a2-4f69-aa19-3633801d0de6",
-    "platform": "bluesky",
-    "date": "2026-10-15T13:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Diagonal 197, Barcelona, Spain 🇪🇸\n\nA striking modern building on Avenida Diagonal, known for its bold geometric design and glass façade. Architecture here keeps surprising you, from Gothic streets to contemporary landmarks.\n\nWould you explore it?\n\n#Travel #TravelPhotography #Barcelona #Spain",
-    "thread": null,
-    "media": {
-      "path": "media/1792055298500-photo_5282777463497281076_y.jpg",
-      "sha": "482155c25dbeef591cacf9b43a3f3261a736d1f7",
-      "name": "photo_5282777463497281076_y.jpg",
-      "type": "image/jpeg",
-      "size": 345055
-    },
-    "createdAt": "2026-10-15T09:08:26.629Z",
-    "postedAt": "2026-10-15T14:15:13.729Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxwaqleayc2o",
-    "cid": "bafyreic36zn7g5fhvejaxk45awjynalssh24pvfm3kwswm4p5qthix65fi"
-  },
-  {
     "id": "2bf95dea-7385-4e77-9b6c-806156b13e17",
     "platform": "bluesky",
     "date": "2026-10-15T17:14:00.000Z",
@@ -163,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Split, Croatia 🇭🇷 \n\nFrom Marjan Hill, terracotta rooftops meet the blue Adriatic, with the historic old town stretching toward the harbor. \n\nDiocletian’s Palace sits at the heart of this ancient coastal city. \n\nWould you enjoy this view?\n\n#Travel #TravelPhotography #Croatia #Split",
@@ -176,7 +150,10 @@
       "type": "image/jpeg",
       "size": 277577
     },
-    "createdAt": "2026-10-15T09:37:22.892Z"
+    "createdAt": "2026-10-15T09:37:22.892Z",
+    "postedAt": "2026-10-16T16:49:46.369Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxyzttnnwa2l",
+    "cid": "bafyreidosf3jojbuu3wjzla5va2cv4by7nlbfyv7k374y5vrnvbft2uyau"
   },
   {
     "id": "9f183117-7792-400d-bd0f-dfee1d968aab",
