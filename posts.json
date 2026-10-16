@@ -137,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Hallstatt, Austria 🇦🇹 \n\nPastel houses hug the shore of Lake Hallstatt, backed by steep Alpine mountains.\n\nThis storybook village is famous for its centuries-old salt-mining history and picture-perfect waterfront.\n\nWould you spend a weekend here?\n\n#Travel #TravelPhotography #Austria #Hallstatt",
@@ -150,7 +150,10 @@
       "type": "image/jpeg",
       "size": 212193
     },
-    "createdAt": "2026-10-15T09:33:49.404Z"
+    "createdAt": "2026-10-15T09:33:49.404Z",
+    "postedAt": "2026-10-16T12:20:59.446Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxykta7f4d2e",
+    "cid": "bafyreicu2ynx4krlntwp73igaizsw6umzhexvffh4fk2qoumtiwauifhle"
   },
   {
     "id": "5147e786-209d-4524-a84b-6ae341623b2d",
