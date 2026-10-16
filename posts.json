@@ -358,5 +358,28 @@
       "size": 358179
     },
     "createdAt": "2026-10-16T20:06:22.164Z"
+  },
+  {
+    "id": "c412012b-06ba-4cba-9590-f89b02029324",
+    "platform": "bluesky",
+    "date": "2026-10-18T18:16:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "draft",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Novi Trg Fountain, Slovenia 🇸🇮\n\nIn istoric square near Ljubljana Castle, this fountain adds a quiet charm to the city’s old streets.\n\nBaroque architecture and café-lined corners make the area perfect for a slow stroll.\n\nWould you stop here?\n\n#Travel #TravelPhotography #Ljubljana #Slovenia",
+    "thread": null,
+    "media": {
+      "path": "media/1792181796506-photo_5334659740720025630_y.jpg",
+      "sha": "142c928cfbc210090dadda8376d19c1e7be39a1d",
+      "name": "photo_5334659740720025630_y.jpg",
+      "type": "image/jpeg",
+      "size": 300948
+    },
+    "createdAt": "2026-10-16T20:16:42.608Z"
   }
 ]
