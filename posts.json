@@ -367,7 +367,7 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "draft",
+    "status": "scheduled",
     "posted": false,
     "retryCount": 0,
     "error": null,
