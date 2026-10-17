@@ -1,31 +1,5 @@
 [
   {
-    "id": "9f183117-7792-400d-bd0f-dfee1d968aab",
-    "platform": "bluesky",
-    "date": "2026-10-16T20:59:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Fragas do Eume, Galicia, Spain 🇪🇸 \n\nAn ancient stone arch bridge crosses rushing water beneath moss-covered trees in one of Galicia’s lushest forests. \n\nThis Atlantic woodland feels like a hidden world. \n\nWould you explore it?\n\n#Travel #TravelPhotography #Galicia #Spain",
-    "thread": null,
-    "media": {
-      "path": "media/1792057772517-photo_5219826510091900268_y.jpg",
-      "sha": "f8dfeace2a68ed47864e05587b86edc7bb8caced",
-      "name": "photo_5219826510091900268_y.jpg",
-      "type": "image/jpeg",
-      "size": 288243
-    },
-    "createdAt": "2026-10-15T09:49:51.691Z",
-    "postedAt": "2026-10-16T22:13:39.375Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxzlwyp7s22e",
-    "cid": "bafyreibhqh5p5p37eiyuwqdowua4ac5nvuxl5rf6zrjnvufofqkewp46u4"
-  },
-  {
     "id": "01a82831-1d99-4fe0-8cc3-462377d57b73",
     "platform": "bluesky",
     "date": "2026-10-17T03:03:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Fisherman’s Bastion, Budapest, Hungary 🇭🇺\n\nIts fairytale towers and white stone terraces overlook the Danube and Hungarian Parliament.\n\nBuilt in the late 1800s, its seven towers represent the seven Magyar tribes.\n\nWould you watch sunrise here?\n#Travel #TravelPhotography #Budapest #Hungary",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 150072
     },
-    "createdAt": "2026-10-16T19:49:04.023Z"
+    "createdAt": "2026-10-16T19:49:04.023Z",
+    "postedAt": "2026-10-17T22:58:42.772Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3my46wifmas2o",
+    "cid": "bafyreic3wrb3bwib5zufgxjnmtfbci5erdhmuozihp2muet5qtx52daomy"
   },
   {
     "id": "ce30f587-3c8e-4a53-bb4f-fe35f54c5ec6",
