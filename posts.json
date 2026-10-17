@@ -1,31 +1,5 @@
 [
   {
-    "id": "c04bc6f7-827d-4413-b199-2e0803fa3f42",
-    "platform": "bluesky",
-    "date": "2026-10-16T05:09:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Victoria, Australia 🇦🇺 \n\nThese towering limestone stacks rise from the Southern Ocean along the Great Ocean Road. \n\nDespite the name, there were never twelve, and waves continue reshaping the cliffs. \n\nWould you watch the sunset here?\n\n#Travel #TravelPhotography #Australia #GreatOceanRoad",
-    "thread": null,
-    "media": {
-      "path": "media/1792056652173-photo_5240164666297143478_y.jpg",
-      "sha": "2b6108ee6842aa6ce4bb482aa5ec2db906c79065",
-      "name": "photo_5240164666297143478_y.jpg",
-      "type": "image/jpeg",
-      "size": 178765
-    },
-    "createdAt": "2026-10-15T09:31:05.462Z",
-    "postedAt": "2026-10-16T07:05:29.557Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxxz735vv52o",
-    "cid": "bafyreiaz5uesr4a3pe66ktt3dfns5x4jyp6cdzvfsgrkhwutctahdhhr5a"
-  },
-  {
     "id": "76b92faf-5578-47b8-8699-7225a0800dd2",
     "platform": "bluesky",
     "date": "2026-10-16T09:32:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 St. Ursula Street, Valletta, Malta 🇲🇹\n\nFamous for its steep steps, honey-coloured limestone buildings and traditional balconies.\n\nThis narrow street captures Valletta’s historic charm, with the Mediterranean never far away.\n\nWould you wander here?\n\n#Travel #TravelPhotography #Malta #Valletta",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 257306
     },
-    "createdAt": "2026-10-16T19:08:48.154Z"
+    "createdAt": "2026-10-16T19:08:48.154Z",
+    "postedAt": "2026-10-17T09:08:07.459Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3my2qjbplki2e",
+    "cid": "bafyreieqmpuyavyojcgxtoda56qthv22k3mhkduaipttaq2fw3uidocywy"
   },
   {
     "id": "63821dbf-b222-4c76-8c99-9b071dcf09d6",
