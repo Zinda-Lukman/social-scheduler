@@ -1950,5 +1950,13 @@
     "message": "Post 9f183117-7792-400d-bd0f-dfee1d968aab published successfully.",
     "postId": "9f183117-7792-400d-bd0f-dfee1d968aab",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-17T00:32:56.551Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
