@@ -1,31 +1,5 @@
 [
   {
-    "id": "76b92faf-5578-47b8-8699-7225a0800dd2",
-    "platform": "bluesky",
-    "date": "2026-10-16T09:32:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Hallstatt, Austria 🇦🇹 \n\nPastel houses hug the shore of Lake Hallstatt, backed by steep Alpine mountains.\n\nThis storybook village is famous for its centuries-old salt-mining history and picture-perfect waterfront.\n\nWould you spend a weekend here?\n\n#Travel #TravelPhotography #Austria #Hallstatt",
-    "thread": null,
-    "media": {
-      "path": "media/1792056813189-photo_5228786185533509784_y.jpg",
-      "sha": "9964725a226f58e279ab8e638311ae3115168857",
-      "name": "photo_5228786185533509784_y.jpg",
-      "type": "image/jpeg",
-      "size": 212193
-    },
-    "createdAt": "2026-10-15T09:33:49.404Z",
-    "postedAt": "2026-10-16T12:20:59.446Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxykta7f4d2e",
-    "cid": "bafyreicu2ynx4krlntwp73igaizsw6umzhexvffh4fk2qoumtiwauifhle"
-  },
-  {
     "id": "5147e786-209d-4524-a84b-6ae341623b2d",
     "platform": "bluesky",
     "date": "2026-10-16T15:14:00.000Z",
