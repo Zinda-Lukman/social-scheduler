@@ -1,31 +1,5 @@
 [
   {
-    "id": "16ab5acd-c1fc-4efd-858e-c94d82db0e47",
-    "platform": "bluesky",
-    "date": "2026-10-16T01:25:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Florence, Italy 🇮🇹 \n\nThe Arno River reflects centuries of history, with terracotta rooftops and historic bridges shaping the skyline. \n\nThe famous Ponte Vecchio connects the riverbanks with shops built right along it. \n\nWould you watch sunset here?\n#Travel #TravelPhotography #Florence #Italy",
-    "thread": null,
-    "media": {
-      "path": "media/1792056325598-photo_5246718734851232462_y.jpg",
-      "sha": "9c41d7d15209f5aa0ebaa17d99a7a42850834eb5",
-      "name": "photo_5246718734851232462_y.jpg",
-      "type": "image/jpeg",
-      "size": 278882
-    },
-    "createdAt": "2026-10-15T09:25:34.394Z",
-    "postedAt": "2026-10-16T02:04:46.218Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxxifdn3gb2w",
-    "cid": "bafyreihk2usiv3ihfmqf7e7af6ejfnohaekn2zdefhm44e4iongsmcfpaa"
-  },
-  {
     "id": "c04bc6f7-827d-4413-b199-2e0803fa3f42",
     "platform": "bluesky",
     "date": "2026-10-16T05:09:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "Pamukkale, Türkiye 🇹🇷 \n\nKnown as “Cotton Castle,” its white travertine terraces hold brilliant blue thermal pools\n\nMineral-rich waters have shaped this surreal landscape for thousands of years, beside the old city of Hierapolis.\n\nWould you swim here?\n\n#Travel #TravelPhotography #Turkey #Pamukkale",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 211252
     },
-    "createdAt": "2026-10-15T10:00:08.719Z"
+    "createdAt": "2026-10-15T10:00:08.719Z",
+    "postedAt": "2026-10-17T04:57:02.949Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3my2cibza4k2l",
+    "cid": "bafyreidrtbdqxvpk277v5qoi5rgwyx62rni67yelhjofqyzg7dlip6bwrq"
   },
   {
     "id": "c7e927da-21c2-4949-b346-20ab7571306b",
