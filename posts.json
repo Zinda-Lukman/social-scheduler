@@ -1,31 +1,5 @@
 [
   {
-    "id": "5147e786-209d-4524-a84b-6ae341623b2d",
-    "platform": "bluesky",
-    "date": "2026-10-16T15:14:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Split, Croatia 🇭🇷 \n\nFrom Marjan Hill, terracotta rooftops meet the blue Adriatic, with the historic old town stretching toward the harbor. \n\nDiocletian’s Palace sits at the heart of this ancient coastal city. \n\nWould you enjoy this view?\n\n#Travel #TravelPhotography #Croatia #Split",
-    "thread": null,
-    "media": {
-      "path": "media/1792057034894-photo_5219693683933302877_y.jpg",
-      "sha": "3fc0e3f5eaac7bfd2a1c033c94fdb471e74a34c0",
-      "name": "photo_5219693683933302877_y.jpg",
-      "type": "image/jpeg",
-      "size": 277577
-    },
-    "createdAt": "2026-10-15T09:37:22.892Z",
-    "postedAt": "2026-10-16T16:49:46.369Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mxyzttnnwa2l",
-    "cid": "bafyreidosf3jojbuu3wjzla5va2cv4by7nlbfyv7k374y5vrnvbft2uyau"
-  },
-  {
     "id": "9f183117-7792-400d-bd0f-dfee1d968aab",
     "platform": "bluesky",
     "date": "2026-10-16T20:59:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Roncal Valley, Navarre, Spain 🇪🇸\n\nWinding dirt roads pass green hills and traditional stone houses beneath the Pyrenees.\n\nThis quiet valley is known for mountain scenery and Roncal cheese, made here for centuries.\n\nWould you take this road?\n\n#Travel #TravelPhotography #Spain #Pyrenees",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 209847
     },
-    "createdAt": "2026-10-16T19:42:03.566Z"
+    "createdAt": "2026-10-16T19:42:03.566Z",
+    "postedAt": "2026-10-17T18:35:43.242Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3my3qa7tqaz2l",
+    "cid": "bafyreicm6yoiggjnuhvokvivkk3tcprjupqm4bq3tmynwotpllnptuvqxy"
   },
   {
     "id": "701cd7be-87e6-40a5-b820-e07c66ca3874",
