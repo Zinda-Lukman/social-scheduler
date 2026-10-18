@@ -2302,5 +2302,21 @@
     "message": "No posts are due.",
     "postId": null,
     "timezone": "UTC"
+  },
+  {
+    "time": "2026-10-18T23:36:50.671Z",
+    "level": "info",
+    "event": "DELETED",
+    "message": "Deleted posted post 701cd7be-87e6-40a5-b820-e07c66ca3874 after 24 hours and associated media file deleted.",
+    "postId": "701cd7be-87e6-40a5-b820-e07c66ca3874",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-18T23:36:50.671Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]

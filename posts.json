@@ -1,31 +1,5 @@
 [
   {
-    "id": "701cd7be-87e6-40a5-b820-e07c66ca3874",
-    "platform": "bluesky",
-    "date": "2026-10-17T21:05:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Fisherman’s Bastion, Budapest, Hungary 🇭🇺\n\nIts fairytale towers and white stone terraces overlook the Danube and Hungarian Parliament.\n\nBuilt in the late 1800s, its seven towers represent the seven Magyar tribes.\n\nWould you watch sunrise here?\n#Travel #TravelPhotography #Budapest #Hungary",
-    "thread": null,
-    "media": {
-      "path": "media/1792180139066-photo_5312126577053651020_y.jpg",
-      "sha": "21d3d53bc6e6b828989514f515f4d30771e2d859",
-      "name": "photo_5312126577053651020_y.jpg",
-      "type": "image/jpeg",
-      "size": 150072
-    },
-    "createdAt": "2026-10-16T19:49:04.023Z",
-    "postedAt": "2026-10-17T22:58:42.772Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3my46wifmas2o",
-    "cid": "bafyreic3wrb3bwib5zufgxjnmtfbci5erdhmuozihp2muet5qtx52daomy"
-  },
-  {
     "id": "ce30f587-3c8e-4a53-bb4f-fe35f54c5ec6",
     "platform": "bluesky",
     "date": "2026-10-18T01:11:00.000Z",
