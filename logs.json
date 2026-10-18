@@ -2294,5 +2294,13 @@
     "message": "Post c412012b-06ba-4cba-9590-f89b02029324 published successfully.",
     "postId": "c412012b-06ba-4cba-9590-f89b02029324",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-18T21:33:02.056Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
