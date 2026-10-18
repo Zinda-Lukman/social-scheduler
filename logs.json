@@ -2134,5 +2134,13 @@
     "message": "Post 701cd7be-87e6-40a5-b820-e07c66ca3874 published successfully.",
     "postId": "701cd7be-87e6-40a5-b820-e07c66ca3874",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-18T00:51:23.422Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
