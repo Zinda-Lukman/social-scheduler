@@ -1,31 +1,5 @@
 [
   {
-    "id": "c7e927da-21c2-4949-b346-20ab7571306b",
-    "platform": "bluesky",
-    "date": "2026-10-17T09:06:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 St. Ursula Street, Valletta, Malta 🇲🇹\n\nFamous for its steep steps, honey-coloured limestone buildings and traditional balconies.\n\nThis narrow street captures Valletta’s historic charm, with the Mediterranean never far away.\n\nWould you wander here?\n\n#Travel #TravelPhotography #Malta #Valletta",
-    "thread": null,
-    "media": {
-      "path": "media/1792177698854-photo_5289938260606438642_y.jpg",
-      "sha": "b7b3b894e7b9dd6fe3292cd36648ebd6bdd5170f",
-      "name": "photo_5289938260606438642_y.jpg",
-      "type": "image/jpeg",
-      "size": 257306
-    },
-    "createdAt": "2026-10-16T19:08:48.154Z",
-    "postedAt": "2026-10-17T09:08:07.459Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3my2qjbplki2e",
-    "cid": "bafyreieqmpuyavyojcgxtoda56qthv22k3mhkduaipttaq2fw3uidocywy"
-  },
-  {
     "id": "63821dbf-b222-4c76-8c99-9b071dcf09d6",
     "platform": "bluesky",
     "date": "2026-10-17T13:12:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Puerto de Larrau, Pyrenees, Spain 🇪🇸\n\nA winding mountain road climbs through green slopes toward the French-Spanish border.\n\nAt 1,573m, this pass offers sweeping Pyrenean views and a favourite challenge for cyclists.\n\nWould you drive this road?\n\n#Travel #TravelPhotography #Pyrenees #Spain",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 152159
     },
-    "createdAt": "2026-10-16T19:57:05.779Z"
+    "createdAt": "2026-10-16T19:57:05.779Z",
+    "postedAt": "2026-10-18T09:43:05.313Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3my5cwpvqed2l",
+    "cid": "bafyreiamiczjzwcxxevwr5pe6tzomwu5dzdjbuvmqsah5kpyhxspof7ake"
   },
   {
     "id": "c698ea02-6d3a-49a5-a932-294489aa0d43",
@@ -160,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Štrbské Pleso, Slovakia 🇸🇰\n\nThis crystal-clear mountain lake reflects the High Tatras, surrounded by pine forests and towering peaks.\n\nAt 1,346m, it’s a favourite starting point for alpine hikes.\n\nWould you visit in summer or winter?\n#Travel #TravelPhotography #Slovakia #HighTatras",
@@ -173,7 +150,10 @@
       "type": "image/jpeg",
       "size": 246185
     },
-    "createdAt": "2026-10-16T20:02:36.928Z"
+    "createdAt": "2026-10-16T20:02:36.928Z",
+    "postedAt": "2026-10-18T09:43:06.119Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3my5cwqmlwk2w",
+    "cid": "bafyreie5jdk4syv3xozu42lrixaxssr3gpipih33llvao37sqvsd7frdw4"
   },
   {
     "id": "3dd03ae6-954d-41de-b292-815ae1957dd8",
