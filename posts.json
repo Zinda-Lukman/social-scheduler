@@ -1,31 +1,5 @@
 [
   {
-    "id": "01a82831-1d99-4fe0-8cc3-462377d57b73",
-    "platform": "bluesky",
-    "date": "2026-10-17T03:03:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "Pamukkale, Türkiye 🇹🇷 \n\nKnown as “Cotton Castle,” its white travertine terraces hold brilliant blue thermal pools\n\nMineral-rich waters have shaped this surreal landscape for thousands of years, beside the old city of Hierapolis.\n\nWould you swim here?\n\n#Travel #TravelPhotography #Turkey #Pamukkale",
-    "thread": null,
-    "media": {
-      "path": "media/1792058393642-photo_5231237134390776677_y.jpg",
-      "sha": "cc6f9a90e054331cc3aeb609ba37027e380f0946",
-      "name": "photo_5231237134390776677_y.jpg",
-      "type": "image/jpeg",
-      "size": 211252
-    },
-    "createdAt": "2026-10-15T10:00:08.719Z",
-    "postedAt": "2026-10-17T04:57:02.949Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3my2cibza4k2l",
-    "cid": "bafyreidrtbdqxvpk277v5qoi5rgwyx62rni67yelhjofqyzg7dlip6bwrq"
-  },
-  {
     "id": "c7e927da-21c2-4949-b346-20ab7571306b",
     "platform": "bluesky",
     "date": "2026-10-17T09:06:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Mont-Saint-Michel, Normandy, France 🇫🇷\n\nA medieval abbey crowns this rocky island, surrounded by vast tidal flats.\n\nThe sea can return surprisingly fast, transforming the landscape around it.\n\nWould you walk across the bay?\n\n#Travel #TravelPhotography #France #MontSaintMichel",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 124320
     },
-    "createdAt": "2026-10-16T19:53:21.696Z"
+    "createdAt": "2026-10-16T19:53:21.696Z",
+    "postedAt": "2026-10-18T05:16:46.203Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3my4u2iwmve2w",
+    "cid": "bafyreihcdmh4ydgy6o3zgy5enddr6h3lcrvmp23x7dvc5ro3t76l6r7o6m"
   },
   {
     "id": "cb9d4e91-1339-4133-a14b-23b40af1d69d",
