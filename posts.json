@@ -163,8 +163,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Falcon’s Nest, Czechia 🇨🇿 \n\nThis historic hunting lodge sits beside Pravčická brána, Europe’s largest natural sandstone arch. \n\nTowering rock formations and forested valleys surround this fairytale landscape. \n\nWould you hike here?\n\n#Travel #TravelPhotography #Czechia #BohemianSwitzerland",
@@ -176,7 +176,10 @@
       "type": "image/jpeg",
       "size": 358179
     },
-    "createdAt": "2026-10-16T20:06:22.164Z"
+    "createdAt": "2026-10-16T20:06:22.164Z",
+    "postedAt": "2026-10-18T13:36:05.662Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3my5pxe7nfe2y",
+    "cid": "bafyreibksnpms46t2iyif7mpk3x2d7k2drrbviix67wonxydqk6whrbgdq"
   },
   {
     "id": "c412012b-06ba-4cba-9590-f89b02029324",
