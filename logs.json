@@ -2342,5 +2342,21 @@
     "message": "Post ad98ca98-34b2-4253-a910-2728abd5bc00 published successfully.",
     "postId": "ad98ca98-34b2-4253-a910-2728abd5bc00",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-19T06:54:18.178Z",
+    "level": "info",
+    "event": "DELETED",
+    "message": "Deleted posted post ce30f587-3c8e-4a53-bb4f-fe35f54c5ec6 after 24 hours and associated media file deleted.",
+    "postId": "ce30f587-3c8e-4a53-bb4f-fe35f54c5ec6",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-19T06:54:18.178Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
