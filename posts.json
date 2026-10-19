@@ -137,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Kyrgyzstan 🇰🇬\n\nGreen valleys stretch between towering mountains, with grazing horses and traditional yurts dotting the landscape.\n\nMuch of the country lies high in the Tian Shan range.\n\nWould you spend a night in a yurt here?\n\n#Travel #TravelPhotography #Kyrgyzstan #Mountains",
@@ -150,6 +150,9 @@
       "type": "image/jpeg",
       "size": 158904
     },
-    "createdAt": "2026-10-16T20:21:55.201Z"
+    "createdAt": "2026-10-16T20:21:55.201Z",
+    "postedAt": "2026-10-19T01:41:12.426Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3my6yhxqyog2r",
+    "cid": "bafyreiatysur44xawe6svftmz3hkgymsnr6naor5ccjgxqfqjo55dr53sq"
   }
 ]
