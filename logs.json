@@ -2486,5 +2486,13 @@
     "message": "Post 56d41759-2d93-44bf-97b8-ea2611247572 published successfully.",
     "postId": "56d41759-2d93-44bf-97b8-ea2611247572",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-20T20:55:21.188Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
