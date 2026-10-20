@@ -182,5 +182,28 @@
       "size": 197721
     },
     "createdAt": "2026-10-20T09:28:05.751Z"
+  },
+  {
+    "id": "2b59ba8a-1b3a-4c46-8cd8-6720fac50012",
+    "platform": "bluesky",
+    "date": "2026-10-22T03:32:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍Fort Amherst Lighthouse, St. John's, Newfoundland, Canada 🇨🇦\n\nAt the entrance to St. John’s Harbour, this lighthouse marks a rugged stretch of Atlantic coastline.\n\nNearby cliffs and crashing waves make the setting unforgettable.\n\nWould you visit?\n\n#Travel #TravelPhotography #Newfoundland #Canada",
+    "thread": null,
+    "media": {
+      "path": "media/1792488763077-photo_5420490581911655065_y.jpg",
+      "sha": "5d02b7bfdf0766ccc96820a7f182fcca045d2f36",
+      "name": "photo_5420490581911655065_y.jpg",
+      "type": "image/jpeg",
+      "size": 194697
+    },
+    "createdAt": "2026-10-20T09:32:50.837Z"
   }
 ]
