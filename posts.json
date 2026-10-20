@@ -7,8 +7,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Angel Falls, Venezuela 🇻🇪\n\nThe world’s tallest uninterrupted waterfall plunges 979m from a tabletop mountain in Canaima National Park.\n\nIts water can turn to mist before reaching the ground below.\n\nWould you journey into this remote wilderness?\n\n#Travel #TravelPhotography #Venezuela #AngelFalls",
@@ -20,7 +20,10 @@
       "type": "image/jpeg",
       "size": 331484
     },
-    "createdAt": "2026-10-20T08:53:47.133Z"
+    "createdAt": "2026-10-20T08:53:47.133Z",
+    "postedAt": "2026-10-20T17:46:20.640Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myd6uor7gc2w",
+    "cid": "bafyreigtbcn6ss44guojvm5alxr7bcrdx64wuhddbkaufrcvlda6jyaja4"
   },
   {
     "id": "56d41759-2d93-44bf-97b8-ea2611247572",
@@ -30,8 +33,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Ilhéu de Vila Franca do Campo, Azores, Portugal 🇵🇹\n\nThis volcanic islet hides a nearly circular lagoon connected to the Atlantic by a narrow opening.\n\nIts turquoise waters make it a unique spot for swimming and snorkeling. Would you visit?\n\n#Travel #TravelPhotography #Azores #Portugal",
@@ -43,7 +46,10 @@
       "type": "image/jpeg",
       "size": 321956
     },
-    "createdAt": "2026-10-20T09:02:45.847Z"
+    "createdAt": "2026-10-20T09:02:45.847Z",
+    "postedAt": "2026-10-20T17:46:21.571Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myd6upr7tk27",
+    "cid": "bafyreic2o72t47a7f5bxsnn5zkiubtpyktzpyzo63ipwyjmhiqdtrvjbry"
   },
   {
     "id": "647cd51b-5409-4645-ad2c-62ce73e5bac4",
