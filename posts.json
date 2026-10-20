@@ -59,8 +59,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Sheikh Zayed Grand Mosque, Abu Dhabi 🇦🇪\n\nWhite marble domes, reflective pools and intricate floral designs make this landmark unforgettable.\n\nIt features 82 domes and one of the world’s largest hand-knotted carpets. \n\nWould you visit?\n\n#Travel #TravelPhotography #AbuDhabi #UAE",
@@ -72,7 +72,10 @@
       "type": "image/jpeg",
       "size": 123118
     },
-    "createdAt": "2026-10-20T09:05:36.191Z"
+    "createdAt": "2026-10-20T09:05:36.191Z",
+    "postedAt": "2026-10-20T23:40:08.688Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mydsndjkvr2n",
+    "cid": "bafyreicpte33rqus2ok4hocg3npdsgtyzjtbr4rlgz3lmkveqjf6xv7lku"
   },
   {
     "id": "508de3e1-b918-4fbb-8583-8bff11daf1e6",
