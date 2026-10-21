@@ -85,8 +85,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Cliffs of Moher, County Clare, Ireland 🇮🇪\n\nTowering up to 214m above the Atlantic, these dramatic cliffs stretch for 8km along Ireland’s west coast.\n\nSeabirds circle overhead as waves crash far below.\n\nWould you walk along the edge?\n\n#Travel #TravelPhotography #Ireland #CliffsOfMoher",
@@ -98,7 +98,10 @@
       "type": "image/jpeg",
       "size": 143921
     },
-    "createdAt": "2026-10-20T09:08:37.255Z"
+    "createdAt": "2026-10-20T09:08:37.255Z",
+    "postedAt": "2026-10-21T02:03:22.829Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mye2nhgeda2z",
+    "cid": "bafyreib47wzu77sevutqduwwarooegfpttolely423y4bw2z7s4moqlihu"
   },
   {
     "id": "fb5b60af-ffd4-4b2f-910e-2da0a7abdc76",
