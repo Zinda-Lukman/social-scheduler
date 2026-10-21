@@ -1,57 +1,5 @@
 [
   {
-    "id": "af499334-6ec2-4ed9-b750-08f0774900db",
-    "platform": "bluesky",
-    "date": "2026-10-20T13:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Angel Falls, Venezuela 🇻🇪\n\nThe world’s tallest uninterrupted waterfall plunges 979m from a tabletop mountain in Canaima National Park.\n\nIts water can turn to mist before reaching the ground below.\n\nWould you journey into this remote wilderness?\n\n#Travel #TravelPhotography #Venezuela #AngelFalls",
-    "thread": null,
-    "media": {
-      "path": "media/1792486419031-photo_5384563214840351922_y.jpg",
-      "sha": "aae132e28536849b80bbe75371b292b075283508",
-      "name": "photo_5384563214840351922_y.jpg",
-      "type": "image/jpeg",
-      "size": 331484
-    },
-    "createdAt": "2026-10-20T08:53:47.133Z",
-    "postedAt": "2026-10-20T17:46:20.640Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myd6uor7gc2w",
-    "cid": "bafyreigtbcn6ss44guojvm5alxr7bcrdx64wuhddbkaufrcvlda6jyaja4"
-  },
-  {
-    "id": "56d41759-2d93-44bf-97b8-ea2611247572",
-    "platform": "bluesky",
-    "date": "2026-10-20T17:01:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Ilhéu de Vila Franca do Campo, Azores, Portugal 🇵🇹\n\nThis volcanic islet hides a nearly circular lagoon connected to the Atlantic by a narrow opening.\n\nIts turquoise waters make it a unique spot for swimming and snorkeling. Would you visit?\n\n#Travel #TravelPhotography #Azores #Portugal",
-    "thread": null,
-    "media": {
-      "path": "media/1792486958801-photo_5381847202076414178_y.jpg",
-      "sha": "a2d1f549ee7e7dfb7dc3be6bd708d33a946086ce",
-      "name": "photo_5381847202076414178_y.jpg",
-      "type": "image/jpeg",
-      "size": 321956
-    },
-    "createdAt": "2026-10-20T09:02:45.847Z",
-    "postedAt": "2026-10-20T17:46:21.571Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myd6upr7tk27",
-    "cid": "bafyreic2o72t47a7f5bxsnn5zkiubtpyktzpyzo63ipwyjmhiqdtrvjbry"
-  },
-  {
     "id": "647cd51b-5409-4645-ad2c-62ce73e5bac4",
     "platform": "bluesky",
     "date": "2026-10-20T21:04:00.000Z",
@@ -163,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍Bay of Kotor, Montenegro 🇲🇪\n\nDramatic mountains plunge into deep blue water, surrounding medieval towns and red-roofed villages.\n\nOften called Europe’s southernmost fjord, this bay is actually a submerged river canyon.\n\nWould you explore it by boat?\n\n#Travel #TravelPhotography #Montenegro #Kotor",
@@ -176,7 +124,10 @@
       "type": "image/jpeg",
       "size": 169979
     },
-    "createdAt": "2026-10-20T09:22:36.844Z"
+    "createdAt": "2026-10-20T09:22:36.844Z",
+    "postedAt": "2026-10-21T18:03:05.702Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myfqbkmbqe2r",
+    "cid": "bafyreibazo7ionwnyc672oia74iz5qv5cursfjqxwy5mvoeh2uaehjw66q"
   },
   {
     "id": "bd07a000-3701-4d4c-8e18-efe5437940ef",
