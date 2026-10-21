@@ -137,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Poulnabrone Dolmen, County Clare, Ireland 🇮🇪\n\nThis ancient stone tomb stands on the rocky Burren landscape, dating back around 5,000 years.\n\nArchaeologists found remains of at least 33 people buried beneath it.\n\nWho built it—and why? \n\n#Travel #TravelPhotography #Ireland #History",
@@ -150,7 +150,10 @@
       "type": "image/jpeg",
       "size": 377291
     },
-    "createdAt": "2026-10-20T09:17:02.092Z"
+    "createdAt": "2026-10-20T09:17:02.092Z",
+    "postedAt": "2026-10-21T13:10:04.424Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myf7vlvgtk2v",
+    "cid": "bafyreifl4prtgtx2nlmwzqhswv73m35b57imnzxkxaykiqpz7pyq7jcf3i"
   },
   {
     "id": "445ccfad-e555-4364-b8a1-22567393e4bd",
