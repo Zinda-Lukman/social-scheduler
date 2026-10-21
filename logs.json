@@ -2630,5 +2630,13 @@
     "message": "Post 445ccfad-e555-4364-b8a1-22567393e4bd published successfully.",
     "postId": "445ccfad-e555-4364-b8a1-22567393e4bd",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-21T21:35:53.485Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
