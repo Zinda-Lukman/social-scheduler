@@ -111,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Kuala Lumpur, Malaysia 🇲🇾\n\nThe iconic Petronas Twin Towers rise 452m above the city, linked by a skybridge between floors 41 and 42.\n\nTheir gleaming steel façades dominate the skyline.\n\nWould you visit the observation deck?\n\n#Travel #TravelPhotography #KualaLumpur #Malaysia",
@@ -124,7 +124,10 @@
       "type": "image/jpeg",
       "size": 316761
     },
-    "createdAt": "2026-10-20T09:12:26.760Z"
+    "createdAt": "2026-10-20T09:12:26.760Z",
+    "postedAt": "2026-10-21T07:30:26.816Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myemwbyyvo2m",
+    "cid": "bafyreigfhpc4awizcpobr6tlucunbthzgjyu3le4uup5a6fkrxgxymukwq"
   },
   {
     "id": "c00d7bdd-28ac-4532-8e7f-9dd2d77c775d",
