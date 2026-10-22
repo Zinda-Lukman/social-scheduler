@@ -1,31 +1,5 @@
 [
   {
-    "id": "fb5b60af-ffd4-4b2f-910e-2da0a7abdc76",
-    "platform": "bluesky",
-    "date": "2026-10-21T05:15:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Kuala Lumpur, Malaysia 🇲🇾\n\nThe iconic Petronas Twin Towers rise 452m above the city, linked by a skybridge between floors 41 and 42.\n\nTheir gleaming steel façades dominate the skyline.\n\nWould you visit the observation deck?\n\n#Travel #TravelPhotography #KualaLumpur #Malaysia",
-    "thread": null,
-    "media": {
-      "path": "media/1792487537725-photo_5350643182339215984_y.jpg",
-      "sha": "eeb9d028fab258002b55a2c197b9e203fabeabe9",
-      "name": "photo_5350643182339215984_y.jpg",
-      "type": "image/jpeg",
-      "size": 316761
-    },
-    "createdAt": "2026-10-20T09:12:26.760Z",
-    "postedAt": "2026-10-21T07:30:26.816Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myemwbyyvo2m",
-    "cid": "bafyreigfhpc4awizcpobr6tlucunbthzgjyu3le4uup5a6fkrxgxymukwq"
-  },
-  {
     "id": "c00d7bdd-28ac-4532-8e7f-9dd2d77c775d",
     "platform": "bluesky",
     "date": "2026-10-21T09:20:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Shirakawa-go, Gifu, Japan 🇯🇵 \n\nTraditional gassho-zukuri farmhouses wear thick blankets of snow, their steep roofs built to shed heavy winter snowfall.\n\nThis UNESCO-listed village looks like a winter fairytale.\n\nWould you stay overnight?\n\n#Travel #TravelPhotography #Japan #Shirakawago",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 184046
     },
-    "createdAt": "2026-10-20T09:34:50.638Z"
+    "createdAt": "2026-10-20T09:34:50.638Z",
+    "postedAt": "2026-10-22T09:50:19.071Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myhf7coi2y2q",
+    "cid": "bafyreifwklqpfusmi6hpr5qnkzujvkhapv6nfxpmsl44eugu7r4shy3ffa"
   },
   {
     "id": "7bf6c14f-60b0-489f-8b54-1f1ecba75bdd",
