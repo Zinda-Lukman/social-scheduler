@@ -220,5 +220,28 @@
       "size": 182334
     },
     "createdAt": "2026-10-22T08:10:29.496Z"
+  },
+  {
+    "id": "e134931d-d5d7-4e4f-bd83-42dad8377482",
+    "platform": "bluesky",
+    "date": "2026-10-23T01:13:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍Zanzibar, Tanzania 🇹🇿\n\nBlue waters meet white-sand beaches, while Stone Town’s narrow streets reveal Swahili, and Arab influences.\n\nThis Indian Ocean archipelago blends rich history with tropical beauty.\n\nWould you visit for the beaches or culture?\n\n#Travel #TravelPhotography #Zanzibar #Tanzania",
+    "thread": null,
+    "media": {
+      "path": "media/1792657059042-photo_5458695913737408382_y.jpg",
+      "sha": "0d893e1f39af0bbdf19f822a9384cf32b1289daa",
+      "name": "photo_5458695913737408382_y.jpg",
+      "type": "image/jpeg",
+      "size": 341486
+    },
+    "createdAt": "2026-10-22T08:17:52.103Z"
   }
 ]
