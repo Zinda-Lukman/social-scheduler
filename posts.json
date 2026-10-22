@@ -1,31 +1,5 @@
 [
   {
-    "id": "c00d7bdd-28ac-4532-8e7f-9dd2d77c775d",
-    "platform": "bluesky",
-    "date": "2026-10-21T09:20:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Poulnabrone Dolmen, County Clare, Ireland 🇮🇪\n\nThis ancient stone tomb stands on the rocky Burren landscape, dating back around 5,000 years.\n\nArchaeologists found remains of at least 33 people buried beneath it.\n\nWho built it—and why? \n\n#Travel #TravelPhotography #Ireland #History",
-    "thread": null,
-    "media": {
-      "path": "media/1792487814749-photo_5346317690710643006_y.jpg",
-      "sha": "173b56eaa034fb1ab0ea4ebd040840038282a548",
-      "name": "photo_5346317690710643006_y.jpg",
-      "type": "image/jpeg",
-      "size": 377291
-    },
-    "createdAt": "2026-10-20T09:17:02.092Z",
-    "postedAt": "2026-10-21T13:10:04.424Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myf7vlvgtk2v",
-    "cid": "bafyreifl4prtgtx2nlmwzqhswv73m35b57imnzxkxaykiqpz7pyq7jcf3i"
-  },
-  {
     "id": "445ccfad-e555-4364-b8a1-22567393e4bd",
     "platform": "bluesky",
     "date": "2026-10-21T15:20:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 White Sands National Park, New Mexico, USA 🇺🇸\n\nEndless white gypsum dunes stretch across the desert, creating a landscape that looks almost otherworldly.\n\nThe sand stays surprisingly cool underfoot.\n\nWould you explore these dunes? \n\n#Travel #TravelPhotography #NewMexico #USA",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 124998
     },
-    "createdAt": "2026-10-20T09:42:01.098Z"
+    "createdAt": "2026-10-20T09:42:01.098Z",
+    "postedAt": "2026-10-22T14:44:16.822Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myhvmxxlex27",
+    "cid": "bafyreig4aamjwh5c55xca7luixdy2xow7foh2brlkcmdt7rbuzf5zkmk4i"
   },
   {
     "id": "8b4e7a3f-3af7-4042-8593-7be5df146a4d",
