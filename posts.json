@@ -197,5 +197,28 @@
       "size": 162525
     },
     "createdAt": "2026-10-20T09:47:30.757Z"
+  },
+  {
+    "id": "32caa7e4-1516-4c7f-a9fc-e27c6979e537",
+    "platform": "bluesky",
+    "date": "2026-10-22T21:09:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Stari Most, Mostar, Bosnia and Herzegovina 🇧🇦\n\nThis elegant 16th-century Ottoman bridge arches over the emerald Neretva River.\n\nDestroyed in 1993 and rebuilt in 2004, it stands as a symbol of resilience.\n\nWould you watch the famous bridge divers?\n\n#Travel #TravelPhotography #Mostar #Bosnia",
+    "thread": null,
+    "media": {
+      "path": "media/1792656613692-photo_5452027959830499494_y.jpg",
+      "sha": "e7e0bfa2fbbc69419adbd54cde58ddbbcd979c3c",
+      "name": "photo_5452027959830499494_y.jpg",
+      "type": "image/jpeg",
+      "size": 182334
+    },
+    "createdAt": "2026-10-22T08:10:29.496Z"
   }
 ]
