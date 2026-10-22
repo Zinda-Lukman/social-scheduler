@@ -427,5 +427,28 @@
       "size": 133224
     },
     "createdAt": "2026-10-22T08:54:32.829Z"
+  },
+  {
+    "id": "e6e22d55-b19a-4f57-b4cd-bfe46bb389c8",
+    "platform": "bluesky",
+    "date": "2026-10-24T21:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Torre degli Asinelli, Bologna, Italy 🇮🇹 \n\nLook down from this medieval tower toward the shorter, famously leaning Torre della Garisenda.\n\nBuilt in the 12th century, these towers are symbols of Bologna’s historic skyline. \n\nWould you climb to the top?\n\n#Travel #TravelPhotography #Bologna #Italy",
+    "thread": null,
+    "media": {
+      "path": "media/1792659609457-photo_5386613262860277079_y.jpg",
+      "sha": "e916997262a49ccaf6f08a062766df64059823b2",
+      "name": "photo_5386613262860277079_y.jpg",
+      "type": "image/jpeg",
+      "size": 354870
+    },
+    "createdAt": "2026-10-22T09:00:17.131Z"
   }
 ]
