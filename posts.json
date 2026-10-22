@@ -473,5 +473,28 @@
       "size": 106867
     },
     "createdAt": "2026-10-22T09:09:12.663Z"
+  },
+  {
+    "id": "f797f5a9-0d61-41c7-b635-6fee76e5e675",
+    "platform": "bluesky",
+    "date": "2026-10-25T05:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍Camps Bay, Cape Town, South Africa 🇿🇦\n\nWhite-sand beaches meet the Atlantic Ocean beneath the Twelve Apostles mountain range.\n\nWith sunsets over the water and a lively beachfront, it’s one of Cape Town’s most scenic spots.\n\nWould you visit?\n\n#Travel #TravelPhotography #CampsBay #SouthAfrica",
+    "thread": null,
+    "media": {
+      "path": "media/1792660338353-photo_5199660135398626820_y.jpg",
+      "sha": "218f17bbe90fb6b68e9a80486d6e91aeb84fb061",
+      "name": "photo_5199660135398626820_y.jpg",
+      "type": "image/jpeg",
+      "size": 237749
+    },
+    "createdAt": "2026-10-22T09:12:23.925Z"
   }
 ]
