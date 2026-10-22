@@ -243,5 +243,28 @@
       "size": 341486
     },
     "createdAt": "2026-10-22T08:17:52.103Z"
+  },
+  {
+    "id": "c278b615-251e-4998-a818-749da4e6fe6c",
+    "platform": "bluesky",
+    "date": "2026-10-23T05:19:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍  Bariloche, Argentina 🇦🇷\n\nFrom this Patagonian viewpoint, Lake Nahuel Huapi winds between forested islands and snow-capped Andean peaks.\n\nOften called one of the region’s finest panoramas, it’s a view worth the climb.\n\nWould you visit?\n\n#Travel #TravelPhotography #Patagonia #Argentina",
+    "thread": null,
+    "media": {
+      "path": "media/1792657244273-photo_5188176230367744792_y.jpg",
+      "sha": "6a6fb9014589c92760d933e21669cf354dfa6504",
+      "name": "photo_5188176230367744792_y.jpg",
+      "type": "image/jpeg",
+      "size": 215685
+    },
+    "createdAt": "2026-10-22T08:21:01.358Z"
   }
 ]
