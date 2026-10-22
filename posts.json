@@ -289,5 +289,28 @@
       "size": 189511
     },
     "createdAt": "2026-10-22T08:24:23.387Z"
+  },
+  {
+    "id": "529d4ff1-5817-4952-9f0b-2f69ed2f1eb3",
+    "platform": "bluesky",
+    "date": "2026-10-23T15:13:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Zermatt, Switzerland 🇨🇭\n\nThis car-free village sits beneath the iconic Matterhorn, surrounded by dramatic peaks and mountain trails.\n\nElectric taxis and horse-drawn carriages help preserve its peaceful atmosphere.\n\nVisiting in summer or winter?\n\n#Travel #TravelPhotography #Switzerland #Zermatt",
+    "thread": null,
+    "media": {
+      "path": "media/1792657855217-photo_5217744550464965911_y.jpg",
+      "sha": "3098f4776ee76cc91e3381a71ee48323da750fe7",
+      "name": "photo_5217744550464965911_y.jpg",
+      "type": "image/jpeg",
+      "size": 202251
+    },
+    "createdAt": "2026-10-22T08:31:07.479Z"
   }
 ]
