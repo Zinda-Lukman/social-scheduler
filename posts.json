@@ -312,5 +312,28 @@
       "size": 202251
     },
     "createdAt": "2026-10-22T08:31:07.479Z"
+  },
+  {
+    "id": "a20c5c54-ee1a-44e9-972d-e05c655ac28e",
+    "platform": "bluesky",
+    "date": "2026-10-23T21:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Obertauern, Austria 🇦🇹\n\nSnow-covered Alpine peaks surround frozen mountain waters, creating a peaceful winter scene.\n\nThis high-altitude resort is known for reliable snowfall and excellent skiing.\n\nWould you explore this landscape in winter?\n\n#Travel #TravelPhotography #Austria #Alps",
+    "thread": null,
+    "media": {
+      "path": "media/1792658166394-photo_5226627887157858277_y.jpg",
+      "sha": "6df092577ae468390bd23e911b670da9d97cbad5",
+      "name": "photo_5226627887157858277_y.jpg",
+      "type": "image/jpeg",
+      "size": 214434
+    },
+    "createdAt": "2026-10-22T08:36:12.755Z"
   }
 ]
