@@ -404,5 +404,28 @@
       "size": 129676
     },
     "createdAt": "2026-10-22T08:46:54.291Z"
+  },
+  {
+    "id": "3c406989-5e4e-45da-a97d-549f2362922d",
+    "platform": "bluesky",
+    "date": "2026-10-24T17:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Sigiriya, Sri Lanka 🇱🇰\n\nAn ancient royal fortress rises on a massive rock nearly 200 metres above the surrounding jungle.\n\nBuilt in the 5th century, Sigiriya is famed for its frescoes, gardens and lion-paw entrance.\n\nWould you climb to the summit?\n\n#Travel #TravelPhotography #Sigiriya #SriLanka",
+    "thread": null,
+    "media": {
+      "path": "media/1792659268706-photo_5381847713177523658_y.jpg",
+      "sha": "88572850fa4bf75427166308e9f15b240f25ed60",
+      "name": "photo_5381847713177523658_y.jpg",
+      "type": "image/jpeg",
+      "size": 133224
+    },
+    "createdAt": "2026-10-22T08:54:32.829Z"
   }
 ]
