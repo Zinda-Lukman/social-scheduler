@@ -110,8 +110,17 @@
 
       <label>Schedule</label>
       <div class="datetime-row"><input id="postDate" type="date" required><input id="postTime" type="time" required></div>
-      <label>Timezone</label>
-      <select id="timezone"></select>
+      <div class="schedule-interval-row">
+        <div>
+          <label for="scheduleInterval">Suggested interval</label>
+          <input id="scheduleInterval" type="number" min="1" step="1" value="1" aria-label="Suggested interval in hours">
+        </div>
+        <div>
+          <label>Timezone</label>
+          <select id="timezone"></select>
+        </div>
+      </div>
+      <small class="muted">The next suggested slot is based on the latest scheduled post time plus this interval.</small>
 
       <label>Recurring</label>
       <select id="recurrence">

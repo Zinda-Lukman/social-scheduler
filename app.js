@@ -27,8 +27,28 @@ document.querySelectorAll(".nav-item").forEach(b=>b.onclick=()=>showPage(b.datas
 document.querySelectorAll("[data-page-button]").forEach(b=>b.onclick=()=>showPage(b.dataset.pageButton));
 
 const modal=document.getElementById("postModal");
+function getSuggestedIntervalHours(){const input=document.getElementById("scheduleInterval");const value=Number(input?.value);if(!Number.isFinite(value)||value<=0)return 1;return value}
+function getNextSuggestedSchedule(items, intervalHours=1, timezone=Intl.DateTimeFormat().resolvedOptions().timeZone){
+ const step=Number(intervalHours); const resolvedStep=Number.isFinite(step)&&step>0?step:1;
+ const scheduled=[...items].filter(p=>p&&p.date&&(status(p)==="scheduled"||status(p)==="draft")&&!Number.isNaN(new Date(p.date).getTime())).map(p=>new Date(p.date));
+ const reference=scheduled.length ? new Date(Math.max(...scheduled.map(d=>d.getTime()))) : new Date();
+ return new Date(reference.getTime()+resolvedStep*60*60*1000)
+}
+function formatDateTimeForInput(date, timezone){
+ const parts=new Intl.DateTimeFormat("en-CA",{timeZone:timezone,year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit",hourCycle:"h23"}).formatToParts(new Date(date));
+ const values=Object.fromEntries(parts.filter(p=>p.type!=="literal").map(p=>[p.type,p.value]));
+ return `${values.year}-${values.month}-${values.day}T${values.hour}:${values.minute}`;
+}
+function updateSuggestedScheduleTime(){
+ const tz=document.getElementById("timezone").value || Intl.DateTimeFormat().resolvedOptions().timeZone;
+ const interval=getSuggestedIntervalHours();
+ const suggestion=getNextSuggestedSchedule(posts, interval, tz);
+ const [date,time]=formatDateTimeForInput(suggestion, tz).split("T");
+ document.getElementById("postDate").value=date;
+ document.getElementById("postTime").value=time;
+}
 function populateTimezones(){const sel=document.getElementById("timezone"),zones=["UTC","Africa/Kampala","Africa/Nairobi","Africa/Cairo","Europe/Paris","Europe/London","America/New_York","America/Los_Angeles","America/Toronto","Asia/Dubai","Asia/Kolkata","Asia/Singapore","Asia/Tokyo","Australia/Sydney"];const local=Intl.DateTimeFormat().resolvedOptions().timeZone;if(!zones.includes(local))zones.unshift(local);sel.innerHTML=[...new Set(zones)].map(z=>`<option value="${z}">${z}</option>`).join("");}
-function openCreate(){editingPostId=null;document.getElementById("modalTitle").textContent="Create Post";document.getElementById("postForm").reset();document.getElementById("postId").value="";document.getElementById("postType").value="single";document.getElementById("recurrence").value="none";document.getElementById("timezone").value=Intl.DateTimeFormat().resolvedOptions().timeZone;const d=new Date(Date.now()+3600000);document.getElementById("postDate").value=d.toISOString().slice(0,10);document.getElementById("postTime").value=d.toTimeString().slice(0,5);document.getElementById("existingMedia").innerHTML="";document.getElementById("threadContainer").innerHTML="";document.getElementById("threadContainer").classList.add("hidden");document.getElementById("addThread").classList.add("hidden");document.getElementById("postText").classList.remove("hidden");updateCount();modal.classList.remove("hidden")}
+function openCreate(){editingPostId=null;document.getElementById("modalTitle").textContent="Create Post";document.getElementById("postForm").reset();document.getElementById("postId").value="";document.getElementById("postType").value="single";document.getElementById("recurrence").value="none";document.getElementById("timezone").value=Intl.DateTimeFormat().resolvedOptions().timeZone;const savedInterval=Number(localStorage.getItem("postScheduleIntervalHours")||1);document.getElementById("scheduleInterval").value=savedInterval>0?savedInterval:1;document.getElementById("existingMedia").innerHTML="";document.getElementById("threadContainer").innerHTML="";document.getElementById("threadContainer").classList.add("hidden");document.getElementById("addThread").classList.add("hidden");document.getElementById("postText").classList.remove("hidden");updateCount();updateSuggestedScheduleTime();modal.classList.remove("hidden")}
 function openEdit(id){const p=posts.find(x=>String(x.id)===String(id));if(!p)return;editingPostId=id;document.getElementById("modalTitle").textContent="Edit Post";document.getElementById("postId").value=p.id;document.getElementById("postType").value=p.thread?"thread":"single";document.getElementById("postText").value=p.text||"";document.getElementById("timezone").value=p.timezone||"UTC";document.getElementById("recurrence").value=p.recurrence?.type||"none";const d=new Date(p.date);document.getElementById("postDate").value=d.toISOString().slice(0,10);document.getElementById("postTime").value=d.toTimeString().slice(0,5);document.getElementById("saveAsDraft").checked=p.status==="draft";document.getElementById("existingMedia").innerHTML=p.media?.path?`<img src="media/${escapeHtml(p.media.path.split("/").pop())}">`:"";setupThreadUI();if(p.thread){p.thread.forEach(t=>addThreadItem(t.text));}updateCount();modal.classList.remove("hidden")}
 function closeModal(){modal.classList.add("hidden");editingPostId=null}
 document.getElementById("createPostButton").onclick=openCreate;document.getElementById("createPostButton2").onclick=openCreate;document.getElementById("closeModal").onclick=closeModal;document.getElementById("cancelPost").onclick=closeModal;
@@ -38,6 +58,7 @@ document.getElementById("postType").onchange=setupThreadUI;
 document.getElementById("addThread").onclick=()=>addThreadItem("");
 function addThreadItem(text){const c=document.getElementById("threadContainer"),wrap=document.createElement("div");wrap.className="thread-item";wrap.innerHTML=`<textarea maxlength="300" placeholder="Thread post...">${escapeHtml(text)}</textarea><button type="button" class="small-button delete-button">×</button>`;wrap.querySelector("button").onclick=()=>wrap.remove();c.appendChild(wrap)}
 document.getElementById("postText").oninput=updateCount;
+document.getElementById("timezone").onchange=()=>{if(!editingPostId)updateSuggestedScheduleTime()};document.getElementById("scheduleInterval").oninput=()=>{if(!editingPostId){const value=Number(document.getElementById("scheduleInterval").value);localStorage.setItem("postScheduleIntervalHours",String(value>0?value:1));updateSuggestedScheduleTime()}};
 function updateCount(){document.getElementById("characterCount").textContent=document.getElementById("postText").value.length}
 function getThread(){return [...document.querySelectorAll("#threadContainer textarea")].map(x=>x.value.trim()).filter(Boolean)}
 
@@ -66,6 +87,7 @@ document.getElementById("postForm").onsubmit=async e=>{
   const base={platform:"bluesky",date:instant,timezone:tz,recurrence:{type:document.getElementById("recurrence").value},status:draft?"draft":"scheduled",posted:false,retryCount:0,error:null};
   if(editingPostId){const p=posts.find(x=>String(x.id)===String(editingPostId));Object.assign(p,base);p.text=type==="single"?text:thread[0];p.thread=type==="thread"?thread:null;if(media)p.media=media}
   else posts.push({id:crypto.randomUUID(),...base,text:type==="single"?text:thread[0],thread:type==="thread"?thread:null,media,createdAt:new Date().toISOString()});
+  const intervalValue=Number(document.getElementById("scheduleInterval").value);localStorage.setItem("postScheduleIntervalHours",String(intervalValue>0?intervalValue:1));
   await savePosts(editingPostId?"Edit scheduled post":"Create scheduled post");closeModal();renderAll();showToast("Post saved.");
  }catch(err){console.error(err);showToast(err.message)}
 };
