@@ -266,5 +266,28 @@
       "size": 215685
     },
     "createdAt": "2026-10-22T08:21:01.358Z"
+  },
+  {
+    "id": "86e9e1a4-a162-4243-81ef-141e8fea6980",
+    "platform": "bluesky",
+    "date": "2026-10-23T09:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Cappadocia, Türkiye 🇹🇷\n\nHot air balloons drift above ancient fairy chimneys as the sun rises over this surreal landscape.\n\nThese unusual rock formations were shaped by volcanic activity and erosion.\n\nWould you take a sunrise balloon ride?\n\n#Travel #TravelPhotography #Cappadocia #Türkiye",
+    "thread": null,
+    "media": {
+      "path": "media/1792657458465-photo_5197237941347406920_y.jpg",
+      "sha": "4a2ef9e56c576c69ded1dfa9ae3ad70d27a9d185",
+      "name": "photo_5197237941347406920_y.jpg",
+      "type": "image/jpeg",
+      "size": 189511
+    },
+    "createdAt": "2026-10-22T08:24:23.387Z"
   }
 ]
