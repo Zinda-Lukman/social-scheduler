@@ -496,5 +496,28 @@
       "size": 237749
     },
     "createdAt": "2026-10-22T09:12:23.925Z"
+  },
+  {
+    "id": "71d6a5a8-de81-47e7-9ea4-ed895d3ce3da",
+    "platform": "bluesky",
+    "date": "2026-10-25T09:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Siloli Desert, Bolivia 🇧🇴\n\nRugged Andean mountains rise above the vast Altiplano. \n\nWhere wind-sculpted rocks and barren plains create an almost Martian landscape near Laguna Colorada.\n\nWould you explore this remote corner of Bolivia?\n\n#Travel #TravelPhotography #Bolivia #Andes",
+    "thread": null,
+    "media": {
+      "path": "media/1792660891442-photo_5370826157081092886_y.jpg",
+      "sha": "eea46eec0b584311e20179ce4fb592f8150c4989",
+      "name": "photo_5370826157081092886_y.jpg",
+      "type": "image/jpeg",
+      "size": 164209
+    },
+    "createdAt": "2026-10-22T09:21:35.819Z"
   }
 ]
