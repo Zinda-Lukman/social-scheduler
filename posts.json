@@ -1,31 +1,5 @@
 [
   {
-    "id": "32caa7e4-1516-4c7f-a9fc-e27c6979e537",
-    "platform": "bluesky",
-    "date": "2026-10-22T21:09:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Stari Most, Mostar, Bosnia and Herzegovina 🇧🇦\n\nThis elegant 16th-century Ottoman bridge arches over the emerald Neretva River.\n\nDestroyed in 1993 and rebuilt in 2004, it stands as a symbol of resilience.\n\nWould you watch the famous bridge divers?\n\n#Travel #TravelPhotography #Mostar #Bosnia",
-    "thread": null,
-    "media": {
-      "path": "media/1792656613692-photo_5452027959830499494_y.jpg",
-      "sha": "e7e0bfa2fbbc69419adbd54cde58ddbbcd979c3c",
-      "name": "photo_5452027959830499494_y.jpg",
-      "type": "image/jpeg",
-      "size": 182334
-    },
-    "createdAt": "2026-10-22T08:10:29.496Z",
-    "postedAt": "2026-10-22T22:03:01.231Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myio5itybt2u",
-    "cid": "bafyreids7ypooh2oja6xv6f2gz7yewnmlelukitpsoip3ptnmk4m5le5x4"
-  },
-  {
     "id": "e134931d-d5d7-4e4f-bd83-42dad8377482",
     "platform": "bluesky",
     "date": "2026-10-23T01:13:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Obertauern, Austria 🇦🇹\n\nSnow-covered Alpine peaks surround frozen mountain waters, creating a peaceful winter scene.\n\nThis high-altitude resort is known for reliable snowfall and excellent skiing.\n\nWould you explore this landscape in winter?\n\n#Travel #TravelPhotography #Austria #Alps",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 214434
     },
-    "createdAt": "2026-10-22T08:36:12.755Z"
+    "createdAt": "2026-10-22T08:36:12.755Z",
+    "postedAt": "2026-10-23T22:24:06.409Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myl7s4x2fb2w",
+    "cid": "bafyreiakdykvlja6bfbagdbwh7xgwadgejx2yprkrp47nnwspdqfa6hj4m"
   },
   {
     "id": "4c2edbe9-767b-4308-bd30-8df21967b621",
