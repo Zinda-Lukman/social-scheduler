@@ -384,5 +384,28 @@
       "size": 164209
     },
     "createdAt": "2026-10-22T09:21:35.819Z"
+  },
+  {
+    "id": "5732edc2-7e09-4623-8e3a-b63af8515caa",
+    "platform": "bluesky",
+    "date": "2026-10-25T13:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍Hobbiton Movie Set, Matamata, New Zealand🇳🇿\n\nRound doors, flower-filled gardens and cozy Hobbit holes nestle into rolling green hills.\n\nBuilt for The Lord of the Rings, this enchanting village feels straight out of Middle-earth.\n\nWould you visit?\n\n#Travel #TravelPhotography #Hobbiton #NewZealand",
+    "thread": null,
+    "media": {
+      "path": "media/1792758709017-photo_5282947187719920230_y.jpg",
+      "sha": "a3ebf8962d013b26a49598d9882a451940770523",
+      "name": "photo_5282947187719920230_y.jpg",
+      "type": "image/jpeg",
+      "size": 307108
+    },
+    "createdAt": "2026-10-23T12:32:04.849Z"
   }
 ]
