@@ -430,5 +430,28 @@
       "size": 232578
     },
     "createdAt": "2026-10-23T12:37:03.063Z"
+  },
+  {
+    "id": "ae6934dd-8838-4e6e-8342-a50da0524939",
+    "platform": "bluesky",
+    "date": "2026-10-26T03:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Parc national de la Jacques-Cartier, Quebec, Canada 🇨🇦 \n\nThis river winds through a deep glacial valley, surrounded by forested slopes and rugged cliffs. \n\nThis landscape is perfect for hiking, kayaking and wildlife spotting.\n\nWould you explore it?\n\n#Travel #TravelPhotography #Quebec #Canada",
+    "thread": null,
+    "media": {
+      "path": "media/1792759262336-photo_5249354483266343296_y.jpg",
+      "sha": "26c8e5a84e9f203c970a1e00b8b0a947a5190c79",
+      "name": "photo_5249354483266343296_y.jpg",
+      "type": "image/jpeg",
+      "size": 187381
+    },
+    "createdAt": "2026-10-23T12:41:19.589Z"
   }
 ]
