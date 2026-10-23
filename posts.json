@@ -407,5 +407,28 @@
       "size": 307108
     },
     "createdAt": "2026-10-23T12:32:04.849Z"
+  },
+  {
+    "id": "93d37056-a92c-4ed6-b030-2bd2f1839bad",
+    "platform": "bluesky",
+    "date": "2026-10-25T21:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍Lago di Braies, South Tyrol, Italy🇮🇹\n\nWooden rowboat rests on emerald-green water, framed by Dolomite peaks and dense alpine forests.\n\nThe mountain lake is famous for its mirror-like reflections and peaceful scenery.\n\nWould you take a boat ride here?\n\n#Travel #TravelPhotography #Dolomites #Italy",
+    "thread": null,
+    "media": {
+      "path": "media/1792759005416-photo_5258489462093112656_y.jpg",
+      "sha": "3c8dd049dc5254655e81325bcce3f2ec99847e3e",
+      "name": "photo_5258489462093112656_y.jpg",
+      "type": "image/jpeg",
+      "size": 232578
+    },
+    "createdAt": "2026-10-23T12:37:03.063Z"
   }
 ]
