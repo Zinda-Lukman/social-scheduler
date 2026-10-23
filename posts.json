@@ -453,5 +453,28 @@
       "size": 187381
     },
     "createdAt": "2026-10-23T12:41:19.589Z"
+  },
+  {
+    "id": "a797771e-7a2b-415a-b8df-73f8a92aeab8",
+    "platform": "bluesky",
+    "date": "2026-10-26T09:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍Trudo Vertical Forest, Netherlands 🇳🇱\n\nThis tower brings nature into the city, with trees and shrubs growing across balconies on its facade. \n\nAn example of how urban housing can blend greenery with modern architecture.\n\nWould you live here?\n\n#Travel #TravelPhotography #Netherlands #Architecture",
+    "thread": null,
+    "media": {
+      "path": "media/1792759491096-photo_5244548689740027976_y.jpg",
+      "sha": "3b6d5cd7a6fc8669f25099e88fff9b0fbf8bc9bc",
+      "name": "photo_5244548689740027976_y.jpg",
+      "type": "image/jpeg",
+      "size": 132010
+    },
+    "createdAt": "2026-10-23T12:45:02.650Z"
   }
 ]
