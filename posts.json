@@ -473,5 +473,28 @@
       "size": 344832
     },
     "createdAt": "2026-10-24T19:47:42.026Z"
+  },
+  {
+    "id": "fd4f499f-59bf-450e-a3d1-c73f78392afa",
+    "platform": "bluesky",
+    "date": "2026-10-27T21:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Cheval Blanc Randheli, Maldives 🇲🇻\n\nOverwater villas sit, surrounded by white-sand beaches and the Indian Ocean. \n\nThis luxury island retreat blends contemporary design with tropical scenery. \n\nWould you spend a night in an overwater villa?\n\n#Travel #TravelPhotography #Maldives #LuxuryTravel",
+    "thread": null,
+    "media": {
+      "path": "media/1792871616573-photo_5341550182522805206_y.jpg",
+      "sha": "61fc268815adc06daa5315de648a13d1e1c2c3ac",
+      "name": "photo_5341550182522805206_y.jpg",
+      "type": "image/jpeg",
+      "size": 393622
+    },
+    "createdAt": "2026-10-24T19:53:45.508Z"
   }
 ]
