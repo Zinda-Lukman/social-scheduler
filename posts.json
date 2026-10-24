@@ -1,31 +1,5 @@
 [
   {
-    "id": "86e9e1a4-a162-4243-81ef-141e8fea6980",
-    "platform": "bluesky",
-    "date": "2026-10-23T09:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Cappadocia, Türkiye 🇹🇷\n\nHot air balloons drift above ancient fairy chimneys as the sun rises over this surreal landscape.\n\nThese unusual rock formations were shaped by volcanic activity and erosion.\n\nWould you take a sunrise balloon ride?\n\n#Travel #TravelPhotography #Cappadocia #Türkiye",
-    "thread": null,
-    "media": {
-      "path": "media/1792657458465-photo_5197237941347406920_y.jpg",
-      "sha": "4a2ef9e56c576c69ded1dfa9ae3ad70d27a9d185",
-      "name": "photo_5197237941347406920_y.jpg",
-      "type": "image/jpeg",
-      "size": 189511
-    },
-    "createdAt": "2026-10-22T08:24:23.387Z",
-    "postedAt": "2026-10-23T10:17:52.726Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myjx7jukpm27",
-    "cid": "bafyreigrwhrxuqr5sosekifoo7ywkevwtkuu6vf4c73ffmu3hdjt64w3vy"
-  },
-  {
     "id": "529d4ff1-5817-4952-9f0b-2f69ed2f1eb3",
     "platform": "bluesky",
     "date": "2026-10-23T15:13:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Hormuz Island, Iran 🇮🇷\n\nRugged cliffs reveal layers of red, orange and ochre rock beside the Persian Gulf.\n\nRich in mineral pigments, this small island is famous for its striking, colourful landscapes.\n\nWould you explore its dramatic coastline?\n\n#Travel #TravelPhotography #HormuzIsland #Iran",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 129676
     },
-    "createdAt": "2026-10-22T08:46:54.291Z"
+    "createdAt": "2026-10-22T08:46:54.291Z",
+    "postedAt": "2026-10-24T13:38:55.519Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mymsvx6pbh2b",
+    "cid": "bafyreieqrat7rlnmci2yes2mhc7hyld4xz4yzirwtro7b5gcstcq2kcefq"
   },
   {
     "id": "3c406989-5e4e-45da-a97d-549f2362922d",
