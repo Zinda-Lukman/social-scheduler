@@ -496,5 +496,28 @@
       "size": 393622
     },
     "createdAt": "2026-10-24T19:53:45.508Z"
+  },
+  {
+    "id": "b5bb5b65-1382-481e-a1b7-4de07f2a0ae2",
+    "platform": "bluesky",
+    "date": "2026-10-28T03:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Mount Teide, Tenerife, Spain 🇪🇸 \n\nRising 3,715 metres above sea level, this volcanic giant is Spain’s highest peak.\n\nIts rugged lava fields and sea of clouds create an almost lunar landscape.\n\nWould you explore Teide National Park?\n\n#Travel #TravelPhotography #Tenerife #Spain",
+    "thread": null,
+    "media": {
+      "path": "media/1792871892103-photo_5346268380191119257_y.jpg",
+      "sha": "bb60eecdeabaff397f608946996b3f98c774e6b2",
+      "name": "photo_5346268380191119257_y.jpg",
+      "type": "image/jpeg",
+      "size": 83000
+    },
+    "createdAt": "2026-10-24T19:58:17.004Z"
   }
 ]
