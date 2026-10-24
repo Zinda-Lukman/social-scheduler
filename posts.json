@@ -519,5 +519,28 @@
       "size": 83000
     },
     "createdAt": "2026-10-24T19:58:17.004Z"
+  },
+  {
+    "id": "fa90b841-cd34-4833-b74a-4aff7866e4e3",
+    "platform": "bluesky",
+    "date": "2026-10-28T09:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Minneapolis, Minnesota, USA 🇺🇸 \n\nModern skyscrapers rise above the Mississippi River, blending city life with historic riverfront landmarks.\n\nKnown as the “City of Lakes,” Minneapolis offers an urban skyline surrounded by green spaces.\n\nWould you visit?\n\n#Travel #TravelPhotography #Minneapolis",
+    "thread": null,
+    "media": {
+      "path": "media/1792872047343-photo_5352589644337895844_y.jpg",
+      "sha": "43f6da93a96bb93de1b98826686cdc7a0852a92b",
+      "name": "photo_5352589644337895844_y.jpg",
+      "type": "image/jpeg",
+      "size": 76645
+    },
+    "createdAt": "2026-10-24T20:00:51.476Z"
   }
 ]
