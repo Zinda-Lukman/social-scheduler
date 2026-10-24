@@ -3142,5 +3142,29 @@
     "message": "Post 3c406989-5e4e-45da-a97d-549f2362922d published successfully.",
     "postId": "3c406989-5e4e-45da-a97d-549f2362922d",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-24T21:44:35.246Z",
+    "level": "info",
+    "event": "LOGIN",
+    "message": "Logged into Bluesky.",
+    "postId": null,
+    "timezone": "UTC"
+  },
+  {
+    "time": "2026-10-24T21:44:35.246Z",
+    "level": "info",
+    "event": "PUBLISH_START",
+    "message": "Publishing post e6e22d55-b19a-4f57-b4cd-bfe46bb389c8.",
+    "postId": "e6e22d55-b19a-4f57-b4cd-bfe46bb389c8",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-24T21:44:36.590Z",
+    "level": "info",
+    "event": "PUBLISHED",
+    "message": "Post e6e22d55-b19a-4f57-b4cd-bfe46bb389c8 published successfully.",
+    "postId": "e6e22d55-b19a-4f57-b4cd-bfe46bb389c8",
+    "timezone": "Africa/Nairobi"
   }
 ]
