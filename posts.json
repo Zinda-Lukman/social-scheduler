@@ -450,5 +450,28 @@
       "size": 178996
     },
     "createdAt": "2026-10-24T19:43:50.713Z"
+  },
+  {
+    "id": "46d4a8dd-ac7a-4150-b3f1-f5bee020ac80",
+    "platform": "bluesky",
+    "date": "2026-10-27T15:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Cala Deià, Mallorca, Spain 🇪🇸\n\nThis small rocky cove hides between the Tramuntana mountains and the turquoise Mediterranean Sea.\n\nTraditional stone houses and crystal-clear water give it a peaceful, timeless charm.\n\nWould you swim here?\n\n#Travel #TravelPhotography #Mallorca #Spain",
+    "thread": null,
+    "media": {
+      "path": "media/1792871254039-photo_5332773678846434278_y.jpg",
+      "sha": "5e70030df147fbe461535526f3a953f613014fe2",
+      "name": "photo_5332773678846434278_y.jpg",
+      "type": "image/jpeg",
+      "size": 344832
+    },
+    "createdAt": "2026-10-24T19:47:42.026Z"
   }
 ]
