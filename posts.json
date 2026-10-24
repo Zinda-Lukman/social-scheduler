@@ -381,5 +381,28 @@
       "size": 83187
     },
     "createdAt": "2026-10-24T19:35:20.156Z"
+  },
+  {
+    "id": "188141c6-da8d-4a76-b83a-5ae4f57a85db",
+    "platform": "bluesky",
+    "date": "2026-10-27T01:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Sheikh Zayed Grand Mosque, Abu Dhabi 🇦🇪\n\nWhite marble domes, intricate floral designs and reflective pools make this architectural masterpiece unforgettable.\n\nIts elegant arches glow beautifully at sunset.\n\nWould you visit during the day or at night?\n\n#Travel #TravelPhotography #AbuDhabi",
+    "thread": null,
+    "media": {
+      "path": "media/1792870666102-photo_5285186192826033593_y.jpg",
+      "sha": "def577fad5f5169aaa6148a44d6b2cf7ff6b5827",
+      "name": "photo_5285186192826033593_y.jpg",
+      "type": "image/jpeg",
+      "size": 160262
+    },
+    "createdAt": "2026-10-24T19:37:56.007Z"
   }
 ]
