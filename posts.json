@@ -427,5 +427,28 @@
       "size": 329340
     },
     "createdAt": "2026-10-24T19:40:44.528Z"
+  },
+  {
+    "id": "5a824589-d15b-42cf-8b21-63e8a1ee8a3f",
+    "platform": "bluesky",
+    "date": "2026-10-27T09:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Miradouro da Boca do Inferno, Azores 🇵🇹 \n\nThis spectacular viewpoint overlooks volcanic crater lakes surrounded by lush green hills.\n\nThe dramatic landscape reveals the wild beauty of Portugal’s Atlantic islands.\n\nWould you visit on a clear day?\n\n#Travel #TravelPhotography #Azores #Portugal",
+    "thread": null,
+    "media": {
+      "path": "media/1792871021895-photo_5321124413279688194_y.jpg",
+      "sha": "e28db3e83106d73b26e74b36ea423da68bd4123b",
+      "name": "photo_5321124413279688194_y.jpg",
+      "type": "image/jpeg",
+      "size": 178996
+    },
+    "createdAt": "2026-10-24T19:43:50.713Z"
   }
 ]
