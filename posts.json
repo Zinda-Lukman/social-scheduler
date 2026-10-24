@@ -1,57 +1,5 @@
 [
   {
-    "id": "e134931d-d5d7-4e4f-bd83-42dad8377482",
-    "platform": "bluesky",
-    "date": "2026-10-23T01:13:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍Zanzibar, Tanzania 🇹🇿\n\nBlue waters meet white-sand beaches, while Stone Town’s narrow streets reveal Swahili, and Arab influences.\n\nThis Indian Ocean archipelago blends rich history with tropical beauty.\n\nWould you visit for the beaches or culture?\n\n#Travel #TravelPhotography #Zanzibar #Tanzania",
-    "thread": null,
-    "media": {
-      "path": "media/1792657059042-photo_5458695913737408382_y.jpg",
-      "sha": "0d893e1f39af0bbdf19f822a9384cf32b1289daa",
-      "name": "photo_5458695913737408382_y.jpg",
-      "type": "image/jpeg",
-      "size": 341486
-    },
-    "createdAt": "2026-10-22T08:17:52.103Z",
-    "postedAt": "2026-10-23T05:21:19.223Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myjgnaltma25",
-    "cid": "bafyreigup5z3vtdrtdcngzjhc265w7jj2zgaj5v4x5hpnp3l2lfmzdwxoy"
-  },
-  {
-    "id": "c278b615-251e-4998-a818-749da4e6fe6c",
-    "platform": "bluesky",
-    "date": "2026-10-23T05:19:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍  Bariloche, Argentina 🇦🇷\n\nFrom this Patagonian viewpoint, Lake Nahuel Huapi winds between forested islands and snow-capped Andean peaks.\n\nOften called one of the region’s finest panoramas, it’s a view worth the climb.\n\nWould you visit?\n\n#Travel #TravelPhotography #Patagonia #Argentina",
-    "thread": null,
-    "media": {
-      "path": "media/1792657244273-photo_5188176230367744792_y.jpg",
-      "sha": "6a6fb9014589c92760d933e21669cf354dfa6504",
-      "name": "photo_5188176230367744792_y.jpg",
-      "type": "image/jpeg",
-      "size": 215685
-    },
-    "createdAt": "2026-10-22T08:21:01.358Z",
-    "postedAt": "2026-10-23T05:21:20.330Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myjgnbogzk2r",
-    "cid": "bafyreibgdy2hqaj25wxrzryqgtjun6lbk7ukruu3do5hsihlf2uznn7ucu"
-  },
-  {
     "id": "86e9e1a4-a162-4243-81ef-141e8fea6980",
     "platform": "bluesky",
     "date": "2026-10-23T09:00:00.000Z",
@@ -137,8 +85,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Ordino, Andorra 🇦🇩\n\nA winding mountain road leads toward a quiet settlement nestled among the Pyrenees.\n\nStone houses, green slopes and dramatic peaks make this small parish a scenic escape.\n\nWould you take this mountain drive?\n\n#Travel #TravelPhotography #Andorra #Pyrenees",
@@ -150,7 +98,10 @@
       "type": "image/jpeg",
       "size": 256085
     },
-    "createdAt": "2026-10-22T08:38:42.017Z"
+    "createdAt": "2026-10-22T08:38:42.017Z",
+    "postedAt": "2026-10-24T05:30:49.514Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mylxn5pwdl2q",
+    "cid": "bafyreiagvp3mew2r5iz4q6buh7jyaj7x6qcxpz6ozsa5de67gm5pk45dfa"
   },
   {
     "id": "fe2803cc-baa8-49c7-bfeb-2521606e2736",
