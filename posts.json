@@ -111,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Iguazu Falls, Argentina 🇦🇷 / Brazil 🇧🇷\n\nHundreds of cascades thunder through lush rainforest, forming one of the world’s largest waterfall.\n\nAt Devil’s Throat, the sheer volume of water is breathtaking.\n\nWhich side would you explore first?\n\n#Travel #TravelPhotography #IguazuFalls #SouthAmeric",
@@ -124,7 +124,10 @@
       "type": "image/jpeg",
       "size": 257897
     },
-    "createdAt": "2026-10-22T08:42:48.492Z"
+    "createdAt": "2026-10-22T08:42:48.492Z",
+    "postedAt": "2026-10-24T09:45:23.585Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mymfuearqv2j",
+    "cid": "bafyreicj3domyxo32y6phds4c2z2o2qjbbu7s4sl76yskrsgdykgwc3aoi"
   },
   {
     "id": "98f32fa2-b414-451b-b812-956187323e27",
