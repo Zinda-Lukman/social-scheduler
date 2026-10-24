@@ -335,5 +335,28 @@
       "size": 378363
     },
     "createdAt": "2026-10-23T12:54:39.202Z"
+  },
+  {
+    "id": "95a1b760-4919-4271-9ef5-42cac1a23f28",
+    "platform": "bluesky",
+    "date": "2026-10-26T17:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Torres del Paine National Park, Chile 🇨🇱\n\nThe jagged peaks of Los Cuernos rise beneath a glowing orange lenticular cloud, shaped by powerful winds over Patagonia’s mountains.\n\nThis dramatic scene looks almost otherworldly. \n\nHave you ever seen clouds like these?",
+    "thread": null,
+    "media": {
+      "path": "media/1792870490262-photo_5201911935212314755_y.jpg",
+      "sha": "c430c4f89806995537ec169b2cc5167f01c0fcbf",
+      "name": "photo_5201911935212314755_y.jpg",
+      "type": "image/jpeg",
+      "size": 83187
+    },
+    "createdAt": "2026-10-24T19:34:57.834Z"
   }
 ]
