@@ -137,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍Main Post Office, Skopje, North Macedonia🇲🇰\n\nThis striking landmark resembles a concrete flower, with sweeping curves and sculptural forms.\n\nDesigned by Konstantinov, it became an icon of Skopje’s bold post-earthquake architecture.\n\nWould you visit?\n\n#Travel #TravelPhotography #Skopje #Brutalism",
@@ -150,7 +150,10 @@
       "type": "image/jpeg",
       "size": 106867
     },
-    "createdAt": "2026-10-22T09:09:12.663Z"
+    "createdAt": "2026-10-22T09:09:12.663Z",
+    "postedAt": "2026-10-25T01:46:57.492Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myo3lrnpg22w",
+    "cid": "bafyreiaxg5iblthrtbvt4gbzpr4z3xdkexn6w2cj7vpyv5wo2rzqxrlitq"
   },
   {
     "id": "f797f5a9-0d61-41c7-b635-6fee76e5e675",
