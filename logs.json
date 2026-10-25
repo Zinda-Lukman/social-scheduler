@@ -3350,5 +3350,13 @@
     "message": "Post 93d37056-a92c-4ed6-b030-2bd2f1839bad published successfully.",
     "postId": "93d37056-a92c-4ed6-b030-2bd2f1839bad",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-25T23:57:56.162Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
