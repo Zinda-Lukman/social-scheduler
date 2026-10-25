@@ -3302,5 +3302,13 @@
     "message": "Post 5732edc2-7e09-4623-8e3a-b63af8515caa published successfully.",
     "postId": "5732edc2-7e09-4623-8e3a-b63af8515caa",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-25T19:19:59.583Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
