@@ -1,31 +1,5 @@
 [
   {
-    "id": "98f32fa2-b414-451b-b812-956187323e27",
-    "platform": "bluesky",
-    "date": "2026-10-24T13:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Hormuz Island, Iran 🇮🇷\n\nRugged cliffs reveal layers of red, orange and ochre rock beside the Persian Gulf.\n\nRich in mineral pigments, this small island is famous for its striking, colourful landscapes.\n\nWould you explore its dramatic coastline?\n\n#Travel #TravelPhotography #HormuzIsland #Iran",
-    "thread": null,
-    "media": {
-      "path": "media/1792658807842-photo_5332504156763706935_y.jpg",
-      "sha": "23e742652d00d9a46a695e20cff6ebaa053ed95e",
-      "name": "photo_5332504156763706935_y.jpg",
-      "type": "image/jpeg",
-      "size": 129676
-    },
-    "createdAt": "2026-10-22T08:46:54.291Z",
-    "postedAt": "2026-10-24T13:38:55.519Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mymsvx6pbh2b",
-    "cid": "bafyreieqrat7rlnmci2yes2mhc7hyld4xz4yzirwtro7b5gcstcq2kcefq"
-  },
-  {
     "id": "3c406989-5e4e-45da-a97d-549f2362922d",
     "platform": "bluesky",
     "date": "2026-10-24T17:00:00.000Z",
@@ -163,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍Hobbiton Movie Set, Matamata, New Zealand🇳🇿\n\nRound doors, flower-filled gardens and cozy Hobbit holes nestle into rolling green hills.\n\nBuilt for The Lord of the Rings, this enchanting village feels straight out of Middle-earth.\n\nWould you visit?\n\n#Travel #TravelPhotography #Hobbiton #NewZealand",
@@ -176,7 +150,10 @@
       "type": "image/jpeg",
       "size": 307108
     },
-    "createdAt": "2026-10-23T12:32:04.849Z"
+    "createdAt": "2026-10-23T12:32:04.849Z",
+    "postedAt": "2026-10-25T16:45:42.264Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mypnsu72me2m",
+    "cid": "bafyreidqqg3zyzadsottg5f2woepsd6xdrrk343lqnaldh3pdrpbvbyr2m"
   },
   {
     "id": "93d37056-a92c-4ed6-b030-2bd2f1839bad",
