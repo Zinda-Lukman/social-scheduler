@@ -1,31 +1,5 @@
 [
   {
-    "id": "4c2edbe9-767b-4308-bd30-8df21967b621",
-    "platform": "bluesky",
-    "date": "2026-10-24T03:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Ordino, Andorra 🇦🇩\n\nA winding mountain road leads toward a quiet settlement nestled among the Pyrenees.\n\nStone houses, green slopes and dramatic peaks make this small parish a scenic escape.\n\nWould you take this mountain drive?\n\n#Travel #TravelPhotography #Andorra #Pyrenees",
-    "thread": null,
-    "media": {
-      "path": "media/1792658315497-photo_5240354645585548352_y.jpg",
-      "sha": "1579e390e9fbc20c612474e45cbb45946dc97ad6",
-      "name": "photo_5240354645585548352_y.jpg",
-      "type": "image/jpeg",
-      "size": 256085
-    },
-    "createdAt": "2026-10-22T08:38:42.017Z",
-    "postedAt": "2026-10-24T05:30:49.514Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mylxn5pwdl2q",
-    "cid": "bafyreiagvp3mew2r5iz4q6buh7jyaj7x6qcxpz6ozsa5de67gm5pk45dfa"
-  },
-  {
     "id": "fe2803cc-baa8-49c7-bfeb-2521606e2736",
     "platform": "bluesky",
     "date": "2026-10-24T09:00:00.000Z",
@@ -163,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍Camps Bay, Cape Town, South Africa 🇿🇦\n\nWhite-sand beaches meet the Atlantic Ocean beneath the Twelve Apostles mountain range.\n\nWith sunsets over the water and a lively beachfront, it’s one of Cape Town’s most scenic spots.\n\nWould you visit?\n\n#Travel #TravelPhotography #CampsBay #SouthAfrica",
@@ -176,7 +150,10 @@
       "type": "image/jpeg",
       "size": 237749
     },
-    "createdAt": "2026-10-22T09:12:23.925Z"
+    "createdAt": "2026-10-22T09:12:23.925Z",
+    "postedAt": "2026-10-25T06:59:36.152Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myon2t6a3j2k",
+    "cid": "bafyreibya5wvsyglvtcdvoi7dfhde4spjgp57whu7vbtme33iq3s2kzxqm"
   },
   {
     "id": "71d6a5a8-de81-47e7-9ea4-ed895d3ce3da",
