@@ -1,31 +1,5 @@
 [
   {
-    "id": "fe2803cc-baa8-49c7-bfeb-2521606e2736",
-    "platform": "bluesky",
-    "date": "2026-10-24T09:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Iguazu Falls, Argentina 🇦🇷 / Brazil 🇧🇷\n\nHundreds of cascades thunder through lush rainforest, forming one of the world’s largest waterfall.\n\nAt Devil’s Throat, the sheer volume of water is breathtaking.\n\nWhich side would you explore first?\n\n#Travel #TravelPhotography #IguazuFalls #SouthAmeric",
-    "thread": null,
-    "media": {
-      "path": "media/1792658563722-photo_5307860261484483404_y.jpg",
-      "sha": "e65a9d5af34d3ddbbac0837222a789fff3fd8978",
-      "name": "photo_5307860261484483404_y.jpg",
-      "type": "image/jpeg",
-      "size": 257897
-    },
-    "createdAt": "2026-10-22T08:42:48.492Z",
-    "postedAt": "2026-10-24T09:45:23.585Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mymfuearqv2j",
-    "cid": "bafyreicj3domyxo32y6phds4c2z2o2qjbbu7s4sl76yskrsgdykgwc3aoi"
-  },
-  {
     "id": "98f32fa2-b414-451b-b812-956187323e27",
     "platform": "bluesky",
     "date": "2026-10-24T13:00:00.000Z",
@@ -163,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Siloli Desert, Bolivia 🇧🇴\n\nRugged Andean mountains rise above the vast Altiplano. \n\nWhere wind-sculpted rocks and barren plains create an almost Martian landscape near Laguna Colorada.\n\nWould you explore this remote corner of Bolivia?\n\n#Travel #TravelPhotography #Bolivia #Andes",
@@ -176,7 +150,10 @@
       "type": "image/jpeg",
       "size": 164209
     },
-    "createdAt": "2026-10-22T09:21:35.819Z"
+    "createdAt": "2026-10-22T09:21:35.819Z",
+    "postedAt": "2026-10-25T12:30:24.202Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myp7kdpoeg2k",
+    "cid": "bafyreif7fhcgg42yq3wya2jxgg65sfycinwaq5t74junkfqyncrbfoeh4i"
   },
   {
     "id": "5732edc2-7e09-4623-8e3a-b63af8515caa",
