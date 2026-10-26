@@ -111,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Torres del Paine National Park, Chile 🇨🇱\n\nThe jagged peaks of Los Cuernos rise beneath a glowing orange lenticular cloud, shaped by powerful winds over Patagonia’s mountains.\n\nThis dramatic scene looks almost otherworldly. \n\nHave you ever seen clouds like these?",
@@ -124,7 +124,10 @@
       "type": "image/jpeg",
       "size": 83187
     },
-    "createdAt": "2026-10-24T19:34:57.834Z"
+    "createdAt": "2026-10-24T19:34:57.834Z",
+    "postedAt": "2026-10-26T21:19:56.876Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mysnm633ky2m",
+    "cid": "bafyreieupd67nz3zopl7iit2x52zwxdu6ypdbglgdb4j5czmlfh52cohsu"
   },
   {
     "id": "c3226b73-adcf-4856-9696-796dce1adc55",
@@ -134,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 San Cristóbal Volcano, Nicaragua 🇳🇮 \n\nThis active volcano is the highest peak in Nicaragua, rising above the surrounding countryside. \n\nIts steep, dark slopes create a dramatic silhouette. \n\nWould you explore this volcanic landscape?\n\n#Travel #TravelPhotography #Nicaragua",
@@ -147,7 +150,10 @@
       "type": "image/jpeg",
       "size": 83187
     },
-    "createdAt": "2026-10-24T19:35:20.156Z"
+    "createdAt": "2026-10-24T19:35:20.156Z",
+    "postedAt": "2026-10-26T21:19:57.421Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mysnm74b3q2m",
+    "cid": "bafyreihbsc4bm2vk2scmavrqjx4yr3mrtiypr2un2gk57q6blywocbw774"
   },
   {
     "id": "188141c6-da8d-4a76-b83a-5ae4f57a85db",
