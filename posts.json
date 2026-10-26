@@ -588,5 +588,28 @@
       "size": 196699
     },
     "createdAt": "2026-10-26T12:47:49.293Z"
+  },
+  {
+    "id": "daead05e-7d58-4b69-8941-1788169ce773",
+    "platform": "bluesky",
+    "date": "2026-10-30T15:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Cap de Formentor, Mallorca, Spain 🇪🇸\n\nDramatic limestone cliffs plunge into deep blue Mediterranean waters at Mallorca’s rugged northern tip.\n\nWinding roads reveal breathtaking coastal views at every turn.\n\nWould you take this scenic drive?\n\n#Travel #TravelPhotography #Mallorca",
+    "thread": null,
+    "media": {
+      "path": "media/1793019013556-photo_5309805598201731186_y.jpg",
+      "sha": "11609511c9d4d0d00cc721ee461405e6e074bd75",
+      "name": "photo_5309805598201731186_y.jpg",
+      "type": "image/jpeg",
+      "size": 182464
+    },
+    "createdAt": "2026-10-26T12:50:19.976Z"
   }
 ]
