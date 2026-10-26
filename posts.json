@@ -450,5 +450,28 @@
       "size": 204924
     },
     "createdAt": "2026-10-26T12:32:08.611Z"
+  },
+  {
+    "id": "82852133-6472-4074-ba8f-af73d3280948",
+    "platform": "bluesky",
+    "date": "2026-10-29T05:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Kuwait Towers, Kuwait City 🇰🇼\n\nThese iconic towers rise above the Arabian Gulf, their blue-green spheres reflecting the sea and sky.\n\nOpened in 1979, they combine modern design with traditional inspiration.\n\nWould you visit the observation deck?\n\n#Travel #TravelPhotography #Kuwait",
+    "thread": null,
+    "media": {
+      "path": "media/1793018056548-photo_5449646460594412897_y.jpg",
+      "sha": "3a4a219d3cf231097b1d71a775d5d35280b5f1b8",
+      "name": "photo_5449646460594412897_y.jpg",
+      "type": "image/jpeg",
+      "size": 145874
+    },
+    "createdAt": "2026-10-26T12:34:23.120Z"
   }
 ]
