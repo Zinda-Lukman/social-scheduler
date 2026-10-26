@@ -519,5 +519,28 @@
       "size": 528754
     },
     "createdAt": "2026-10-26T12:40:11.259Z"
+  },
+  {
+    "id": "ac67b300-a1ec-4a85-8440-89f1923f63aa",
+    "platform": "bluesky",
+    "date": "2026-10-29T21:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Hiroshima Castle, Hiroshima, Japan 🇯🇵\n\nThis elegant five-story castle rises above a moat, surrounded by trees and peaceful grounds.\n\nOriginally built in the 1590s, it was reconstructed after World War II.\n\nWould you explore this piece of Japanese history?\n\n#Travel #TravelPhotography #Japan",
+    "thread": null,
+    "media": {
+      "path": "media/1793018517740-photo_5364118680885126763_y.jpg",
+      "sha": "9ec7a5c87a99ced38a1d9d436cb352bc483f0a00",
+      "name": "photo_5364118680885126763_y.jpg",
+      "type": "image/jpeg",
+      "size": 205283
+    },
+    "createdAt": "2026-10-26T12:42:03.627Z"
   }
 ]
