@@ -496,5 +496,28 @@
       "size": 188706
     },
     "createdAt": "2026-10-26T12:36:15.443Z"
+  },
+  {
+    "id": "c9ddbb33-2170-45e9-bf17-ef7ceba39c53",
+    "platform": "bluesky",
+    "date": "2026-10-29T15:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Near Lucerne, Switzerland 🇨🇭 \n\nGreen alpine hills roll past traditional Swiss houses, while mist drifts across distant mountain peaks. \n\nThis peaceful countryside captures the charm of central Switzerland.\n\nWould you spend a weekend here?\n\n#Travel #TravelPhotography #Switzerland",
+    "thread": null,
+    "media": {
+      "path": "media/1793018400492-photo_5386378371098858826_y.jpg",
+      "sha": "2824a5b591e1c9f63637d164d7c2d3c236c531ef",
+      "name": "photo_5386378371098858826_y.jpg",
+      "type": "image/jpeg",
+      "size": 528754
+    },
+    "createdAt": "2026-10-26T12:40:11.259Z"
   }
 ]
