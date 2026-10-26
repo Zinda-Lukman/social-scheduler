@@ -565,5 +565,28 @@
       "size": 323469
     },
     "createdAt": "2026-10-26T12:44:55.703Z"
+  },
+  {
+    "id": "ee469f86-ac1e-402d-8d92-eed3b1706f6a",
+    "platform": "bluesky",
+    "date": "2026-10-30T09:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍Perito Moreno Glacier, Patagonia, Argentina 🇦🇷\n\nWalls of blue ice stretch across Lake Argentino, with massive chunks occasionally breaking off into the water.\n\nThis remarkable glacier is one of Patagonia’s most spectacular sights.\n\nWould you see it up close?\n#Travel #TravelPhotography #Patagonia",
+    "thread": null,
+    "media": {
+      "path": "media/1793018861644-photo_5267169324710353942_y.jpg",
+      "sha": "4341f357dc8eca618c1c574b0add0660cc71c55a",
+      "name": "photo_5267169324710353942_y.jpg",
+      "type": "image/jpeg",
+      "size": 196699
+    },
+    "createdAt": "2026-10-26T12:47:49.293Z"
   }
 ]
