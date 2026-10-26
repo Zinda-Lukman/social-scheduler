@@ -542,5 +542,28 @@
       "size": 205283
     },
     "createdAt": "2026-10-26T12:42:03.627Z"
+  },
+  {
+    "id": "ef03b947-a8c4-4317-b779-2a1fd4cc8b85",
+    "platform": "bluesky",
+    "date": "2026-10-30T03:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Cretto di Burri, Sicily, Italy 🇮🇹 \n\nThis vast white concrete artwork covers the ruins of Gibellina, destroyed by an earthquake in 1968. \nIts maze-like paths turn a devastated town into a striking memorial. \n\nWould you walk through this unique landscape?\n\n#Travel #TravelPhotography #Sicily",
+    "thread": null,
+    "media": {
+      "path": "media/1793018688523-photo_5283006810455926239_y.jpg",
+      "sha": "9361623371a81d4d8b5488f69f10047e20f41fe4",
+      "name": "photo_5283006810455926239_y.jpg",
+      "type": "image/jpeg",
+      "size": 323469
+    },
+    "createdAt": "2026-10-26T12:44:55.703Z"
   }
 ]
