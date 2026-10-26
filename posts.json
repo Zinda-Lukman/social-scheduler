@@ -1,57 +1,5 @@
 [
   {
-    "id": "71d6a5a8-de81-47e7-9ea4-ed895d3ce3da",
-    "platform": "bluesky",
-    "date": "2026-10-25T09:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Siloli Desert, Bolivia 🇧🇴\n\nRugged Andean mountains rise above the vast Altiplano. \n\nWhere wind-sculpted rocks and barren plains create an almost Martian landscape near Laguna Colorada.\n\nWould you explore this remote corner of Bolivia?\n\n#Travel #TravelPhotography #Bolivia #Andes",
-    "thread": null,
-    "media": {
-      "path": "media/1792660891442-photo_5370826157081092886_y.jpg",
-      "sha": "eea46eec0b584311e20179ce4fb592f8150c4989",
-      "name": "photo_5370826157081092886_y.jpg",
-      "type": "image/jpeg",
-      "size": 164209
-    },
-    "createdAt": "2026-10-22T09:21:35.819Z",
-    "postedAt": "2026-10-25T12:30:24.202Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myp7kdpoeg2k",
-    "cid": "bafyreif7fhcgg42yq3wya2jxgg65sfycinwaq5t74junkfqyncrbfoeh4i"
-  },
-  {
-    "id": "5732edc2-7e09-4623-8e3a-b63af8515caa",
-    "platform": "bluesky",
-    "date": "2026-10-25T15:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍Hobbiton Movie Set, Matamata, New Zealand🇳🇿\n\nRound doors, flower-filled gardens and cozy Hobbit holes nestle into rolling green hills.\n\nBuilt for The Lord of the Rings, this enchanting village feels straight out of Middle-earth.\n\nWould you visit?\n\n#Travel #TravelPhotography #Hobbiton #NewZealand",
-    "thread": null,
-    "media": {
-      "path": "media/1792758796791-photo_5282947187719920230_y.jpg",
-      "sha": "a3ebf8962d013b26a49598d9882a451940770523",
-      "name": "photo_5282947187719920230_y.jpg",
-      "type": "image/jpeg",
-      "size": 307108
-    },
-    "createdAt": "2026-10-23T12:32:04.849Z",
-    "postedAt": "2026-10-25T16:45:42.264Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mypnsu72me2m",
-    "cid": "bafyreidqqg3zyzadsottg5f2woepsd6xdrrk343lqnaldh3pdrpbvbyr2m"
-  },
-  {
     "id": "93d37056-a92c-4ed6-b030-2bd2f1839bad",
     "platform": "bluesky",
     "date": "2026-10-25T21:00:00.000Z",
@@ -137,8 +85,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍Nyhavn, Copenhagen, Denmark🇩🇰\n\nColourful townhouses line this historic harbour, where wooden boats bob beside lively waterfront cafés.\n\nOnce a busy commercial port, its now one of Copenhagen’s iconic sights.\n\nWhich color catches your eye first?\n\n#Travel #TravelPhotography #Copenhagen #Denmark",
@@ -150,7 +98,10 @@
       "type": "image/jpeg",
       "size": 378363
     },
-    "createdAt": "2026-10-23T12:54:39.202Z"
+    "createdAt": "2026-10-23T12:54:39.202Z",
+    "postedAt": "2026-10-26T16:53:48.393Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mys6qavv2f2j",
+    "cid": "bafyreiafxd3xjkmcshueytcsz263c6anztvskijtaw6jlv4hmc45w72yly"
   },
   {
     "id": "95a1b760-4919-4271-9ef5-42cac1a23f28",
