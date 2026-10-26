@@ -473,5 +473,28 @@
       "size": 145874
     },
     "createdAt": "2026-10-26T12:34:23.120Z"
+  },
+  {
+    "id": "c171364e-a0b2-44e9-8036-8a0fd5f60a7b",
+    "platform": "bluesky",
+    "date": "2026-10-29T09:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Iguazu Falls, Argentina 🇦🇷 / Brazil 🇧🇷\n\nHundreds of waterfalls thunder through lush rainforest, forming one of the world’s most spectacular natural wonders.\n\nDevil’s Throat is the dramatic highlight.\n\nWhich side would you explore first?\n\n#Travel #TravelPhotography #IguazuFalls",
+    "thread": null,
+    "media": {
+      "path": "media/1793018150756-photo_5426910368313236924_y.jpg",
+      "sha": "ace1c3b02a8c6e68471fa7c96a525ab67d7338d2",
+      "name": "photo_5426910368313236924_y.jpg",
+      "type": "image/jpeg",
+      "size": 188706
+    },
+    "createdAt": "2026-10-26T12:36:15.443Z"
   }
 ]
