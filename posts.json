@@ -358,5 +358,28 @@
       "size": 76645
     },
     "createdAt": "2026-10-24T20:00:51.476Z"
+  },
+  {
+    "id": "2ca1323f-88ec-4cb9-b18a-31917a3dd576",
+    "platform": "bluesky",
+    "date": "2026-10-28T13:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Little Venice, Mykonos Town, Greece 🇬🇷 \n\nColourful balconies hang over the Aegean Sea, where waterfront houses meet crashing waves. \n\nSunset turns this charming neighbourhood golden. \n\nWould you watch the sunset here?\n\n#Travel #TravelPhotography #Mykonos",
+    "thread": null,
+    "media": {
+      "path": "media/1793017153461-photo_5206167298614879161_y.jpg",
+      "sha": "777d2e55e2cd91583f0d32bfc595a8e2a7643844",
+      "name": "photo_5206167298614879161_y.jpg",
+      "type": "image/jpeg",
+      "size": 258982
+    },
+    "createdAt": "2026-10-26T12:19:21.017Z"
   }
 ]
