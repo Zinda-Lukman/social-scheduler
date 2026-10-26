@@ -1,31 +1,5 @@
 [
   {
-    "id": "f797f5a9-0d61-41c7-b635-6fee76e5e675",
-    "platform": "bluesky",
-    "date": "2026-10-25T05:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍Camps Bay, Cape Town, South Africa 🇿🇦\n\nWhite-sand beaches meet the Atlantic Ocean beneath the Twelve Apostles mountain range.\n\nWith sunsets over the water and a lively beachfront, it’s one of Cape Town’s most scenic spots.\n\nWould you visit?\n\n#Travel #TravelPhotography #CampsBay #SouthAfrica",
-    "thread": null,
-    "media": {
-      "path": "media/1792660338353-photo_5199660135398626820_y.jpg",
-      "sha": "218f17bbe90fb6b68e9a80486d6e91aeb84fb061",
-      "name": "photo_5199660135398626820_y.jpg",
-      "type": "image/jpeg",
-      "size": 237749
-    },
-    "createdAt": "2026-10-22T09:12:23.925Z",
-    "postedAt": "2026-10-25T06:59:36.152Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myon2t6a3j2k",
-    "cid": "bafyreibya5wvsyglvtcdvoi7dfhde4spjgp57whu7vbtme33iq3s2kzxqm"
-  },
-  {
     "id": "71d6a5a8-de81-47e7-9ea4-ed895d3ce3da",
     "platform": "bluesky",
     "date": "2026-10-25T09:00:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍Trudo Vertical Forest, Netherlands 🇳🇱\n\nThis tower brings nature into the city, with trees and shrubs growing across balconies on its facade. \n\nAn example of how urban housing can blend greenery with modern architecture.\n\nWould you live here?\n\n#Travel #TravelPhotography #Netherlands #Architecture",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 132010
     },
-    "createdAt": "2026-10-23T12:45:02.650Z"
+    "createdAt": "2026-10-23T12:45:02.650Z",
+    "postedAt": "2026-10-26T10:26:25.970Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myrj3lf4hw2m",
+    "cid": "bafyreiertk6o2zgz6ygdlyq6kqitfwf4afz6zvbpdwwmtadzo75pt6q2xq"
   },
   {
     "id": "8a744b6c-96d8-4500-bd2f-a38531d6ae5b",
