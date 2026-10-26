@@ -404,5 +404,28 @@
       "size": 194221
     },
     "createdAt": "2026-10-26T12:23:56.311Z"
+  },
+  {
+    "id": "6232d590-54a4-40a5-9083-17b1eb15d2dc",
+    "platform": "bluesky",
+    "date": "2026-10-28T21:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Drangarnir, Faroe Islands 🇫🇴 \n\nA dramatic sea arch rises from the North Atlantic between steep green cliffs and crashing waves. \n\nThese iconic rock formations showcase the wild beauty of the Faroe Islands. \n\nWould you hike here for this view?\n\n#Travel #TravelPhotography #FaroeIslands",
+    "thread": null,
+    "media": {
+      "path": "media/1793017633355-photo_5242578845939390980_y.jpg",
+      "sha": "778206074a9d35ecf685416739c1ad48ecd123b1",
+      "name": "photo_5242578845939390980_y.jpg",
+      "type": "image/jpeg",
+      "size": 127631
+    },
+    "createdAt": "2026-10-26T12:27:17.822Z"
   }
 ]
