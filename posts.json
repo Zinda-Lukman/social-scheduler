@@ -427,5 +427,28 @@
       "size": 127631
     },
     "createdAt": "2026-10-26T12:27:17.822Z"
+  },
+  {
+    "id": "6c2286d1-9cb4-4acf-8b56-8f924e87cc2e",
+    "platform": "bluesky",
+    "date": "2026-10-29T01:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Rozafa Castle, Shkodër, Albania 🇦🇱\n\nPerched on a rocky hill, this ancient fortress overlooks Lake Shkodër and the meeting of three rivers.\n\nIts stone walls hold centuries of history and local legend. \n\nWould you explore these ruins?\n\n#Travel #TravelPhotography #Albania",
+    "thread": null,
+    "media": {
+      "path": "media/1793017923068-photo_5453953900475440189_y.jpg",
+      "sha": "ebc7b3c1c69156c6a919ce3cdae181ee3fc77557",
+      "name": "photo_5453953900475440189_y.jpg",
+      "type": "image/jpeg",
+      "size": 204924
+    },
+    "createdAt": "2026-10-26T12:32:08.611Z"
   }
 ]
