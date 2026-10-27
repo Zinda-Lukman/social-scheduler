@@ -163,8 +163,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Cala Deià, Mallorca, Spain 🇪🇸\n\nThis small rocky cove hides between the Tramuntana mountains and the turquoise Mediterranean Sea.\n\nTraditional stone houses and crystal-clear water give it a peaceful, timeless charm.\n\nWould you swim here?\n\n#Travel #TravelPhotography #Mallorca #Spain",
@@ -176,7 +176,10 @@
       "type": "image/jpeg",
       "size": 344832
     },
-    "createdAt": "2026-10-24T19:47:42.026Z"
+    "createdAt": "2026-10-24T19:47:42.026Z",
+    "postedAt": "2026-10-27T16:24:58.662Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myunln26an22",
+    "cid": "bafyreif3sl4gsis4fkpfzcr7ukgvzznc7yuadtz7e53ao57oixasglp2vi"
   },
   {
     "id": "fd4f499f-59bf-450e-a3d1-c73f78392afa",
