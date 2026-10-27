@@ -1,31 +1,5 @@
 [
   {
-    "id": "ae6934dd-8838-4e6e-8342-a50da0524939",
-    "platform": "bluesky",
-    "date": "2026-10-26T03:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Parc national de la Jacques-Cartier, Quebec, Canada 🇨🇦 \n\nThis river winds through a deep glacial valley, surrounded by forested slopes and rugged cliffs. \n\nThis landscape is perfect for hiking, kayaking and wildlife spotting.\n\nWould you explore it?\n\n#Travel #TravelPhotography #Quebec #Canada",
-    "thread": null,
-    "media": {
-      "path": "media/1792759262336-photo_5249354483266343296_y.jpg",
-      "sha": "26c8e5a84e9f203c970a1e00b8b0a947a5190c79",
-      "name": "photo_5249354483266343296_y.jpg",
-      "type": "image/jpeg",
-      "size": 187381
-    },
-    "createdAt": "2026-10-23T12:41:19.589Z",
-    "postedAt": "2026-10-26T04:29:24.709Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myqv56hu2f2m",
-    "cid": "bafyreiaykmwsvsitnsxlirmfzkdkpnr5n4qcr37xvstpjp4a3sotxrmkw4"
-  },
-  {
     "id": "a797771e-7a2b-415a-b8df-73f8a92aeab8",
     "platform": "bluesky",
     "date": "2026-10-26T09:00:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Sheikh Zayed Grand Mosque, Abu Dhabi 🇦🇪\n\nWhite marble domes, intricate floral designs and reflective pools make this architectural masterpiece unforgettable.\n\nIts elegant arches glow beautifully at sunset.\n\nWould you visit during the day or at night?\n\n#Travel #TravelPhotography #AbuDhabi",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 160262
     },
-    "createdAt": "2026-10-24T19:37:56.007Z"
+    "createdAt": "2026-10-24T19:37:56.007Z",
+    "postedAt": "2026-10-27T05:36:19.275Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mytjdqhww42r",
+    "cid": "bafyreia3rgjjas7xsp6l6xyhc6u4jgycm5wqhqygjrubrnnodg22d4hezi"
   },
   {
     "id": "bdba04c6-01a7-453a-ab51-92ff3b5528ad",
@@ -160,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Los Naranjos Park, Honduras 🇭🇳\n\nLush rainforest surrounds ancient archaeological remains near Lake Yojoa.\n\nWooden walkways wind through dense greenery, offering a glimpse of nature and pre-Columbian history.\n\nWould you explore this hidden gem?\n\n#Travel #TravelPhotography #Honduras #Rainforest",
@@ -173,7 +150,10 @@
       "type": "image/jpeg",
       "size": 329340
     },
-    "createdAt": "2026-10-24T19:40:44.528Z"
+    "createdAt": "2026-10-24T19:40:44.528Z",
+    "postedAt": "2026-10-27T05:36:20.321Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mytjdronho2t",
+    "cid": "bafyreiad236qpoqigupzmb2luowizly2a7rjm4jjuvtqi65nesduk6o4pu"
   },
   {
     "id": "5a824589-d15b-42cf-8b21-63e8a1ee8a3f",
