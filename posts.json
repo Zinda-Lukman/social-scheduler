@@ -1,31 +1,5 @@
 [
   {
-    "id": "a797771e-7a2b-415a-b8df-73f8a92aeab8",
-    "platform": "bluesky",
-    "date": "2026-10-26T09:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍Trudo Vertical Forest, Netherlands 🇳🇱\n\nThis tower brings nature into the city, with trees and shrubs growing across balconies on its facade. \n\nAn example of how urban housing can blend greenery with modern architecture.\n\nWould you live here?\n\n#Travel #TravelPhotography #Netherlands #Architecture",
-    "thread": null,
-    "media": {
-      "path": "media/1792759491096-photo_5244548689740027976_y.jpg",
-      "sha": "3b6d5cd7a6fc8669f25099e88fff9b0fbf8bc9bc",
-      "name": "photo_5244548689740027976_y.jpg",
-      "type": "image/jpeg",
-      "size": 132010
-    },
-    "createdAt": "2026-10-23T12:45:02.650Z",
-    "postedAt": "2026-10-26T10:26:25.970Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myrj3lf4hw2m",
-    "cid": "bafyreiertk6o2zgz6ygdlyq6kqitfwf4afz6zvbpdwwmtadzo75pt6q2xq"
-  },
-  {
     "id": "8a744b6c-96d8-4500-bd2f-a38531d6ae5b",
     "platform": "bluesky",
     "date": "2026-10-26T13:00:00.000Z",
@@ -163,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Miradouro da Boca do Inferno, Azores 🇵🇹 \n\nThis spectacular viewpoint overlooks volcanic crater lakes surrounded by lush green hills.\n\nThe dramatic landscape reveals the wild beauty of Portugal’s Atlantic islands.\n\nWould you visit on a clear day?\n\n#Travel #TravelPhotography #Azores #Portugal",
@@ -176,7 +150,10 @@
       "type": "image/jpeg",
       "size": 178996
     },
-    "createdAt": "2026-10-24T19:43:50.713Z"
+    "createdAt": "2026-10-24T19:43:50.713Z",
+    "postedAt": "2026-10-27T10:58:37.057Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myu3e2o7pe2r",
+    "cid": "bafyreidxsashb7iqxojiu77l5ej3mjg54x2edug5h3duc4zpeapb55xwke"
   },
   {
     "id": "46d4a8dd-ac7a-4150-b3f1-f5bee020ac80",
