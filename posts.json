@@ -1,31 +1,5 @@
 [
   {
-    "id": "5a824589-d15b-42cf-8b21-63e8a1ee8a3f",
-    "platform": "bluesky",
-    "date": "2026-10-27T09:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Miradouro da Boca do Inferno, Azores 🇵🇹 \n\nThis spectacular viewpoint overlooks volcanic crater lakes surrounded by lush green hills.\n\nThe dramatic landscape reveals the wild beauty of Portugal’s Atlantic islands.\n\nWould you visit on a clear day?\n\n#Travel #TravelPhotography #Azores #Portugal",
-    "thread": null,
-    "media": {
-      "path": "media/1792871021895-photo_5321124413279688194_y.jpg",
-      "sha": "e28db3e83106d73b26e74b36ea423da68bd4123b",
-      "name": "photo_5321124413279688194_y.jpg",
-      "type": "image/jpeg",
-      "size": 178996
-    },
-    "createdAt": "2026-10-24T19:43:50.713Z",
-    "postedAt": "2026-10-27T10:58:37.057Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myu3e2o7pe2r",
-    "cid": "bafyreidxsashb7iqxojiu77l5ej3mjg54x2edug5h3duc4zpeapb55xwke"
-  },
-  {
     "id": "46d4a8dd-ac7a-4150-b3f1-f5bee020ac80",
     "platform": "bluesky",
     "date": "2026-10-27T15:00:00.000Z",
@@ -111,8 +85,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Minneapolis, Minnesota, USA 🇺🇸 \n\nModern skyscrapers rise above the Mississippi River, blending city life with historic riverfront landmarks.\n\nKnown as the “City of Lakes,” Minneapolis offers an urban skyline surrounded by green spaces.\n\nWould you visit?\n\n#Travel #TravelPhotography #Minneapolis",
@@ -124,7 +98,10 @@
       "type": "image/jpeg",
       "size": 76645
     },
-    "createdAt": "2026-10-24T20:00:51.476Z"
+    "createdAt": "2026-10-24T20:00:51.476Z",
+    "postedAt": "2026-10-28T11:40:28.240Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mywo5suw3v2t",
+    "cid": "bafyreiakv6l5xwo5cblyw3eqbp4mllt37gt2u3fdiyrbzjqhyet4tmkqoe"
   },
   {
     "id": "2ca1323f-88ec-4cb9-b18a-31917a3dd576",
