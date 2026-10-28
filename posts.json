@@ -1,57 +1,5 @@
 [
   {
-    "id": "188141c6-da8d-4a76-b83a-5ae4f57a85db",
-    "platform": "bluesky",
-    "date": "2026-10-27T01:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Sheikh Zayed Grand Mosque, Abu Dhabi 🇦🇪\n\nWhite marble domes, intricate floral designs and reflective pools make this architectural masterpiece unforgettable.\n\nIts elegant arches glow beautifully at sunset.\n\nWould you visit during the day or at night?\n\n#Travel #TravelPhotography #AbuDhabi",
-    "thread": null,
-    "media": {
-      "path": "media/1792870666102-photo_5285186192826033593_y.jpg",
-      "sha": "def577fad5f5169aaa6148a44d6b2cf7ff6b5827",
-      "name": "photo_5285186192826033593_y.jpg",
-      "type": "image/jpeg",
-      "size": 160262
-    },
-    "createdAt": "2026-10-24T19:37:56.007Z",
-    "postedAt": "2026-10-27T05:36:19.275Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mytjdqhww42r",
-    "cid": "bafyreia3rgjjas7xsp6l6xyhc6u4jgycm5wqhqygjrubrnnodg22d4hezi"
-  },
-  {
-    "id": "bdba04c6-01a7-453a-ab51-92ff3b5528ad",
-    "platform": "bluesky",
-    "date": "2026-10-27T05:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Los Naranjos Park, Honduras 🇭🇳\n\nLush rainforest surrounds ancient archaeological remains near Lake Yojoa.\n\nWooden walkways wind through dense greenery, offering a glimpse of nature and pre-Columbian history.\n\nWould you explore this hidden gem?\n\n#Travel #TravelPhotography #Honduras #Rainforest",
-    "thread": null,
-    "media": {
-      "path": "media/1792870834190-photo_5219699267390789310_y.jpg",
-      "sha": "db93b2d89740a74e8b9f96803667dabe288e5a93",
-      "name": "photo_5219699267390789310_y.jpg",
-      "type": "image/jpeg",
-      "size": 329340
-    },
-    "createdAt": "2026-10-24T19:40:44.528Z",
-    "postedAt": "2026-10-27T05:36:20.321Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mytjdronho2t",
-    "cid": "bafyreiad236qpoqigupzmb2luowizly2a7rjm4jjuvtqi65nesduk6o4pu"
-  },
-  {
     "id": "5a824589-d15b-42cf-8b21-63e8a1ee8a3f",
     "platform": "bluesky",
     "date": "2026-10-27T09:00:00.000Z",
@@ -137,8 +85,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Mount Teide, Tenerife, Spain 🇪🇸 \n\nRising 3,715 metres above sea level, this volcanic giant is Spain’s highest peak.\n\nIts rugged lava fields and sea of clouds create an almost lunar landscape.\n\nWould you explore Teide National Park?\n\n#Travel #TravelPhotography #Tenerife #Spain",
@@ -150,7 +98,10 @@
       "type": "image/jpeg",
       "size": 83000
     },
-    "createdAt": "2026-10-24T19:58:17.004Z"
+    "createdAt": "2026-10-24T19:58:17.004Z",
+    "postedAt": "2026-10-28T05:42:02.498Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myw24ubay422",
+    "cid": "bafyreidxqevsjxlga7rama343fcaifpr54esrwsesetnex5kzepkernqqe"
   },
   {
     "id": "fa90b841-cd34-4833-b74a-4aff7866e4e3",
