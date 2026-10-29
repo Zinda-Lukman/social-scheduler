@@ -318,5 +318,28 @@
       "size": 405047
     },
     "createdAt": "2026-10-29T09:57:51.558Z"
+  },
+  {
+    "id": "e3fb674d-1949-4560-a892-f6de5e2ca83f",
+    "platform": "bluesky",
+    "date": "2026-10-30T21:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Louvre Museum, Paris, France 🇫🇷\n\nThe iconic glass pyramid stands before a former royal palace housing thousands of artworks, including the Mona Lisa.\n\nHistory and modern architecture meet in the heart of Paris.\n\nWould you explore its galleries?\n\n#Travel #TravelPhotography #Paris",
+    "thread": null,
+    "media": {
+      "path": "media/1793268451974-photo_5413389587927133310_y.jpg",
+      "sha": "2e315b102c962c9f74361e0f84aab74de0e48280",
+      "name": "photo_5413389587927133310_y.jpg",
+      "type": "image/jpeg",
+      "size": 174519
+    },
+    "createdAt": "2026-10-29T10:07:59.290Z"
   }
 ]
