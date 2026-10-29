@@ -292,5 +292,31 @@
       "size": 182464
     },
     "createdAt": "2026-10-26T12:50:19.976Z"
+  },
+  {
+    "id": "4a725f02-c0af-4f2f-8cb9-88a5cfb2f7e9",
+    "platform": "bluesky",
+    "date": "2026-10-30T17:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Río Celeste Waterfall, Costa Rica 🇨🇷\n\nBrilliant turquoise water plunges into a rainforest pool inside Tenorio Volcano National Park.\n\nIts striking colour comes from light scattering off suspended minerals.\n\nWould you hike through the rainforest to see it?\n\n#Travel #TravelPhotography #CostaRica",
+    "thread": [
+      "📍 Río Celeste Waterfall, Costa Rica 🇨🇷\n\nBrilliant turquoise water plunges into a rainforest pool inside Tenorio Volcano National Park.\n\nIts striking colour comes from light scattering off suspended minerals.\n\nWould you hike through the rainforest to see it?\n\n#Travel #TravelPhotography #CostaRica",
+      "Subscribe to my newsletter, link on my profile."
+    ],
+    "media": {
+      "path": "media/1793267858007-photo_5352946371436601347_y.jpg",
+      "sha": "1dd9938496ace8861176d3ac1c1acfc1744f3370",
+      "name": "photo_5352946371436601347_y.jpg",
+      "type": "image/jpeg",
+      "size": 405047
+    },
+    "createdAt": "2026-10-29T09:57:51.558Z"
   }
 ]
