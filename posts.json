@@ -1,31 +1,5 @@
 [
   {
-    "id": "6232d590-54a4-40a5-9083-17b1eb15d2dc",
-    "platform": "bluesky",
-    "date": "2026-10-28T21:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Drangarnir, Faroe Islands 🇫🇴 \n\nA dramatic sea arch rises from the North Atlantic between steep green cliffs and crashing waves. \n\nThese iconic rock formations showcase the wild beauty of the Faroe Islands. \n\nWould you hike here for this view?\n\n#Travel #TravelPhotography #FaroeIslands",
-    "thread": null,
-    "media": {
-      "path": "media/1793017633355-photo_5242578845939390980_y.jpg",
-      "sha": "778206074a9d35ecf685416739c1ad48ecd123b1",
-      "name": "photo_5242578845939390980_y.jpg",
-      "type": "image/jpeg",
-      "size": 127631
-    },
-    "createdAt": "2026-10-26T12:27:17.822Z",
-    "postedAt": "2026-10-28T21:50:37.105Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myxqatlzvr2k",
-    "cid": "bafyreia5tp5qafp2sz5angcruvekee5sse3k5zuhytjwsihgnaui4p7wc4"
-  },
-  {
     "id": "6c2286d1-9cb4-4acf-8b56-8f924e87cc2e",
     "platform": "bluesky",
     "date": "2026-10-29T01:00:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Hiroshima Castle, Hiroshima, Japan 🇯🇵\n\nThis elegant five-story castle rises above a moat, surrounded by trees and peaceful grounds.\n\nOriginally built in the 1590s, it was reconstructed after World War II.\n\nWould you explore this piece of Japanese history?\n\n#Travel #TravelPhotography #Japan",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 205283
     },
-    "createdAt": "2026-10-26T12:42:03.627Z"
+    "createdAt": "2026-10-26T12:42:03.627Z",
+    "postedAt": "2026-10-29T23:39:51.309Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mz2gt3wofn2j",
+    "cid": "bafyreidrajaxxot7bwoca6jhijdqxnzow7fqpl5sxbgtq7yzdgd2te32ra"
   },
   {
     "id": "ef03b947-a8c4-4317-b779-2a1fd4cc8b85",
