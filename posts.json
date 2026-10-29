@@ -1,31 +1,5 @@
 [
   {
-    "id": "fa90b841-cd34-4833-b74a-4aff7866e4e3",
-    "platform": "bluesky",
-    "date": "2026-10-28T09:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Minneapolis, Minnesota, USA 🇺🇸 \n\nModern skyscrapers rise above the Mississippi River, blending city life with historic riverfront landmarks.\n\nKnown as the “City of Lakes,” Minneapolis offers an urban skyline surrounded by green spaces.\n\nWould you visit?\n\n#Travel #TravelPhotography #Minneapolis",
-    "thread": null,
-    "media": {
-      "path": "media/1792872047343-photo_5352589644337895844_y.jpg",
-      "sha": "43f6da93a96bb93de1b98826686cdc7a0852a92b",
-      "name": "photo_5352589644337895844_y.jpg",
-      "type": "image/jpeg",
-      "size": 76645
-    },
-    "createdAt": "2026-10-24T20:00:51.476Z",
-    "postedAt": "2026-10-28T11:40:28.240Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mywo5suw3v2t",
-    "cid": "bafyreiakv6l5xwo5cblyw3eqbp4mllt37gt2u3fdiyrbzjqhyet4tmkqoe"
-  },
-  {
     "id": "2ca1323f-88ec-4cb9-b18a-31917a3dd576",
     "platform": "bluesky",
     "date": "2026-10-28T13:00:00.000Z",
@@ -163,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Iguazu Falls, Argentina 🇦🇷 / Brazil 🇧🇷\n\nHundreds of waterfalls thunder through lush rainforest, forming one of the world’s most spectacular natural wonders.\n\nDevil’s Throat is the dramatic highlight.\n\nWhich side would you explore first?\n\n#Travel #TravelPhotography #IguazuFalls",
@@ -176,7 +150,10 @@
       "type": "image/jpeg",
       "size": 188706
     },
-    "createdAt": "2026-10-26T12:36:15.443Z"
+    "createdAt": "2026-10-26T12:36:15.443Z",
+    "postedAt": "2026-10-29T14:33:06.167Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myzibg6iwc2n",
+    "cid": "bafyreid4eamgttjuttgs6jspn2gfhdykqtb2djt3wdsvrbx33v4p2tq4uu"
   },
   {
     "id": "c9ddbb33-2170-45e9-bf17-ef7ceba39c53",
