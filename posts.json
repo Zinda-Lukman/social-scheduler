@@ -1,31 +1,5 @@
 [
   {
-    "id": "b5bb5b65-1382-481e-a1b7-4de07f2a0ae2",
-    "platform": "bluesky",
-    "date": "2026-10-28T03:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Mount Teide, Tenerife, Spain 🇪🇸 \n\nRising 3,715 metres above sea level, this volcanic giant is Spain’s highest peak.\n\nIts rugged lava fields and sea of clouds create an almost lunar landscape.\n\nWould you explore Teide National Park?\n\n#Travel #TravelPhotography #Tenerife #Spain",
-    "thread": null,
-    "media": {
-      "path": "media/1792871892103-photo_5346268380191119257_y.jpg",
-      "sha": "bb60eecdeabaff397f608946996b3f98c774e6b2",
-      "name": "photo_5346268380191119257_y.jpg",
-      "type": "image/jpeg",
-      "size": 83000
-    },
-    "createdAt": "2026-10-24T19:58:17.004Z",
-    "postedAt": "2026-10-28T05:42:02.498Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myw24ubay422",
-    "cid": "bafyreidxqevsjxlga7rama343fcaifpr54esrwsesetnex5kzepkernqqe"
-  },
-  {
     "id": "fa90b841-cd34-4833-b74a-4aff7866e4e3",
     "platform": "bluesky",
     "date": "2026-10-28T09:00:00.000Z",
@@ -163,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Kuwait Towers, Kuwait City 🇰🇼\n\nThese iconic towers rise above the Arabian Gulf, their blue-green spheres reflecting the sea and sky.\n\nOpened in 1979, they combine modern design with traditional inspiration.\n\nWould you visit the observation deck?\n\n#Travel #TravelPhotography #Kuwait",
@@ -176,7 +150,10 @@
       "type": "image/jpeg",
       "size": 145874
     },
-    "createdAt": "2026-10-26T12:34:23.120Z"
+    "createdAt": "2026-10-26T12:34:23.120Z",
+    "postedAt": "2026-10-29T07:21:46.720Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myyq65smqz2a",
+    "cid": "bafyreifkqxgffghwys3syrumpv3m6lqvgaguvjwis6nnzchdq4s4b5zcge"
   },
   {
     "id": "c171364e-a0b2-44e9-8036-8a0fd5f60a7b",
