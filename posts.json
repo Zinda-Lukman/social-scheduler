@@ -1,31 +1,5 @@
 [
   {
-    "id": "fd4f499f-59bf-450e-a3d1-c73f78392afa",
-    "platform": "bluesky",
-    "date": "2026-10-27T21:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Cheval Blanc Randheli, Maldives 🇲🇻\n\nOverwater villas sit, surrounded by white-sand beaches and the Indian Ocean. \n\nThis luxury island retreat blends contemporary design with tropical scenery. \n\nWould you spend a night in an overwater villa?\n\n#Travel #TravelPhotography #Maldives #LuxuryTravel",
-    "thread": null,
-    "media": {
-      "path": "media/1792871616573-photo_5341550182522805206_y.jpg",
-      "sha": "61fc268815adc06daa5315de648a13d1e1c2c3ac",
-      "name": "photo_5341550182522805206_y.jpg",
-      "type": "image/jpeg",
-      "size": 393622
-    },
-    "createdAt": "2026-10-24T19:53:45.508Z",
-    "postedAt": "2026-10-28T00:09:15.671Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myvhjt6tta2n",
-    "cid": "bafyreibfb7ijja4twi4ak7btkegr5fccjhpqludyjdpdyokc66uthjjtpe"
-  },
-  {
     "id": "b5bb5b65-1382-481e-a1b7-4de07f2a0ae2",
     "platform": "bluesky",
     "date": "2026-10-28T03:00:00.000Z",
@@ -163,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Rozafa Castle, Shkodër, Albania 🇦🇱\n\nPerched on a rocky hill, this ancient fortress overlooks Lake Shkodër and the meeting of three rivers.\n\nIts stone walls hold centuries of history and local legend. \n\nWould you explore these ruins?\n\n#Travel #TravelPhotography #Albania",
@@ -176,7 +150,10 @@
       "type": "image/jpeg",
       "size": 204924
     },
-    "createdAt": "2026-10-26T12:32:08.611Z"
+    "createdAt": "2026-10-26T12:32:08.611Z",
+    "postedAt": "2026-10-29T01:21:22.103Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myy3zoupgg2k",
+    "cid": "bafyreicncndsd3o4txatecxiheikmhi7ezehrjtcwyfdglkpljqv47mjwi"
   },
   {
     "id": "82852133-6472-4074-ba8f-af73d3280948",
