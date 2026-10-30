@@ -200,5 +200,31 @@
       "size": 174519
     },
     "createdAt": "2026-10-29T10:07:59.290Z"
+  },
+  {
+    "id": "0184a00b-eaa8-466b-824d-bf5184874d0f",
+    "platform": "bluesky",
+    "date": "2026-10-31T01:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Miraflores, Lima, Peru 🇵🇪\n\nDramatic cliffs overlook the Pacific Ocean, while green coastal parks and scenic promenades line the shore. \n\nThis lively district offers some of Lima’s best ocean views.\n\nWould you watch the sunset here?\n\n#Travel #TravelPhotography #Lima #Peru",
+    "thread": [
+      "📍 Miraflores, Lima, Peru 🇵🇪\n\nDramatic cliffs overlook the Pacific Ocean, while green coastal parks and scenic promenades line the shore. \n\nThis lively district offers some of Lima’s best ocean views.\n\nWould you watch the sunset here?\n\n#Travel #TravelPhotography #Lima #Peru",
+      "Subscribe to my newsletter:\n\nhttps://earthexplorationtravels.substack.com/?r=3ubigq&utm_campaign=pub-share-checklist"
+    ],
+    "media": {
+      "path": "media/1793373274531-photo_5370735047939841037_y.jpg",
+      "sha": "76311d808ede75ccec785c716f74d4ca5a3c34e8",
+      "name": "photo_5370735047939841037_y.jpg",
+      "type": "image/jpeg",
+      "size": 372103
+    },
+    "createdAt": "2026-10-30T15:15:39.058Z"
   }
 ]
