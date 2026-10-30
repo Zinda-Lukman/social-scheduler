@@ -272,5 +272,28 @@
       "size": 157487
     },
     "createdAt": "2026-10-30T15:21:24.851Z"
+  },
+  {
+    "id": "18eb4eda-a7ff-4754-8ec4-cd7c66ae31f6",
+    "platform": "bluesky",
+    "date": "2026-10-31T15:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Gran Sasso d'Italia, Abruzzo, Italy 🇮🇹\n\nRugged limestone peaks rise above vast alpine meadows, creating one of the most dramatic mountain landscapes in the Apennines.\n\nCorno Grande reaches 2,912 metres. Would you explore these mountains?\n\n#Travel #TravelPhotography #Italy",
+    "thread": null,
+    "media": {
+      "path": "media/1793373893557-photo_5220001886491500225_y.jpg",
+      "sha": "4bfd4aee528573903fc40e4d972e97701f57378d",
+      "name": "photo_5220001886491500225_y.jpg",
+      "type": "image/jpeg",
+      "size": 194081
+    },
+    "createdAt": "2026-10-30T15:25:02.737Z"
   }
 ]
