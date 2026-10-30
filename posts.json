@@ -341,5 +341,28 @@
       "size": 263916
     },
     "createdAt": "2026-10-30T15:34:10.119Z"
+  },
+  {
+    "id": "bd9dd543-0242-4a14-8cd1-7a1683445147",
+    "platform": "bluesky",
+    "date": "2026-11-01T09:00:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Fjaðrárgljúfur Canyon, Iceland 🇮🇸\n\nTowering cliffs frame a winding river far below, creating one of Iceland’s most enchanting landscapes.\n\nCarved by glacial meltwater over thousands of years, this canyon is unforgettable.\n\nWould you hike along its rim?\n\n#Travel #TravelPhotography #Iceland",
+    "thread": null,
+    "media": {
+      "path": "media/1793374641746-photo_5390960791966051635_y.jpg",
+      "sha": "3cf15fcc81f9604c00c35de3e9e997b09913fc04",
+      "name": "photo_5390960791966051635_y.jpg",
+      "type": "image/jpeg",
+      "size": 237678
+    },
+    "createdAt": "2026-10-30T15:37:45.495Z"
   }
 ]
