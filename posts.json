@@ -1,31 +1,5 @@
 [
   {
-    "id": "c9ddbb33-2170-45e9-bf17-ef7ceba39c53",
-    "platform": "bluesky",
-    "date": "2026-10-29T15:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Near Lucerne, Switzerland 🇨🇭 \n\nGreen alpine hills roll past traditional Swiss houses, while mist drifts across distant mountain peaks. \n\nThis peaceful countryside captures the charm of central Switzerland.\n\nWould you spend a weekend here?\n\n#Travel #TravelPhotography #Switzerland",
-    "thread": null,
-    "media": {
-      "path": "media/1793018400492-photo_5386378371098858826_y.jpg",
-      "sha": "2824a5b591e1c9f63637d164d7c2d3c236c531ef",
-      "name": "photo_5386378371098858826_y.jpg",
-      "type": "image/jpeg",
-      "size": 528754
-    },
-    "createdAt": "2026-10-26T12:40:11.259Z",
-    "postedAt": "2026-10-29T19:49:37.833Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myzzxgbjyx2b",
-    "cid": "bafyreiaxk3qbuf7kdcg3slluj7dwf2veg2sus3t6spnj2ru6qtehnpzhg4"
-  },
-  {
     "id": "ac67b300-a1ec-4a85-8440-89f1923f63aa",
     "platform": "bluesky",
     "date": "2026-10-29T21:00:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Río Celeste Waterfall, Costa Rica 🇨🇷\n\nBrilliant turquoise water plunges into a rainforest pool inside Tenorio Volcano National Park.\n\nIts striking colour comes from light scattering off suspended minerals.\n\nWould you hike through the rainforest to see it?\n\n#Travel #TravelPhotography #CostaRica",
@@ -153,7 +127,10 @@
       "type": "image/jpeg",
       "size": 405047
     },
-    "createdAt": "2026-10-29T09:57:51.558Z"
+    "createdAt": "2026-10-29T09:57:51.558Z",
+    "postedAt": "2026-10-30T20:58:51.664Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mz4oc4mdc42k",
+    "cid": "bafyreidboejekutlhdr3kag2lpdqay4lwb5ebhz3ajl342q7lwmvpf6oca"
   },
   {
     "id": "e3fb674d-1949-4560-a892-f6de5e2ca83f",
