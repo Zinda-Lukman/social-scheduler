@@ -1,31 +1,5 @@
 [
   {
-    "id": "c171364e-a0b2-44e9-8036-8a0fd5f60a7b",
-    "platform": "bluesky",
-    "date": "2026-10-29T09:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Iguazu Falls, Argentina 🇦🇷 / Brazil 🇧🇷\n\nHundreds of waterfalls thunder through lush rainforest, forming one of the world’s most spectacular natural wonders.\n\nDevil’s Throat is the dramatic highlight.\n\nWhich side would you explore first?\n\n#Travel #TravelPhotography #IguazuFalls",
-    "thread": null,
-    "media": {
-      "path": "media/1793018150756-photo_5426910368313236924_y.jpg",
-      "sha": "ace1c3b02a8c6e68471fa7c96a525ab67d7338d2",
-      "name": "photo_5426910368313236924_y.jpg",
-      "type": "image/jpeg",
-      "size": 188706
-    },
-    "createdAt": "2026-10-26T12:36:15.443Z",
-    "postedAt": "2026-10-29T14:33:06.167Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3myzibg6iwc2n",
-    "cid": "bafyreid4eamgttjuttgs6jspn2gfhdykqtb2djt3wdsvrbx33v4p2tq4uu"
-  },
-  {
     "id": "c9ddbb33-2170-45e9-bf17-ef7ceba39c53",
     "platform": "bluesky",
     "date": "2026-10-29T15:00:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Cap de Formentor, Mallorca, Spain 🇪🇸\n\nDramatic limestone cliffs plunge into deep blue Mediterranean waters at Mallorca’s rugged northern tip.\n\nWinding roads reveal breathtaking coastal views at every turn.\n\nWould you take this scenic drive?\n\n#Travel #TravelPhotography #Mallorca",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 182464
     },
-    "createdAt": "2026-10-26T12:50:19.976Z"
+    "createdAt": "2026-10-26T12:50:19.976Z",
+    "postedAt": "2026-10-30T16:26:39.335Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mz473flnzy24",
+    "cid": "bafyreibblwje2y7axnsnegsvpct3fditjlv7mt3owbhihec7bssn5nisi4"
   },
   {
     "id": "4a725f02-c0af-4f2f-8cb9-88a5cfb2f7e9",
