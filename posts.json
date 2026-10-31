@@ -1,31 +1,5 @@
 [
   {
-    "id": "ac67b300-a1ec-4a85-8440-89f1923f63aa",
-    "platform": "bluesky",
-    "date": "2026-10-29T21:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Hiroshima Castle, Hiroshima, Japan 🇯🇵\n\nThis elegant five-story castle rises above a moat, surrounded by trees and peaceful grounds.\n\nOriginally built in the 1590s, it was reconstructed after World War II.\n\nWould you explore this piece of Japanese history?\n\n#Travel #TravelPhotography #Japan",
-    "thread": null,
-    "media": {
-      "path": "media/1793018517740-photo_5364118680885126763_y.jpg",
-      "sha": "9ec7a5c87a99ced38a1d9d436cb352bc483f0a00",
-      "name": "photo_5364118680885126763_y.jpg",
-      "type": "image/jpeg",
-      "size": 205283
-    },
-    "createdAt": "2026-10-26T12:42:03.627Z",
-    "postedAt": "2026-10-29T23:39:51.309Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mz2gt3wofn2j",
-    "cid": "bafyreidrajaxxot7bwoca6jhijdqxnzow7fqpl5sxbgtq7yzdgd2te32ra"
-  },
-  {
     "id": "ef03b947-a8c4-4317-b779-2a1fd4cc8b85",
     "platform": "bluesky",
     "date": "2026-10-30T03:00:00.000Z",
@@ -140,8 +114,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Louvre Museum, Paris, France 🇫🇷\n\nThe iconic glass pyramid stands before a former royal palace housing thousands of artworks, including the Mona Lisa.\n\nHistory and modern architecture meet in the heart of Paris.\n\nWould you explore its galleries?\n\n#Travel #TravelPhotography #Paris",
@@ -153,7 +127,10 @@
       "type": "image/jpeg",
       "size": 174519
     },
-    "createdAt": "2026-10-29T10:07:59.290Z"
+    "createdAt": "2026-10-29T10:07:59.290Z",
+    "postedAt": "2026-10-31T00:40:37.915Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mz52oozb742w",
+    "cid": "bafyreiglse3qtzkogn5736vizm7glwb2zlmec2r46gzpsxijdtj4fopb7m"
   },
   {
     "id": "0184a00b-eaa8-466b-824d-bf5184874d0f",
