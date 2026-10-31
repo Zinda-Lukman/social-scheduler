@@ -140,8 +140,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Miraflores, Lima, Peru 🇵🇪\n\nDramatic cliffs overlook the Pacific Ocean, while green coastal parks and scenic promenades line the shore. \n\nThis lively district offers some of Lima’s best ocean views.\n\nWould you watch the sunset here?\n\n#Travel #TravelPhotography #Lima #Peru",
@@ -156,7 +156,10 @@
       "type": "image/jpeg",
       "size": 372103
     },
-    "createdAt": "2026-10-30T15:15:39.058Z"
+    "createdAt": "2026-10-30T15:15:39.058Z",
+    "postedAt": "2026-10-31T06:19:53.825Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mz5nndgnea22",
+    "cid": "bafyreigcd425obpql6eppb4p2yimm6plh3apxa7d6l4krwbzxqutdzvrrq"
   },
   {
     "id": "42fef133-0f42-46e5-a7ee-fb728acfdff8",
@@ -166,8 +169,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Uilebomen, The Hague, Netherlands 🇳🇱\n\nModern high-rises and geometric apartment blocks shape this evolving urban neighbourhood.\n\nThe mix of clean lines and dense city architecture offers a different side of The Hague.\n\nWould you live here?\n\n#Travel #TravelPhotography #TheHague #Netherlands",
@@ -179,7 +182,10 @@
       "type": "image/jpeg",
       "size": 214995
     },
-    "createdAt": "2026-10-30T15:18:41.790Z"
+    "createdAt": "2026-10-30T15:18:41.790Z",
+    "postedAt": "2026-10-31T06:19:54.807Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mz5nnezcy42t",
+    "cid": "bafyreiaobzyxkfpmuyov4uxwxu6c6qpe6b65aomndarmbxy5sky2c6ivqe"
   },
   {
     "id": "1298a847-5237-4366-8896-46539a2a2db0",
