@@ -1,45 +1,5 @@
 [
   {
-    "time": "2026-10-01T02:04:17.559Z",
-    "level": "info",
-    "event": "PUBLISH_START",
-    "message": "Publishing post bf2e56e8-32b0-4fc5-9479-d78e7547611c.",
-    "postId": "bf2e56e8-32b0-4fc5-9479-d78e7547611c",
-    "timezone": "Africa/Nairobi"
-  },
-  {
-    "time": "2026-10-01T02:04:18.899Z",
-    "level": "info",
-    "event": "PUBLISHED",
-    "message": "Post bf2e56e8-32b0-4fc5-9479-d78e7547611c published successfully.",
-    "postId": "bf2e56e8-32b0-4fc5-9479-d78e7547611c",
-    "timezone": "Africa/Nairobi"
-  },
-  {
-    "time": "2026-10-01T07:22:03.638Z",
-    "level": "info",
-    "event": "DELETED",
-    "message": "Deleted posted post 15085a8e-8881-4e67-9f24-1f61488e249c after 24 hours and associated media file deleted.",
-    "postId": "15085a8e-8881-4e67-9f24-1f61488e249c",
-    "timezone": "Africa/Nairobi"
-  },
-  {
-    "time": "2026-10-01T07:22:03.879Z",
-    "level": "info",
-    "event": "LOGIN",
-    "message": "Logged into Bluesky.",
-    "postId": null,
-    "timezone": "UTC"
-  },
-  {
-    "time": "2026-10-01T07:22:03.879Z",
-    "level": "info",
-    "event": "PUBLISH_START",
-    "message": "Publishing post d5a42baa-1782-49db-84ca-48014d340545.",
-    "postId": "d5a42baa-1782-49db-84ca-48014d340545",
-    "timezone": "Africa/Nairobi"
-  },
-  {
     "time": "2026-10-01T07:22:05.902Z",
     "level": "info",
     "event": "PUBLISHED",
@@ -3997,6 +3957,46 @@
     "event": "PUBLISHED",
     "message": "Post 42fef133-0f42-46e5-a7ee-fb728acfdff8 published successfully.",
     "postId": "42fef133-0f42-46e5-a7ee-fb728acfdff8",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-31T12:51:10.278Z",
+    "level": "info",
+    "event": "DELETED",
+    "message": "Deleted posted post ef03b947-a8c4-4317-b779-2a1fd4cc8b85 after 24 hours and associated media file deleted.",
+    "postId": "ef03b947-a8c4-4317-b779-2a1fd4cc8b85",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-31T12:51:10.278Z",
+    "level": "info",
+    "event": "DELETED",
+    "message": "Deleted posted post ee469f86-ac1e-402d-8d92-eed3b1706f6a after 24 hours and associated media file deleted.",
+    "postId": "ee469f86-ac1e-402d-8d92-eed3b1706f6a",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-31T12:51:10.610Z",
+    "level": "info",
+    "event": "LOGIN",
+    "message": "Logged into Bluesky.",
+    "postId": null,
+    "timezone": "UTC"
+  },
+  {
+    "time": "2026-10-31T12:51:10.610Z",
+    "level": "info",
+    "event": "PUBLISH_START",
+    "message": "Publishing post 1298a847-5237-4366-8896-46539a2a2db0.",
+    "postId": "1298a847-5237-4366-8896-46539a2a2db0",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-10-31T12:51:11.912Z",
+    "level": "info",
+    "event": "PUBLISHED",
+    "message": "Post 1298a847-5237-4366-8896-46539a2a2db0 published successfully.",
+    "postId": "1298a847-5237-4366-8896-46539a2a2db0",
     "timezone": "Africa/Nairobi"
   }
 ]

@@ -1,57 +1,5 @@
 [
   {
-    "id": "ef03b947-a8c4-4317-b779-2a1fd4cc8b85",
-    "platform": "bluesky",
-    "date": "2026-10-30T03:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Cretto di Burri, Sicily, Italy 🇮🇹 \n\nThis vast white concrete artwork covers the ruins of Gibellina, destroyed by an earthquake in 1968. \nIts maze-like paths turn a devastated town into a striking memorial. \n\nWould you walk through this unique landscape?\n\n#Travel #TravelPhotography #Sicily",
-    "thread": null,
-    "media": {
-      "path": "media/1793018688523-photo_5283006810455926239_y.jpg",
-      "sha": "9361623371a81d4d8b5488f69f10047e20f41fe4",
-      "name": "photo_5283006810455926239_y.jpg",
-      "type": "image/jpeg",
-      "size": 323469
-    },
-    "createdAt": "2026-10-26T12:44:55.703Z",
-    "postedAt": "2026-10-30T09:52:25.790Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mz3j2gatr22t",
-    "cid": "bafyreiaohf72n7fi6wabzgjmyyvs3n2vut7mk23pt77uhgbyq4s5hpzxui"
-  },
-  {
-    "id": "ee469f86-ac1e-402d-8d92-eed3b1706f6a",
-    "platform": "bluesky",
-    "date": "2026-10-30T09:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍Perito Moreno Glacier, Patagonia, Argentina 🇦🇷\n\nWalls of blue ice stretch across Lake Argentino, with massive chunks occasionally breaking off into the water.\n\nThis remarkable glacier is one of Patagonia’s most spectacular sights.\n\nWould you see it up close?\n#Travel #TravelPhotography #Patagonia",
-    "thread": null,
-    "media": {
-      "path": "media/1793018861644-photo_5267169324710353942_y.jpg",
-      "sha": "4341f357dc8eca618c1c574b0add0660cc71c55a",
-      "name": "photo_5267169324710353942_y.jpg",
-      "type": "image/jpeg",
-      "size": 196699
-    },
-    "createdAt": "2026-10-26T12:47:49.293Z",
-    "postedAt": "2026-10-30T09:52:29.158Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mz3j2jh5yg2k",
-    "cid": "bafyreia7uidas5rrtbnxbigbwyknxetc2f4kmgpmtazfz63nqovnbcxdoe"
-  },
-  {
     "id": "daead05e-7d58-4b69-8941-1788169ce773",
     "platform": "bluesky",
     "date": "2026-10-30T13:00:00.000Z",
@@ -195,8 +143,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Háifoss & Granni, Iceland 🇮🇸\n\nTwo spectacular waterfalls plunge into a rugged volcanic canyon in Iceland’s central highlands.\n\nHáifoss drops an impressive 122 metres, while Granni cascades beside it.\n\nWould you visit this remote landscape?\n\n#Travel #TravelPhotography #Iceland",
@@ -208,7 +156,10 @@
       "type": "image/jpeg",
       "size": 157487
     },
-    "createdAt": "2026-10-30T15:21:24.851Z"
+    "createdAt": "2026-10-30T15:21:24.851Z",
+    "postedAt": "2026-10-31T12:51:11.912Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mz6dj2lj5w2k",
+    "cid": "bafyreic5ze6ststkhm44sokkgaxg6i4tl572gi6mv2mp6gf64kkoep4wnm"
   },
   {
     "id": "18eb4eda-a7ff-4754-8ec4-cd7c66ae31f6",
