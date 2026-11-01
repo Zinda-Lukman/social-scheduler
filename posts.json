@@ -1,60 +1,5 @@
 [
   {
-    "id": "0184a00b-eaa8-466b-824d-bf5184874d0f",
-    "platform": "bluesky",
-    "date": "2026-10-31T01:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Miraflores, Lima, Peru 🇵🇪\n\nDramatic cliffs overlook the Pacific Ocean, while green coastal parks and scenic promenades line the shore. \n\nThis lively district offers some of Lima’s best ocean views.\n\nWould you watch the sunset here?\n\n#Travel #TravelPhotography #Lima #Peru",
-    "thread": [
-      "📍 Miraflores, Lima, Peru 🇵🇪\n\nDramatic cliffs overlook the Pacific Ocean, while green coastal parks and scenic promenades line the shore. \n\nThis lively district offers some of Lima’s best ocean views.\n\nWould you watch the sunset here?\n\n#Travel #TravelPhotography #Lima #Peru",
-      "Subscribe to my newsletter:\n\nhttps://earthexplorationtravels.substack.com/?r=3ubigq&utm_campaign=pub-share-checklist"
-    ],
-    "media": {
-      "path": "media/1793373274531-photo_5370735047939841037_y.jpg",
-      "sha": "76311d808ede75ccec785c716f74d4ca5a3c34e8",
-      "name": "photo_5370735047939841037_y.jpg",
-      "type": "image/jpeg",
-      "size": 372103
-    },
-    "createdAt": "2026-10-30T15:15:39.058Z",
-    "postedAt": "2026-10-31T06:19:53.825Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mz5nndgnea22",
-    "cid": "bafyreigcd425obpql6eppb4p2yimm6plh3apxa7d6l4krwbzxqutdzvrrq"
-  },
-  {
-    "id": "42fef133-0f42-46e5-a7ee-fb728acfdff8",
-    "platform": "bluesky",
-    "date": "2026-10-31T05:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Uilebomen, The Hague, Netherlands 🇳🇱\n\nModern high-rises and geometric apartment blocks shape this evolving urban neighbourhood.\n\nThe mix of clean lines and dense city architecture offers a different side of The Hague.\n\nWould you live here?\n\n#Travel #TravelPhotography #TheHague #Netherlands",
-    "thread": null,
-    "media": {
-      "path": "media/1793373495069-photo_5422607227694472277_y.jpg",
-      "sha": "2c3e925c0a47b71a4e59d3ad19fe0379a6b3e05d",
-      "name": "photo_5422607227694472277_y.jpg",
-      "type": "image/jpeg",
-      "size": 214995
-    },
-    "createdAt": "2026-10-30T15:18:41.790Z",
-    "postedAt": "2026-10-31T06:19:54.807Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mz5nnezcy42t",
-    "cid": "bafyreiaobzyxkfpmuyov4uxwxu6c6qpe6b65aomndarmbxy5sky2c6ivqe"
-  },
-  {
     "id": "1298a847-5237-4366-8896-46539a2a2db0",
     "platform": "bluesky",
     "date": "2026-10-31T09:00:00.000Z",
@@ -140,8 +85,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Cerro Mime, Patagonia, Argentina 🇦🇷\n\nRugged mountain peaks rise above vast Patagonian landscapes, where dramatic rock formations meet open skies.\n\nA striking destination for anyone drawn to remote mountain scenery. \n\nWould you explore this wilderness?\n\n#Travel #TravelPhotography #Patagonia",
@@ -153,7 +98,10 @@
       "type": "image/jpeg",
       "size": 263916
     },
-    "createdAt": "2026-10-30T15:34:10.119Z"
+    "createdAt": "2026-10-30T15:34:10.119Z",
+    "postedAt": "2026-11-01T09:45:13.667Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzajlgcmxe2r",
+    "cid": "bafyreihkdhsxvdapddrsizi7fnbmej2q2mz7btc4pgl4zxh7mw672yxacu"
   },
   {
     "id": "bd9dd543-0242-4a14-8cd1-7a1683445147",
@@ -163,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Fjaðrárgljúfur Canyon, Iceland 🇮🇸\n\nTowering cliffs frame a winding river far below, creating one of Iceland’s most enchanting landscapes.\n\nCarved by glacial meltwater over thousands of years, this canyon is unforgettable.\n\nWould you hike along its rim?\n\n#Travel #TravelPhotography #Iceland",
@@ -176,6 +124,9 @@
       "type": "image/jpeg",
       "size": 237678
     },
-    "createdAt": "2026-10-30T15:37:45.495Z"
+    "createdAt": "2026-10-30T15:37:45.495Z",
+    "postedAt": "2026-11-01T09:45:14.713Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzajlhmtiq24",
+    "cid": "bafyreifxago4qnh4xpppqogdxgcnpvyk7ed5m6jdkvo7ikihpzt6pbxwze"
   }
 ]
