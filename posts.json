@@ -1,31 +1,5 @@
 [
   {
-    "id": "18eb4eda-a7ff-4754-8ec4-cd7c66ae31f6",
-    "platform": "bluesky",
-    "date": "2026-10-31T15:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Gran Sasso d'Italia, Abruzzo, Italy 🇮🇹\n\nRugged limestone peaks rise above vast alpine meadows, creating one of the most dramatic mountain landscapes in the Apennines.\n\nCorno Grande reaches 2,912 metres. Would you explore these mountains?\n\n#Travel #TravelPhotography #Italy",
-    "thread": null,
-    "media": {
-      "path": "media/1793373893557-photo_5220001886491500225_y.jpg",
-      "sha": "4bfd4aee528573903fc40e4d972e97701f57378d",
-      "name": "photo_5220001886491500225_y.jpg",
-      "type": "image/jpeg",
-      "size": 194081
-    },
-    "createdAt": "2026-10-30T15:25:02.737Z",
-    "postedAt": "2026-10-31T17:26:31.583Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mz6svexbkn2t",
-    "cid": "bafyreihj74nspk7ooj2bewdjc25zxqpg43zrhm4n2d4iakqrtwb24a765e"
-  },
-  {
     "id": "96ebe3c2-ccbc-4472-bfeb-5535174f5017",
     "platform": "bluesky",
     "date": "2026-10-31T21:00:00.000Z",
