@@ -3,14 +3,6 @@
     "time": "2026-10-02T18:45:35.869Z",
     "level": "info",
     "event": "DELETED",
-    "message": "Deleted posted post b227c10f-4efb-471e-a2b1-95fa22bf1d44 after 24 hours and associated media file deleted.",
-    "postId": "b227c10f-4efb-471e-a2b1-95fa22bf1d44",
-    "timezone": "Africa/Nairobi"
-  },
-  {
-    "time": "2026-10-02T18:45:35.869Z",
-    "level": "info",
-    "event": "DELETED",
     "message": "Deleted posted post 284a2f14-e2e5-47de-932f-038d5ab9f28b after 24 hours and associated media file deleted.",
     "postId": "284a2f14-e2e5-47de-932f-038d5ab9f28b",
     "timezone": "Africa/Nairobi"
@@ -3993,6 +3985,14 @@
   },
   {
     "time": "2026-11-04T11:13:57.318Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
+  },
+  {
+    "time": "2026-11-04T18:40:31.464Z",
     "level": "info",
     "event": "CHECK",
     "message": "No posts are due.",
