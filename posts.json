@@ -90,5 +90,28 @@
       "size": 172996
     },
     "createdAt": "2026-11-06T08:35:56.137Z"
+  },
+  {
+    "id": "64017fd7-9d1f-43c7-ac9e-923aed239380",
+    "platform": "bluesky",
+    "date": "2026-11-08T20:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Banff Avenue, Alberta, Canada 🇨🇦\n\nThis charming mountain street offers stunning views of the Canadian Rockies, with shops, cafés and colourful buildings lining the road.\n\nA beautiful blend of small-town charm and alpine scenery.\n\n#Travel #TravelPhotography #Banff",
+    "thread": null,
+    "media": {
+      "path": "media/1793954481256-photo_5800873522963268312_y.jpg",
+      "sha": "50489bab90aeb1bc7e79361dc0234ad0b0b43739",
+      "name": "photo_5800873522963268312_y.jpg",
+      "type": "image/jpeg",
+      "size": 248168
+    },
+    "createdAt": "2026-11-06T08:41:28.320Z"
   }
 ]
