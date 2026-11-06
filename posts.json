@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "0ca77e4c-639e-4aac-afe0-3d31f6ca4d9a",
+    "platform": "bluesky",
+    "date": "2026-11-06T20:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Yosemite National Park, California, USA 🇺🇸 \n\nTowering granite cliffs, giant sequoias and spectacular waterfalls define this iconic wilderness. \nFrom El Capitan to Half Dome, every view is unforgettable. \n\nWhich landmark would you visit first?\n\n#Travel #TravelPhotography #Yosemite",
+    "thread": null,
+    "media": {
+      "path": "media/1793953095591-photo_5801055152835246066_y.jpg",
+      "sha": "6383eaca5cc50b463d18bfd6a76edff69642efcb",
+      "name": "photo_5801055152835246066_y.jpg",
+      "type": "image/jpeg",
+      "size": 223317
+    },
+    "createdAt": "2026-11-06T08:18:40.767Z"
+  }
+]
