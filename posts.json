@@ -67,5 +67,28 @@
       "size": 241834
     },
     "createdAt": "2026-11-06T08:21:38.667Z"
+  },
+  {
+    "id": "60e1483e-87f3-4a36-a8b3-590606849080",
+    "platform": "bluesky",
+    "date": "2026-11-08T08:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Lago di Braies, South Tyrol, Italy 🇮🇹\n\nTurquoise waters reflect the towering Dolomite peaks and surrounding evergreen forests.\n\nWooden rowboats add to the charm of this spectacular alpine lake.\n\nWould you take a boat ride here?\n\n#Travel #TravelPhotography #Dolomites",
+    "thread": null,
+    "media": {
+      "path": "media/1793954116056-photo_5796352679042201763_y.jpg",
+      "sha": "f84bb47078841d2308a28fe013b620fa4ec44fe1",
+      "name": "photo_5796352679042201763_y.jpg",
+      "type": "image/jpeg",
+      "size": 172996
+    },
+    "createdAt": "2026-11-06T08:35:56.137Z"
   }
 ]
