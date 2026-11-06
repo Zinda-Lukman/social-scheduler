@@ -44,5 +44,28 @@
       "size": 193753
     },
     "createdAt": "2026-11-06T08:20:39.352Z"
+  },
+  {
+    "id": "ea4af47d-65ea-4ef1-a636-bffab2a3dd31",
+    "platform": "bluesky",
+    "date": "2026-11-07T20:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Empire State Building, New York City, USA 🇺🇸\n\nStanding tall above Manhattan, this Art Deco skyscraper has defined the city’s skyline since 1931.\n\n Its observation decks offer spectacular views across the city. \n\nWould you visit at sunset?\n\n#Travel #TravelPhotography #NewYorkCity",
+    "thread": null,
+    "media": {
+      "path": "media/1793953276607-photo_5796352679042201765_y.jpg",
+      "sha": "b07b7bb1e8c17150ab24b0496f1ba349d023ec48",
+      "name": "photo_5796352679042201765_y.jpg",
+      "type": "image/jpeg",
+      "size": 241834
+    },
+    "createdAt": "2026-11-06T08:21:38.667Z"
   }
 ]
