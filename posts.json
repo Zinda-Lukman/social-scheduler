@@ -21,5 +21,28 @@
       "size": 223317
     },
     "createdAt": "2026-11-06T08:18:40.767Z"
+  },
+  {
+    "id": "d0533e4f-d15f-4ed7-8ffc-f07d6ae719f0",
+    "platform": "bluesky",
+    "date": "2026-11-07T08:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍Banff National Park, Alberta, Canada🇨🇦\n\nSnow blankets the evergreen forests, turning the Canadian Rockies into a peaceful winter wonderland.\n\nFrost-covered trees and mountain scenery make this landscape unforgettable.\n\nWould you explore these forests in winter?\n\n#Travel #TravelPhotography #Banff",
+    "thread": null,
+    "media": {
+      "path": "media/1793953228425-photo_5800873522963268310_y.jpg",
+      "sha": "b38e58861132ec1c15fc996603e5ee503ca213e0",
+      "name": "photo_5800873522963268310_y.jpg",
+      "type": "image/jpeg",
+      "size": 193753
+    },
+    "createdAt": "2026-11-06T08:20:39.352Z"
   }
 ]
