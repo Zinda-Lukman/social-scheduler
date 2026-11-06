@@ -7,8 +7,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Yosemite National Park, California, USA 🇺🇸 \n\nTowering granite cliffs, giant sequoias and spectacular waterfalls define this iconic wilderness. \nFrom El Capitan to Half Dome, every view is unforgettable. \n\nWhich landmark would you visit first?\n\n#Travel #TravelPhotography #Yosemite",
@@ -20,7 +20,10 @@
       "type": "image/jpeg",
       "size": 223317
     },
-    "createdAt": "2026-11-06T08:18:40.767Z"
+    "createdAt": "2026-11-06T08:18:40.767Z",
+    "postedAt": "2026-11-06T21:32:38.454Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzodgy47gi2h",
+    "cid": "bafyreic76436xj4xenqbhgfsonu4kogzphs2qbk53le4hxgf6qejpa3hyu"
   },
   {
     "id": "d0533e4f-d15f-4ed7-8ffc-f07d6ae719f0",
