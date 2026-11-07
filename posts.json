@@ -1,31 +1,5 @@
 [
   {
-    "id": "0ca77e4c-639e-4aac-afe0-3d31f6ca4d9a",
-    "platform": "bluesky",
-    "date": "2026-11-06T20:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Yosemite National Park, California, USA 🇺🇸 \n\nTowering granite cliffs, giant sequoias and spectacular waterfalls define this iconic wilderness. \nFrom El Capitan to Half Dome, every view is unforgettable. \n\nWhich landmark would you visit first?\n\n#Travel #TravelPhotography #Yosemite",
-    "thread": null,
-    "media": {
-      "path": "media/1793953095591-photo_5801055152835246066_y.jpg",
-      "sha": "6383eaca5cc50b463d18bfd6a76edff69642efcb",
-      "name": "photo_5801055152835246066_y.jpg",
-      "type": "image/jpeg",
-      "size": 223317
-    },
-    "createdAt": "2026-11-06T08:18:40.767Z",
-    "postedAt": "2026-11-06T21:32:38.454Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzodgy47gi2h",
-    "cid": "bafyreic76436xj4xenqbhgfsonu4kogzphs2qbk53le4hxgf6qejpa3hyu"
-  },
-  {
     "id": "d0533e4f-d15f-4ed7-8ffc-f07d6ae719f0",
     "platform": "bluesky",
     "date": "2026-11-07T08:11:00.000Z",
@@ -59,8 +33,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Empire State Building, New York City, USA 🇺🇸\n\nStanding tall above Manhattan, this Art Deco skyscraper has defined the city’s skyline since 1931.\n\n Its observation decks offer spectacular views across the city. \n\nWould you visit at sunset?\n\n#Travel #TravelPhotography #NewYorkCity",
@@ -72,7 +46,10 @@
       "type": "image/jpeg",
       "size": 241834
     },
-    "createdAt": "2026-11-06T08:21:38.667Z"
+    "createdAt": "2026-11-06T08:21:38.667Z",
+    "postedAt": "2026-11-07T22:20:33.699Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzqwlluzcc25",
+    "cid": "bafyreihpakjhqtrap27yohzrwe2mqt43jtlqg2qrkjsp7pxpotahoerjly"
   },
   {
     "id": "60e1483e-87f3-4a36-a8b3-590606849080",
