@@ -1,31 +1,5 @@
 [
   {
-    "id": "d0533e4f-d15f-4ed7-8ffc-f07d6ae719f0",
-    "platform": "bluesky",
-    "date": "2026-11-07T08:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍Banff National Park, Alberta, Canada🇨🇦\n\nSnow blankets the evergreen forests, turning the Canadian Rockies into a peaceful winter wonderland.\n\nFrost-covered trees and mountain scenery make this landscape unforgettable.\n\nWould you explore these forests in winter?\n\n#Travel #TravelPhotography #Banff",
-    "thread": null,
-    "media": {
-      "path": "media/1793953228425-photo_5800873522963268310_y.jpg",
-      "sha": "b38e58861132ec1c15fc996603e5ee503ca213e0",
-      "name": "photo_5800873522963268310_y.jpg",
-      "type": "image/jpeg",
-      "size": 193753
-    },
-    "createdAt": "2026-11-06T08:20:39.352Z",
-    "postedAt": "2026-11-07T14:05:14.600Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzq2vvnous2r",
-    "cid": "bafyreichmhghz6nelqydodixtikkbdng75ifa7apu6povjugki74e3ynle"
-  },
-  {
     "id": "ea4af47d-65ea-4ef1-a636-bffab2a3dd31",
     "platform": "bluesky",
     "date": "2026-11-07T20:11:00.000Z",
@@ -59,8 +33,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Lago di Braies, South Tyrol, Italy 🇮🇹\n\nTurquoise waters reflect the towering Dolomite peaks and surrounding evergreen forests.\n\nWooden rowboats add to the charm of this spectacular alpine lake.\n\nWould you take a boat ride here?\n\n#Travel #TravelPhotography #Dolomites",
@@ -72,7 +46,10 @@
       "type": "image/jpeg",
       "size": 172996
     },
-    "createdAt": "2026-11-06T08:35:56.137Z"
+    "createdAt": "2026-11-06T08:35:56.137Z",
+    "postedAt": "2026-11-08T14:59:04.166Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzsof2yj242h",
+    "cid": "bafyreiffghzf7q7p3gizjh2r4okl3nniatgeywhnk2dt6c2xsfnrth4mfq"
   },
   {
     "id": "64017fd7-9d1f-43c7-ac9e-923aed239380",
