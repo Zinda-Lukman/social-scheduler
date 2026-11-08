@@ -1,31 +1,5 @@
 [
   {
-    "id": "ea4af47d-65ea-4ef1-a636-bffab2a3dd31",
-    "platform": "bluesky",
-    "date": "2026-11-07T20:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Empire State Building, New York City, USA 🇺🇸\n\nStanding tall above Manhattan, this Art Deco skyscraper has defined the city’s skyline since 1931.\n\n Its observation decks offer spectacular views across the city. \n\nWould you visit at sunset?\n\n#Travel #TravelPhotography #NewYorkCity",
-    "thread": null,
-    "media": {
-      "path": "media/1793953276607-photo_5796352679042201765_y.jpg",
-      "sha": "b07b7bb1e8c17150ab24b0496f1ba349d023ec48",
-      "name": "photo_5796352679042201765_y.jpg",
-      "type": "image/jpeg",
-      "size": 241834
-    },
-    "createdAt": "2026-11-06T08:21:38.667Z",
-    "postedAt": "2026-11-07T22:20:33.699Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzqwlluzcc25",
-    "cid": "bafyreihpakjhqtrap27yohzrwe2mqt43jtlqg2qrkjsp7pxpotahoerjly"
-  },
-  {
     "id": "60e1483e-87f3-4a36-a8b3-590606849080",
     "platform": "bluesky",
     "date": "2026-11-08T08:11:00.000Z",
@@ -59,8 +33,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Banff Avenue, Alberta, Canada 🇨🇦\n\nThis charming mountain street offers stunning views of the Canadian Rockies, with shops, cafés and colourful buildings lining the road.\n\nA beautiful blend of small-town charm and alpine scenery.\n\n#Travel #TravelPhotography #Banff",
@@ -72,6 +46,9 @@
       "type": "image/jpeg",
       "size": 248168
     },
-    "createdAt": "2026-11-06T08:41:28.320Z"
+    "createdAt": "2026-11-06T08:41:28.320Z",
+    "postedAt": "2026-11-08T23:04:08.454Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mztjignsul2r",
+    "cid": "bafyreidjknrvtle3vh3fnfrklkuryeiu7uy7j6ahzqpd77g7pyxny32bzq"
   }
 ]
