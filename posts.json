@@ -1,31 +1,5 @@
 [
   {
-    "id": "60e1483e-87f3-4a36-a8b3-590606849080",
-    "platform": "bluesky",
-    "date": "2026-11-08T08:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Lago di Braies, South Tyrol, Italy 🇮🇹\n\nTurquoise waters reflect the towering Dolomite peaks and surrounding evergreen forests.\n\nWooden rowboats add to the charm of this spectacular alpine lake.\n\nWould you take a boat ride here?\n\n#Travel #TravelPhotography #Dolomites",
-    "thread": null,
-    "media": {
-      "path": "media/1793954116056-photo_5796352679042201763_y.jpg",
-      "sha": "f84bb47078841d2308a28fe013b620fa4ec44fe1",
-      "name": "photo_5796352679042201763_y.jpg",
-      "type": "image/jpeg",
-      "size": 172996
-    },
-    "createdAt": "2026-11-06T08:35:56.137Z",
-    "postedAt": "2026-11-08T14:59:04.166Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzsof2yj242h",
-    "cid": "bafyreiffghzf7q7p3gizjh2r4okl3nniatgeywhnk2dt6c2xsfnrth4mfq"
-  },
-  {
     "id": "64017fd7-9d1f-43c7-ac9e-923aed239380",
     "platform": "bluesky",
     "date": "2026-11-08T20:11:00.000Z",
@@ -59,8 +33,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Maldives 🇲🇻\n\nTurquoise lagoons, white-sand beaches and palm-fringed islands make this Indian Ocean paradise unforgettable.\n\nBeneath the clear waters lies a spectacular world of coral reefs and marine life.\n\nWould you visit?\n\n#Travel #TravelPhotography #Maldives",
@@ -75,7 +49,10 @@
       "type": "image/jpeg",
       "size": 421846
     },
-    "createdAt": "2026-11-09T08:19:41.923Z"
+    "createdAt": "2026-11-09T08:19:41.923Z",
+    "postedAt": "2026-11-09T20:52:38.822Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzvsm7d7qy2f",
+    "cid": "bafyreihaow5n4erodakuicu27blygg2gwzqqfkjrzuaz2z5sldq627o7fi"
   },
   {
     "id": "e887c2c7-e015-4d46-89bc-06c9a1f78282",
@@ -85,8 +62,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Paleokastritsa, Corfu, Greece 🇬🇷 \n\nDramatic green hills and rocky cliffs frame beautiful turquoise bays along the Ionian Sea. \n\nCrystal-clear waters and hidden coves make this coastal village a Mediterranean gem. \n\nWould you swim here?\n\n#Travel #TravelPhotography #Corfu",
@@ -101,7 +78,10 @@
       "type": "image/jpeg",
       "size": 139199
     },
-    "createdAt": "2026-11-09T08:28:45.132Z"
+    "createdAt": "2026-11-09T08:28:45.132Z",
+    "postedAt": "2026-11-09T20:52:40.601Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzvsmbaz6w2h",
+    "cid": "bafyreihcjmh3e4hdv5o2hsou7l2kei3yqii2iswn5v4r3t7voya2fujvrm"
   },
   {
     "id": "e7f167e8-febb-4bad-96e2-537197b9c035",
