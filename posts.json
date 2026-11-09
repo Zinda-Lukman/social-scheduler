@@ -154,5 +154,31 @@
       "size": 286540
     },
     "createdAt": "2026-11-09T08:42:34.400Z"
+  },
+  {
+    "id": "257789b6-e3ac-4dbb-a87a-c27cfc807faf",
+    "platform": "bluesky",
+    "date": "2026-11-10T14:19:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Japan 🇯🇵\n\nA quiet Japanese town blends traditional architecture with everyday charm, \n\nfeaturing a historic castle keep in the distance and a cosy café sign reading 軽食喫茶 トミタ. \n\nA lovely glimpse of local life. \n\nWould you stop for coffee?\n\n#Travel #TravelPhotography #Japan",
+    "thread": [
+      "📍 Japan 🇯🇵\n\nA quiet Japanese town blends traditional architecture with everyday charm, \n\nfeaturing a historic castle keep in the distance and a cosy café sign reading 軽食喫茶 トミタ. \n\nA lovely glimpse of local life. \n\nWould you stop for coffee?\n\n#Travel #TravelPhotography #Japan",
+      "Subscribe to my newsletter where, I share about different places in Europe:\n\nhttps://earthexplorationtravels.substack.com/?r=3ubigq&utm_campaign=pub-share-checklist"
+    ],
+    "media": {
+      "path": "media/1794213991544-photo_5809966746117977828_y.jpg",
+      "sha": "d6e9b1ae915704c9e4e3e05fae68f202496777c5",
+      "name": "photo_5809966746117977828_y.jpg",
+      "type": "image/jpeg",
+      "size": 136451
+    },
+    "createdAt": "2026-11-09T08:46:35.757Z"
   }
 ]
