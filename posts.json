@@ -102,31 +102,5 @@
       "size": 139199
     },
     "createdAt": "2026-11-09T08:28:45.132Z"
-  },
-  {
-    "id": "3852ec66-3ec0-488c-841b-3fff137e8530",
-    "platform": "bluesky",
-    "date": "2026-11-10T02:19:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "scheduled",
-    "posted": false,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Oia, Santorini, Greece 🇬🇷\n\nWhitewashed houses and blue-domed churches cling to volcanic cliffs overlooking the deep blue Aegean Sea.\n\nFamous for its spectacular sunsets, this village is one of Greece’s most iconic sights.\n\nWould you watch the sunset here?\n\n#Travel #TravelPhotography #Santorini",
-    "thread": [
-      "📍 Oia, Santorini, Greece 🇬🇷\n\nWhitewashed houses and blue-domed churches cling to volcanic cliffs overlooking the deep blue Aegean Sea.\n\nFamous for its spectacular sunsets, this village is one of Greece’s most iconic sights.\n\nWould you watch the sunset here?\n\n#Travel #TravelPhotography #Santorini",
-      "Subscribe to my newsletter where, I share about different places in Europe:\n\nhttps://earthexplorationtravels.substack.com/?r=3ubigq&utm_campaign=pub-share-checklist"
-    ],
-    "media": {
-      "path": "media/1794213355999-photo_5819143304523135734_y.jpg",
-      "sha": "4a6f7d18a4de9a5be1e73d6996fd3e4801588ed2",
-      "name": "photo_5819143304523135734_y.jpg",
-      "type": "image/jpeg",
-      "size": 178128
-    },
-    "createdAt": "2026-11-09T08:36:01.414Z"
   }
 ]
