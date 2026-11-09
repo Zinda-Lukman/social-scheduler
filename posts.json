@@ -180,5 +180,31 @@
       "size": 136451
     },
     "createdAt": "2026-11-09T08:46:35.757Z"
+  },
+  {
+    "id": "cfbf025b-5d5c-4ba2-b77e-9c6e3862b62a",
+    "platform": "bluesky",
+    "date": "2026-11-10T20:19:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Finnish Lapland, Finland 🇫🇮 \n\nVibrant green northern lights dance above snow-covered forests, illuminating the Arctic night sky.\n\nThis magical natural display makes winter in Lapland unforgettable.\n\nWould you travel north to see the aurora?\n\n#Travel #TravelPhotography #Finland",
+    "thread": [
+      "📍 Finnish Lapland, Finland 🇫🇮 \n\nVibrant green northern lights dance above snow-covered forests, illuminating the Arctic night sky.\n\nThis magical natural display makes winter in Lapland unforgettable.\n\nWould you travel north to see the aurora?\n\n#Travel #TravelPhotography #Finland",
+      "Subscribe to my newsletter where, I share about different places in Europe:\n\nhttps://earthexplorationtravels.substack.com/?r=3ubigq&utm_campaign=pub-share-checklist"
+    ],
+    "media": {
+      "path": "media/1794214302320-photo_5805379652326373433_y.jpg",
+      "sha": "3050e1f0c486a22ffd69d76db8d5368108246e9b",
+      "name": "photo_5805379652326373433_y.jpg",
+      "type": "image/jpeg",
+      "size": 198205
+    },
+    "createdAt": "2026-11-09T08:51:47.197Z"
   }
 ]
