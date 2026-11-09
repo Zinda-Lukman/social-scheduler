@@ -76,5 +76,31 @@
       "size": 421846
     },
     "createdAt": "2026-11-09T08:19:41.923Z"
+  },
+  {
+    "id": "e887c2c7-e015-4d46-89bc-06c9a1f78282",
+    "platform": "bluesky",
+    "date": "2026-11-09T20:19:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Paleokastritsa, Corfu, Greece 🇬🇷 \n\nDramatic green hills and rocky cliffs frame beautiful turquoise bays along the Ionian Sea. \n\nCrystal-clear waters and hidden coves make this coastal village a Mediterranean gem. \n\nWould you swim here?\n\n#Travel #TravelPhotography #Corfu",
+    "thread": [
+      "📍 Paleokastritsa, Corfu, Greece 🇬🇷 \n\nDramatic green hills and rocky cliffs frame beautiful turquoise bays along the Ionian Sea. \n\nCrystal-clear waters and hidden coves make this coastal village a Mediterranean gem. \n\nWould you swim here?\n\n#Travel #TravelPhotography #Corfu",
+      "Subscribe to my newsletter where, I share about different places in Europe:\n\nhttps://earthexplorationtravels.substack.com/?r=3ubigq&utm_campaign=pub-share-checklist"
+    ],
+    "media": {
+      "path": "media/1794212918871-photo_5816840489087909022_y.jpg",
+      "sha": "5108a43276ed62f903159132080949ae977a2b89",
+      "name": "photo_5816840489087909022_y.jpg",
+      "type": "image/jpeg",
+      "size": 284538
+    },
+    "createdAt": "2026-11-09T08:28:45.132Z"
   }
 ]
