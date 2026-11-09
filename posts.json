@@ -232,5 +232,31 @@
       "size": 304424
     },
     "createdAt": "2026-11-09T08:58:16.875Z"
+  },
+  {
+    "id": "a85ae09a-7802-4c07-b6f9-fa2b682fd13d",
+    "platform": "bluesky",
+    "date": "2026-11-11T08:19:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Reine, Lofoten Islands, Norway 🇳🇴\nSnow-covered peaks rise above colourful fishing cabins and quiet Arctic fjords.\n\nThis coastal village looks especially magical in winter.\n\nWould you visit? ❄️\n\n#Travel #TravelPhotography #Norway",
+    "thread": [
+      "📍 Reine, Lofoten Islands, Norway 🇳🇴\nSnow-covered peaks rise above colourful fishing cabins and quiet Arctic fjords.\n\nThis coastal village looks especially magical in winter.\n\nWould you visit? ❄️\n\n#Travel #TravelPhotography #Norway",
+      "Subscribe to my newsletter where, I share about different places in Europe:\n\nhttps://earthexplorationtravels.substack.com/?r=3ubigq&utm_campaign=pub-share-checklist"
+    ],
+    "media": {
+      "path": "media/1794214770664-photo_5805379652326373431_y.jpg",
+      "sha": "e53d626d4cbdf5d43803cad6976019fb54d164c4",
+      "name": "photo_5805379652326373431_y.jpg",
+      "type": "image/jpeg",
+      "size": 222884
+    },
+    "createdAt": "2026-11-09T08:59:36.782Z"
   }
 ]
