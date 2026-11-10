@@ -123,8 +123,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Japan 🇯🇵\n\nA quiet Japanese town blends traditional architecture with everyday charm, \n\nfeaturing a historic castle keep in the distance and a cosy café sign reading 軽食喫茶 トミタ. \n\nA lovely glimpse of local life. \n\nWould you stop for coffee?\n\n#Travel #TravelPhotography #Japan",
@@ -139,7 +139,10 @@
       "type": "image/jpeg",
       "size": 136451
     },
-    "createdAt": "2026-11-09T08:46:35.757Z"
+    "createdAt": "2026-11-09T08:46:35.757Z",
+    "postedAt": "2026-11-10T18:38:49.013Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzy3ltez2g24",
+    "cid": "bafyreianedlhd3nnnkqzdv6paxrjnwdi4o3m25mjsylcyjcbpleqczjhni"
   },
   {
     "id": "cfbf025b-5d5c-4ba2-b77e-9c6e3862b62a",
