@@ -94,8 +94,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Moraine Lake, Banff National Park, Canada 🇨🇦\n\nBrilliant turquoise water reflects the towering Ten Peaks, creating one of the Canadian Rockies’ most iconic views.\n\nSurrounded by pine forests and mountain peaks, it’s pure alpine beauty.\n\nWould you visit?\n\n#Travel #TravelPhotography #Banff",
@@ -110,7 +110,10 @@
       "type": "image/jpeg",
       "size": 286540
     },
-    "createdAt": "2026-11-09T08:42:34.400Z"
+    "createdAt": "2026-11-09T08:42:34.400Z",
+    "postedAt": "2026-11-10T11:04:02.209Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzxc6mpwic2q",
+    "cid": "bafyreifqfb4ro6xtjo4okomyrcux64p27nttxgpvgjxafk5yfwflip7v6a"
   },
   {
     "id": "257789b6-e3ac-4dbb-a87a-c27cfc807faf",
