@@ -1,63 +1,5 @@
 [
   {
-    "id": "3e420fc9-6c52-4981-96e1-2139b6e03b1e",
-    "platform": "bluesky",
-    "date": "2026-11-09T14:19:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Maldives 🇲🇻\n\nTurquoise lagoons, white-sand beaches and palm-fringed islands make this Indian Ocean paradise unforgettable.\n\nBeneath the clear waters lies a spectacular world of coral reefs and marine life.\n\nWould you visit?\n\n#Travel #TravelPhotography #Maldives",
-    "thread": [
-      "📍 Maldives 🇲🇻\n\nTurquoise lagoons, white-sand beaches and palm-fringed islands make this Indian Ocean paradise unforgettable.\n\nBeneath the clear waters lies a spectacular world of coral reefs and marine life.\n\nWould you visit?\n\n#Travel #TravelPhotography #Maldives",
-      "Subscribe to my newsletter where, I share about different places in Europe:\n\nhttps://earthexplorationtravels.substack.com/?r=3ubigq&utm_campaign=pub-share-checklist"
-    ],
-    "media": {
-      "path": "media/1794212716399-photo_5819143304523135736_y.jpg",
-      "sha": "24e50dcd209f348e6cb01bcc782671a35e839611",
-      "name": "photo_5819143304523135736_y.jpg",
-      "type": "image/jpeg",
-      "size": 421846
-    },
-    "createdAt": "2026-11-09T08:19:41.923Z",
-    "postedAt": "2026-11-09T20:52:38.822Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzvsm7d7qy2f",
-    "cid": "bafyreihaow5n4erodakuicu27blygg2gwzqqfkjrzuaz2z5sldq627o7fi"
-  },
-  {
-    "id": "e887c2c7-e015-4d46-89bc-06c9a1f78282",
-    "platform": "bluesky",
-    "date": "2026-11-09T20:19:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Paleokastritsa, Corfu, Greece 🇬🇷 \n\nDramatic green hills and rocky cliffs frame beautiful turquoise bays along the Ionian Sea. \n\nCrystal-clear waters and hidden coves make this coastal village a Mediterranean gem. \n\nWould you swim here?\n\n#Travel #TravelPhotography #Corfu",
-    "thread": [
-      "📍 Paleokastritsa, Corfu, Greece 🇬🇷 \n\nDramatic green hills and rocky cliffs frame beautiful turquoise bays along the Ionian Sea. \n\nCrystal-clear waters and hidden coves make this coastal village a Mediterranean gem. \n\nWould you swim here?\n\n#Travel #TravelPhotography #Corfu",
-      "Subscribe to my newsletter where, I share about different places in Europe:\n\nhttps://earthexplorationtravels.substack.com/?r=3ubigq&utm_campaign=pub-share-checklist"
-    ],
-    "media": {
-      "path": "media/1794213159110-image.jpg",
-      "sha": "baaaab93521c11d57227219f77584ce45183deec",
-      "name": "image.jpg",
-      "type": "image/jpeg",
-      "size": 139199
-    },
-    "createdAt": "2026-11-09T08:28:45.132Z",
-    "postedAt": "2026-11-09T20:52:40.601Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzvsmbaz6w2h",
-    "cid": "bafyreihcjmh3e4hdv5o2hsou7l2kei3yqii2iswn5v4r3t7voya2fujvrm"
-  },
-  {
     "id": "e7f167e8-febb-4bad-96e2-537197b9c035",
     "platform": "bluesky",
     "date": "2026-11-10T02:19:00.000Z",
@@ -152,8 +94,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Finnish Lapland, Finland 🇫🇮 \n\nVibrant green northern lights dance above snow-covered forests, illuminating the Arctic night sky.\n\nThis magical natural display makes winter in Lapland unforgettable.\n\nWould you travel north to see the aurora?\n\n#Travel #TravelPhotography #Finland",
@@ -168,7 +110,10 @@
       "type": "image/jpeg",
       "size": 198205
     },
-    "createdAt": "2026-11-09T08:51:47.197Z"
+    "createdAt": "2026-11-09T08:51:47.197Z",
+    "postedAt": "2026-11-10T23:43:43.775Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzymn2m6kb2o",
+    "cid": "bafyreicjyy6xh2qhcbo7jdhr5twcrc3tccxjdgwrbotwuk7x7sucqpsvdu"
   },
   {
     "id": "d854f91b-71c8-4a5c-8236-e712667b3726",
