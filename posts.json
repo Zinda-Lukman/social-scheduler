@@ -123,8 +123,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Reine, Lofoten Islands, Norway 🇳🇴\nSnow-covered peaks rise above colourful fishing cabins and quiet Arctic fjords.\n\nThis coastal village looks especially magical in winter.\n\nWould you visit? ❄️\n\n#Travel #TravelPhotography #Norway",
@@ -139,6 +139,9 @@
       "type": "image/jpeg",
       "size": 222884
     },
-    "createdAt": "2026-11-09T08:59:36.782Z"
+    "createdAt": "2026-11-09T08:59:36.782Z",
+    "postedAt": "2026-11-11T10:52:17.291Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3mzzryjtzqm2g",
+    "cid": "bafyreiemuzzll2phigsy7z5vu7ia5dauamgkxvoazyum2jx5ka2pwbkcom"
   }
 ]
