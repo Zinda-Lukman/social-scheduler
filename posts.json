@@ -245,5 +245,28 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-12T20:43:23.419Z"
+  },
+  {
+    "id": "6af51587-f943-437e-9e0f-98f4cb9609bf",
+    "platform": "bluesky",
+    "date": "2026-11-15T14:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Le Méridien Bora Bora, French Polynesia 🇵🇫 \n\nOverwater villas sit above crystal-clear turquoise lagoons, with Mount Otemanu rising in the distance.\n\nThis is island living at its most spectacular.\n\nWould you stay here?\n\n#Travel #TravelPhotography #BoraBora",
+    "thread": null,
+    "media": {
+      "path": "media/1794516570442-photo_5841244158256330702_y.jpg",
+      "sha": "8c88b439286ac225741317611375b9481c7eb0f4",
+      "name": "photo_5841244158256330702_y.jpg",
+      "type": "image/jpeg",
+      "size": 451898
+    },
+    "createdAt": "2026-11-12T20:49:40.319Z"
   }
 ]
