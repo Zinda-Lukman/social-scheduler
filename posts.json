@@ -90,5 +90,28 @@
       "size": 375065
     },
     "createdAt": "2026-11-12T20:23:43.430Z"
+  },
+  {
+    "id": "7c39274f-cca5-4441-b3dc-a9aa0fc6eb2c",
+    "platform": "bluesky",
+    "date": "2026-11-14T02:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Burj Khalifa, Downtown Dubai, UAE 🇦🇪 \n\nThe world’s tallest building rises above a skyline of modern skyscrapers, fountains and bustling city streets. \n\nDubai’s architecture is hard to miss. \n\nWould you visit the observation deck?\n\n#Travel #TravelPhotography #Dubai",
+    "thread": null,
+    "media": {
+      "path": "media/1794515109186-photo_5850515867366962724_y.jpg",
+      "sha": "1c4d5697c1a3f75cd87023684968558b81586cff",
+      "name": "photo_5850515867366962724_y.jpg",
+      "type": "image/jpeg",
+      "size": 381541
+    },
+    "createdAt": "2026-11-12T20:25:18.591Z"
   }
 ]
