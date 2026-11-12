@@ -205,5 +205,28 @@
       "size": 332684
     },
     "createdAt": "2026-11-12T20:36:23.864Z"
+  },
+  {
+    "id": "6a5f3e1e-f006-4f76-a90b-9bb6023be798",
+    "platform": "bluesky",
+    "date": "2026-11-15T02:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Narai-juku, Nagano, Japan 🇯🇵\n\nSnow blankets the streets of this beautifully preserved Edo-period post town, where traditional wooden buildings create a scene from another era.\n\nWould you visit in winter? ❄️\n\n#Travel #TravelPhotography #Japan",
+    "thread": null,
+    "media": {
+      "path": "media/1794515873490-photo_5838992358442645588_y.jpg",
+      "sha": "6aa384ba42b280ff00b4e061e83d427f7c5b4d09",
+      "name": "photo_5838992358442645588_y.jpg",
+      "type": "image/jpeg",
+      "size": 254957
+    },
+    "createdAt": "2026-11-12T20:37:59.424Z"
   }
 ]
