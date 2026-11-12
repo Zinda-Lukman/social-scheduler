@@ -1,21 +1,5 @@
 [
   {
-    "time": "2026-10-08T06:40:28.052Z",
-    "level": "info",
-    "event": "CHECK",
-    "message": "No posts are due.",
-    "postId": null,
-    "timezone": "UTC"
-  },
-  {
-    "time": "2026-10-08T14:03:34.165Z",
-    "level": "info",
-    "event": "LOGIN",
-    "message": "Logged into Bluesky.",
-    "postId": null,
-    "timezone": "UTC"
-  },
-  {
     "time": "2026-10-08T14:03:34.165Z",
     "level": "info",
     "event": "PUBLISH_START",
@@ -3993,6 +3977,22 @@
   },
   {
     "time": "2026-11-12T07:51:17.958Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
+  },
+  {
+    "time": "2026-11-12T16:27:45.259Z",
+    "level": "info",
+    "event": "DELETED",
+    "message": "Deleted posted post a85ae09a-7802-4c07-b6f9-fa2b682fd13d after 24 hours and associated media file deleted.",
+    "postId": "a85ae09a-7802-4c07-b6f9-fa2b682fd13d",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-11-12T16:27:45.260Z",
     "level": "info",
     "event": "CHECK",
     "message": "No posts are due.",
