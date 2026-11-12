@@ -1,21 +1,5 @@
 [
   {
-    "time": "2026-10-07T20:52:22.865Z",
-    "level": "info",
-    "event": "CHECK",
-    "message": "No posts are due.",
-    "postId": null,
-    "timezone": "UTC"
-  },
-  {
-    "time": "2026-10-08T00:39:48.355Z",
-    "level": "info",
-    "event": "CHECK",
-    "message": "No posts are due.",
-    "postId": null,
-    "timezone": "UTC"
-  },
-  {
     "time": "2026-10-08T06:40:28.052Z",
     "level": "info",
     "event": "CHECK",
@@ -3993,6 +3977,22 @@
   },
   {
     "time": "2026-11-12T00:50:45.712Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
+  },
+  {
+    "time": "2026-11-12T07:51:17.958Z",
+    "level": "info",
+    "event": "DELETED",
+    "message": "Deleted posted post d854f91b-71c8-4a5c-8236-e712667b3726 after 24 hours and associated media file deleted.",
+    "postId": "d854f91b-71c8-4a5c-8236-e712667b3726",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-11-12T07:51:17.958Z",
     "level": "info",
     "event": "CHECK",
     "message": "No posts are due.",
