@@ -274,5 +274,28 @@
       "size": 230081
     },
     "createdAt": "2026-11-12T20:51:17.378Z"
+  },
+  {
+    "id": "c2a40fb2-76eb-4d4b-9fec-c7b619a88c95",
+    "platform": "bluesky",
+    "date": "2026-11-16T02:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Rammang-Rammang, Maros, South Sulawesi, Indonesia 🇮🇩\n\nTowering limestone karsts rise above lush green landscapes and winding waterways in this remarkable natural wonder.\n\nWould you explore this hidden gem by boat?\n\n#Travel #TravelPhotography #Indonesia",
+    "thread": null,
+    "media": {
+      "path": "media/1794516871258-photo_6194796387070224793_y.jpg",
+      "sha": "5899d7de394ae3a76678a0df5966e556d246bb64",
+      "name": "photo_6194796387070224793_y.jpg",
+      "type": "image/jpeg",
+      "size": 233016
+    },
+    "createdAt": "2026-11-12T20:54:35.766Z"
   }
 ]
