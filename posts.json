@@ -297,5 +297,28 @@
       "size": 233016
     },
     "createdAt": "2026-11-12T20:54:35.766Z"
+  },
+  {
+    "id": "7924e8e3-e171-46cd-bce9-56adf08bcf75",
+    "platform": "bluesky",
+    "date": "2026-11-16T08:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Wetterhorn, Rosenlaui Valley, Switzerland 🇨🇭\n\nThe towering mountain peak rises above green alpine meadows and rushing turquoise waters in the Bernese Oberland.\n\nA stunning glimpse of the Swiss Alps.\n\nWould you hike through this valley?\n\n#Travel #TravelPhotography #Switzerland",
+    "thread": null,
+    "media": {
+      "path": "media/1794517004346-photo_6188022695363455101_y.jpg",
+      "sha": "083be407a1c515cc24b633ab6043e8860e1180b1",
+      "name": "photo_6188022695363455101_y.jpg",
+      "type": "image/jpeg",
+      "size": 303898
+    },
+    "createdAt": "2026-11-12T20:56:52.056Z"
   }
 ]
