@@ -320,5 +320,28 @@
       "size": 303898
     },
     "createdAt": "2026-11-12T20:56:52.056Z"
+  },
+  {
+    "id": "8f3ed2b8-6db5-4b43-8cd1-7a88416b4284",
+    "platform": "bluesky",
+    "date": "2026-11-16T14:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Shiprock, New Mexico, USA 🇺🇸\n\nThis striking volcanic formation rises dramatically from the desert plains.\n\nIts jagged silhouette is the exposed remnant of an ancient volcanic system and a sacred landmark of the Navajo Nation.\n\n#Travel #TravelPhotography #NewMexico #USA",
+    "thread": null,
+    "media": {
+      "path": "media/1794517187018-photo_6187985174529157208_y.jpg",
+      "sha": "202501f2b2e5e3e17eff61d29387d942b0c514fa",
+      "name": "photo_6187985174529157208_y.jpg",
+      "type": "image/jpeg",
+      "size": 165473
+    },
+    "createdAt": "2026-11-12T20:59:52.128Z"
   }
 ]
