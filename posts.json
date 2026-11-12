@@ -268,5 +268,28 @@
       "size": 451898
     },
     "createdAt": "2026-11-12T20:49:40.319Z"
+  },
+  {
+    "id": "be891e94-dde0-445d-a98f-664aec62a2bf",
+    "platform": "bluesky",
+    "date": "2026-11-15T20:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Dubai Marina, UAE 🇦🇪\n\nSleek skyscrapers tower over a waterfront lined with restaurants, boats and lively promenades.\n\nThe district’s skyline is especially striking after dark.\n\nWould you take an evening walk here?\n\n#Travel #TravelPhotography #Dubai",
+    "thread": null,
+    "media": {
+      "path": "media/1794516671970-photo_5857456113610504043_y.jpg",
+      "sha": "f26034ff3ae8102566724d403123ece28600dd43",
+      "name": "photo_5857456113610504043_y.jpg",
+      "type": "image/jpeg",
+      "size": 230081
+    },
+    "createdAt": "2026-11-12T20:51:17.378Z"
   }
 ]
