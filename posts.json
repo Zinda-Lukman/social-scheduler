@@ -85,8 +85,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Plitvice Lakes National Park, Croatia 🇭🇷\n\nTurquoise lakes, cascading waterfalls and wooden walkways wind through lush forests.\n\nThe park’s connected lakes create one of Europe’s most beautiful natural landscapes.\nWould you explore these trails?\n\n#Travel #TravelPhotography #Croatia",
@@ -98,7 +98,10 @@
       "type": "image/jpeg",
       "size": 375065
     },
-    "createdAt": "2026-11-12T20:23:43.430Z"
+    "createdAt": "2026-11-12T20:23:43.430Z",
+    "postedAt": "2026-11-13T22:54:20.920Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2a3bjz4em2n",
+    "cid": "bafyreic3qc3yigevejqtntahuoe5bgluqah2432l2ct4tz5d3g2dmhsjhy"
   },
   {
     "id": "7c39274f-cca5-4441-b3dc-a9aa0fc6eb2c",
