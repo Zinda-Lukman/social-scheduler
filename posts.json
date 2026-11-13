@@ -7,8 +7,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Val d’Orcia, Tuscany, Italy 🇮🇹\n\nRolling green hills, cypress trees and a traditional stone farmhouse create the timeless Tuscan countryside scene.\n\nCould you imagine spending a quiet day here?\n\n#Travel #TravelPhotography #Tuscany",
@@ -20,7 +20,10 @@
       "type": "image/jpeg",
       "size": 190255
     },
-    "createdAt": "2026-11-12T20:12:53.552Z"
+    "createdAt": "2026-11-12T20:12:53.552Z",
+    "postedAt": "2026-11-13T02:48:23.733Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n25xv4u5hb2j",
+    "cid": "bafyreidx6et4n6723bd6cf4npr7njo56il2khqpcvgabjvnwefxizxndiq"
   },
   {
     "id": "90cf91bd-68a1-4db0-bc79-98c25efa8543",
