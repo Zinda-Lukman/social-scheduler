@@ -59,8 +59,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Iceland 🇮🇸 \n\nMoss-covered volcanic hills stretch across a rugged landscape shaped by ancient eruptions. \n\nThe soft green moss against dark lava rock creates an almost otherworldly scene. \n\nWould you explore this landscape?\n\n#Travel #TravelPhotography #Iceland",
@@ -72,7 +72,10 @@
       "type": "image/jpeg",
       "size": 281251
     },
-    "createdAt": "2026-11-12T20:22:24.653Z"
+    "createdAt": "2026-11-12T20:22:24.653Z",
+    "postedAt": "2026-11-13T17:41:42.664Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n27jsipakx2n",
+    "cid": "bafyreih74e7mxpfr7rk3d2omow2ynx5hh7reidv7cowxh5bvp33fbu4e2u"
   },
   {
     "id": "dca1b2b6-85a9-47d4-8a2e-1b885e4169a6",
