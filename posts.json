@@ -421,5 +421,28 @@
       "size": 144394
     },
     "createdAt": "2026-11-13T21:08:55.683Z"
+  },
+  {
+    "id": "883cdf58-2b3b-4eec-8e6d-625da6ccf02e",
+    "platform": "bluesky",
+    "date": "2026-11-17T14:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Lake O’Hara, Yoho National Park, Canada 🇨🇦\n\nCrystal-clear alpine waters reflect towering mountain peaks, surrounded by forests and rugged trails.\n\nThis secluded corner of the Canadian Rockies looks like a dream.\n\nWould you hike here?\n\n#Travel #TravelPhotography #Canada",
+    "thread": null,
+    "media": {
+      "path": "media/1794604261324-photo_6197244484069206455_y.jpg",
+      "sha": "7344d1f1532d6f79146dd85029fd9f03522c9a1a",
+      "name": "photo_6197244484069206455_y.jpg",
+      "type": "image/jpeg",
+      "size": 175014
+    },
+    "createdAt": "2026-11-13T21:11:16.795Z"
   }
 ]
