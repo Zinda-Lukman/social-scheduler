@@ -33,8 +33,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Shingashi River, Kawagoe, Japan 🇯🇵 \n\nCherry blossoms glow under the evening lights, their pink petals reflecting on the river. \n\nSpring in Japan has a special kind of beauty. \n\nWould you visit during sakura season? 🌸\n\n#Travel #TravelPhotography #Japan",
@@ -46,7 +46,10 @@
       "type": "image/jpeg",
       "size": 413044
     },
-    "createdAt": "2026-11-12T20:14:31.588Z"
+    "createdAt": "2026-11-12T20:14:31.588Z",
+    "postedAt": "2026-11-13T10:06:41.875Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n26qeumwh224",
+    "cid": "bafyreig426atloeoujvlmi3zzzkpqwyzoakhvozczbidc725im3csh45sq"
   },
   {
     "id": "22dc8443-7d16-4c62-a544-a6b4f458cd51",
