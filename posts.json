@@ -398,5 +398,28 @@
       "size": 229584
     },
     "createdAt": "2026-11-13T21:07:40.829Z"
+  },
+  {
+    "id": "1332abe9-c760-4c08-8fbb-ffd218782f94",
+    "platform": "bluesky",
+    "date": "2026-11-17T08:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Emerald Lake, Yoho National Park, Canada 🇨🇦\n\nBrilliant turquoise water is surrounded by forested mountains, with Emerald Lake Lodge nestled along the shore.\n\nA peaceful Rocky Mountain escape.\n\nWould you stay here?\n\n#Travel #TravelPhotography #Canada",
+    "thread": null,
+    "media": {
+      "path": "media/1794604130068-photo_6197373715340175524_y.jpg",
+      "sha": "fb1e0629db64d60bcdf68ee0ef0352fa1fd3f519",
+      "name": "photo_6197373715340175524_y.jpg",
+      "type": "image/jpeg",
+      "size": 144394
+    },
+    "createdAt": "2026-11-13T21:08:55.683Z"
   }
 ]
