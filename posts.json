@@ -1,31 +1,5 @@
 [
   {
-    "id": "90cf91bd-68a1-4db0-bc79-98c25efa8543",
-    "platform": "bluesky",
-    "date": "2026-11-13T08:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Shingashi River, Kawagoe, Japan 🇯🇵 \n\nCherry blossoms glow under the evening lights, their pink petals reflecting on the river. \n\nSpring in Japan has a special kind of beauty. \n\nWould you visit during sakura season? 🌸\n\n#Travel #TravelPhotography #Japan",
-    "thread": null,
-    "media": {
-      "path": "media/1794514463716-photo_6190274495177140340_y.jpg",
-      "sha": "dcf4751b130c73e4357ae1da98403fb3dcba7573",
-      "name": "photo_6190274495177140340_y.jpg",
-      "type": "image/jpeg",
-      "size": 413044
-    },
-    "createdAt": "2026-11-12T20:14:31.588Z",
-    "postedAt": "2026-11-13T10:06:41.875Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n26qeumwh224",
-    "cid": "bafyreig426atloeoujvlmi3zzzkpqwyzoakhvozczbidc725im3csh45sq"
-  },
-  {
     "id": "22dc8443-7d16-4c62-a544-a6b4f458cd51",
     "platform": "bluesky",
     "date": "2026-11-13T14:11:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Stuðlagil Canyon, East Iceland 🇮🇸 \n\nTowering basalt columns frame a striking blue-green river, creating one of Iceland’s most dramatic natural landscapes. \n\nWould you hike down to see it up close?\n\n#Travel #TravelPhotography #Iceland",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 282579
     },
-    "createdAt": "2026-11-12T20:30:56.869Z"
+    "createdAt": "2026-11-12T20:30:56.869Z",
+    "postedAt": "2026-11-14T16:18:26.585Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2bvmjo67y2l",
+    "cid": "bafyreibfucxrqfidfnogjgapjq3sobouiyeqlv6esnd5shn44zus2qshvu"
   },
   {
     "id": "791fe86b-fc34-4d1e-a1c2-0a25cb2f67cb",
@@ -160,8 +137,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Stuðlagil Canyon, East Iceland 🇮🇸 \n\nTowering basalt columns frame a striking blue-green river, creating one of Iceland’s most dramatic natural landscapes. \n\nWould you hike down to see it up close?\n\n#Travel #TravelPhotography #Iceland",
@@ -173,7 +150,10 @@
       "type": "image/jpeg",
       "size": 282579
     },
-    "createdAt": "2026-11-12T20:31:02.945Z"
+    "createdAt": "2026-11-12T20:31:02.945Z",
+    "postedAt": "2026-11-14T16:18:27.100Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2bvmkm42s25",
+    "cid": "bafyreic7qrujbghmhm3f6tvmnlf4ed7vs7lehmqpmsfrqyjbegxw2jtqiy"
   },
   {
     "id": "96fc9743-b82e-463d-afbb-3e310501c41d",
