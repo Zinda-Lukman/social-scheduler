@@ -111,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Tokyo, Japan 🇯🇵 \n\nA dazzling night skyline of towering skyscrapers, glowing bridges and city lights stretching along the river.\n\nTokyo truly comes alive after dark. \n\nWould you explore the city at night?\n\n#Travel #TravelPhotography #Tokyo",
@@ -124,7 +124,10 @@
       "type": "image/jpeg",
       "size": 416023
     },
-    "createdAt": "2026-11-12T20:26:51.817Z"
+    "createdAt": "2026-11-12T20:26:51.817Z",
+    "postedAt": "2026-11-14T09:52:23.986Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2ba27y5q22u",
+    "cid": "bafyreifgwhfbsdslsbqvpm2ao3xi6b7lavevg5zut3dpc4xe5vg3knk4ce"
   },
   {
     "id": "a183a58e-e40f-46d7-9375-09788de95ff3",
