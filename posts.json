@@ -1,31 +1,5 @@
 [
   {
-    "id": "96fc9743-b82e-463d-afbb-3e310501c41d",
-    "platform": "bluesky",
-    "date": "2026-11-14T20:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Balat, Istanbul, Türkiye 🇹🇷 \n\nColourful staircases brighten this historic neighbourhood, where vibrant buildings and narrow streets reflect Istanbul’s rich character. \n\nWould you wander through these colourful streets?\n\n#Travel #TravelPhotography #Istanbul",
-    "thread": null,
-    "media": {
-      "path": "media/1794515777242-photo_5838992358442645575_y.jpg",
-      "sha": "d080de06e7d456ad6e0ae184b1d1499213da884b",
-      "name": "photo_5838992358442645575_y.jpg",
-      "type": "image/jpeg",
-      "size": 332684
-    },
-    "createdAt": "2026-11-12T20:36:23.864Z",
-    "postedAt": "2026-11-14T20:48:44.029Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2ceptlz622o",
-    "cid": "bafyreigh4r62oyco7hiyxyjaj3wagaz44c6g6pdpcbihouyz7ham62amlu"
-  },
-  {
     "id": "6a5f3e1e-f006-4f76-a90b-9bb6023be798",
     "platform": "bluesky",
     "date": "2026-11-15T02:11:00.000Z",
@@ -85,8 +59,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Dubai Marina, UAE 🇦🇪\n\nSleek skyscrapers tower over a waterfront lined with restaurants, boats and lively promenades.\n\nThe district’s skyline is especially striking after dark.\n\nWould you take an evening walk here?\n\n#Travel #TravelPhotography #Dubai",
@@ -98,7 +72,10 @@
       "type": "image/jpeg",
       "size": 230081
     },
-    "createdAt": "2026-11-12T20:51:17.378Z"
+    "createdAt": "2026-11-12T20:51:17.378Z",
+    "postedAt": "2026-11-15T23:54:45.308Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2f7lfg6xe2o",
+    "cid": "bafyreibflwekfsjajuyin2y4kvuciqurylrvf2dxshcozritpe5xfrulhu"
   },
   {
     "id": "c2a40fb2-76eb-4d4b-9fec-c7b619a88c95",
