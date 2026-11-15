@@ -1,31 +1,5 @@
 [
   {
-    "id": "dca1b2b6-85a9-47d4-8a2e-1b885e4169a6",
-    "platform": "bluesky",
-    "date": "2026-11-13T20:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Plitvice Lakes National Park, Croatia 🇭🇷\n\nTurquoise lakes, cascading waterfalls and wooden walkways wind through lush forests.\n\nThe park’s connected lakes create one of Europe’s most beautiful natural landscapes.\nWould you explore these trails?\n\n#Travel #TravelPhotography #Croatia",
-    "thread": null,
-    "media": {
-      "path": "media/1794515015788-photo_5855204313796819175_y.jpg",
-      "sha": "12684ec6e4ae3f6cec9cd21f2a548922fae2e259",
-      "name": "photo_5855204313796819175_y.jpg",
-      "type": "image/jpeg",
-      "size": 375065
-    },
-    "createdAt": "2026-11-12T20:23:43.430Z",
-    "postedAt": "2026-11-13T22:54:20.920Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2a3bjz4em2n",
-    "cid": "bafyreic3qc3yigevejqtntahuoe5bgluqah2432l2ct4tz5d3g2dmhsjhy"
-  },
-  {
     "id": "7c39274f-cca5-4441-b3dc-a9aa0fc6eb2c",
     "platform": "bluesky",
     "date": "2026-11-14T02:11:00.000Z",
