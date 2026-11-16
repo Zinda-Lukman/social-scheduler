@@ -404,5 +404,28 @@
       "size": 84489
     },
     "createdAt": "2026-11-16T20:08:19.314Z"
+  },
+  {
+    "id": "3841b3de-3bf0-4158-bf7a-bf34b6a3cbe7",
+    "platform": "bluesky",
+    "date": "2026-11-19T20:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Ol Doinyo Lengai, Tanzania 🇹🇿\n\nKnown as the “Mountain of God” in the Maasai language, this active volcano rises above the East African Rift Valley.\n\nIt is famous for its unusual carbonatite lava, which flows at much lower temperatures than typical lava.🌋\n\n#Travel #TravelPhotography #Tanzania",
+    "thread": null,
+    "media": {
+      "path": "media/1794859778747-photo_6039776358634206239_x.jpg",
+      "sha": "692ce743cb8bc7d8c520af6be29662c0289bc626",
+      "name": "photo_6039776358634206239_x.jpg",
+      "type": "image/jpeg",
+      "size": 49463
+    },
+    "createdAt": "2026-11-16T20:09:43.097Z"
   }
 ]
