@@ -217,5 +217,28 @@
       "size": 175014
     },
     "createdAt": "2026-11-13T21:11:16.795Z"
+  },
+  {
+    "id": "e3f6fc43-d505-47fd-bf0c-cd5bdaad15c4",
+    "platform": "bluesky",
+    "date": "2026-11-17T20:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Râșnov, Transylvania, Romania 🇷🇴\n\nThis historic town sits beneath the Carpathian Mountains, with its famous hilltop fortress overlooking traditional rooftops and green landscapes.\n\nWould you explore this corner of Transylvania?\n\n#Travel #TravelPhotography #Romania",
+    "thread": null,
+    "media": {
+      "path": "media/1794858422576-photo_5863943288048954901_y.jpg",
+      "sha": "bd9c9c0fbcf38519a8a91c7c132a380500900cdd",
+      "name": "photo_5863943288048954901_y.jpg",
+      "type": "image/jpeg",
+      "size": 157007
+    },
+    "createdAt": "2026-11-16T19:47:11.085Z"
   }
 ]
