@@ -240,5 +240,28 @@
       "size": 157007
     },
     "createdAt": "2026-11-16T19:47:11.085Z"
+  },
+  {
+    "id": "7100d3ec-8811-47f3-acd4-eb59ea0d3558",
+    "platform": "bluesky",
+    "date": "2026-11-18T02:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 San Francisco Cable Car, California, USA 🇺🇸\n\nThese iconic historic streetcars climb the city’s steep hills, offering a classic way to experience San Francisco’s streets and landmarks.\n\nWould you take a ride?\n\n#Travel #TravelPhotography #SanFrancisco",
+    "thread": null,
+    "media": {
+      "path": "media/1794858598852-photo_5863943288048954899_x.jpg",
+      "sha": "5a599b36663dc4a76cf4cfc63825e383ab1038b6",
+      "name": "photo_5863943288048954899_x.jpg",
+      "type": "image/jpeg",
+      "size": 120140
+    },
+    "createdAt": "2026-11-16T19:50:06.300Z"
   }
 ]
