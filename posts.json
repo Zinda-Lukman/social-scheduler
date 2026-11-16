@@ -263,5 +263,28 @@
       "size": 120140
     },
     "createdAt": "2026-11-16T19:50:06.300Z"
+  },
+  {
+    "id": "3d9290db-6315-4078-a221-670fca947004",
+    "platform": "bluesky",
+    "date": "2026-11-18T08:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Mount Fuji, Japan 🇯🇵\n\nJapan’s iconic volcanic peak rises above the surrounding landscape, often crowned with snow and reflected in nearby lakes.\n\nA breathtaking sight in every season.\n\nWould you love to see Fuji in person?\n\n#Travel #TravelPhotography #Japan",
+    "thread": null,
+    "media": {
+      "path": "media/1794858688236-photo_5985632742475412194_x.jpg",
+      "sha": "6934b9f004ab94639195779fe2f14e853d279b14",
+      "name": "photo_5985632742475412194_x.jpg",
+      "type": "image/jpeg",
+      "size": 118871
+    },
+    "createdAt": "2026-11-16T19:51:33.945Z"
   }
 ]
