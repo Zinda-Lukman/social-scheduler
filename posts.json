@@ -358,5 +358,28 @@
       "size": 68175
     },
     "createdAt": "2026-11-16T20:04:01.476Z"
+  },
+  {
+    "id": "d09956e8-36bf-4ebc-9890-b0c7b56b76f3",
+    "platform": "bluesky",
+    "date": "2026-11-19T08:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Duffey Lake Road, British Columbia, Canada 🇨🇦\n\nA dramatic U-shaped hairpin bend winds down the mountainside above Seton Lake, offering sweeping views of turquoise water and rugged peaks.\n\nWould you drive this scenic route?\n\n#Travel #TravelPhotography #Canada",
+    "thread": null,
+    "media": {
+      "path": "media/1794859519147-photo_6010565079168299399_x.jpg",
+      "sha": "82416dedc5d028d9e522509ef9413e33df7fd805",
+      "name": "photo_6010565079168299399_x.jpg",
+      "type": "image/jpeg",
+      "size": 155355
+    },
+    "createdAt": "2026-11-16T20:05:26.462Z"
   }
 ]
