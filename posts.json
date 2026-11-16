@@ -381,5 +381,28 @@
       "size": 155355
     },
     "createdAt": "2026-11-16T20:05:26.462Z"
+  },
+  {
+    "id": "1779ea7e-6c33-49dd-8f7a-65b67c328cbb",
+    "platform": "bluesky",
+    "date": "2026-11-19T14:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Lake Brienz, Switzerland 🇨🇭\n\nA traditional wooden chalet sits above striking turquoise waters, surrounded by the dramatic peaks of the Swiss Alps.\n\nThe peaceful lakeside scenery is hard to forget.\n\nWould you spend a few days here?\n\n#Travel #TravelPhotography #Switzerland",
+    "thread": null,
+    "media": {
+      "path": "media/1794859692692-photo_6010565079168299401_x.jpg",
+      "sha": "c76ab9ee7ace072ca6fa184b6ddbb10d9ab2a507",
+      "name": "photo_6010565079168299401_x.jpg",
+      "type": "image/jpeg",
+      "size": 84489
+    },
+    "createdAt": "2026-11-16T20:08:19.314Z"
   }
 ]
