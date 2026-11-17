@@ -1,31 +1,5 @@
 [
   {
-    "id": "7924e8e3-e171-46cd-bce9-56adf08bcf75",
-    "platform": "bluesky",
-    "date": "2026-11-16T08:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Wetterhorn, Rosenlaui Valley, Switzerland 🇨🇭\n\nThe towering mountain peak rises above green alpine meadows and rushing turquoise waters in the Bernese Oberland.\n\nA stunning glimpse of the Swiss Alps.\n\nWould you hike through this valley?\n\n#Travel #TravelPhotography #Switzerland",
-    "thread": null,
-    "media": {
-      "path": "media/1794517004346-photo_6188022695363455101_y.jpg",
-      "sha": "083be407a1c515cc24b633ab6043e8860e1180b1",
-      "name": "photo_6188022695363455101_y.jpg",
-      "type": "image/jpeg",
-      "size": 303898
-    },
-    "createdAt": "2026-11-12T20:56:52.056Z",
-    "postedAt": "2026-11-16T13:32:18.706Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2gnbcgrqy2s",
-    "cid": "bafyreiep77ulyci4bxx43wz6yjczwwtsp7zadbr2lfkjvjkwl7dlwkonsa"
-  },
-  {
     "id": "8f3ed2b8-6db5-4b43-8cd1-7a88416b4284",
     "platform": "bluesky",
     "date": "2026-11-16T14:11:00.000Z",
@@ -111,8 +85,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Emerald Lake, Yoho National Park, Canada 🇨🇦\n\nBrilliant turquoise water is surrounded by forested mountains, with Emerald Lake Lodge nestled along the shore.\n\nA peaceful Rocky Mountain escape.\n\nWould you stay here?\n\n#Travel #TravelPhotography #Canada",
@@ -124,7 +98,10 @@
       "type": "image/jpeg",
       "size": 144394
     },
-    "createdAt": "2026-11-13T21:08:55.683Z"
+    "createdAt": "2026-11-13T21:08:55.683Z",
+    "postedAt": "2026-11-17T14:16:56.099Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2ja7z7ec42a",
+    "cid": "bafyreiad47qaqgdkkywmto2e5dgzz3fdbhv5347kjftgzjtwjcfofsyafm"
   },
   {
     "id": "883cdf58-2b3b-4eec-8e6d-625da6ccf02e",
@@ -134,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Lake O’Hara, Yoho National Park, Canada 🇨🇦\n\nCrystal-clear alpine waters reflect towering mountain peaks, surrounded by forests and rugged trails.\n\nThis secluded corner of the Canadian Rockies looks like a dream.\n\nWould you hike here?\n\n#Travel #TravelPhotography #Canada",
@@ -147,7 +124,10 @@
       "type": "image/jpeg",
       "size": 175014
     },
-    "createdAt": "2026-11-13T21:11:16.795Z"
+    "createdAt": "2026-11-13T21:11:16.795Z",
+    "postedAt": "2026-11-17T14:16:57.896Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2jaa26vwp2s",
+    "cid": "bafyreigpqe2v4hwiv2fneuxlk7d2tviks3tis7g665uuvfsqsxx5rtetxu"
   },
   {
     "id": "e3f6fc43-d505-47fd-bf0c-cd5bdaad15c4",
