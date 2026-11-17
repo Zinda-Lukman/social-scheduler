@@ -1,57 +1,5 @@
 [
   {
-    "id": "be891e94-dde0-445d-a98f-664aec62a2bf",
-    "platform": "bluesky",
-    "date": "2026-11-15T20:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Dubai Marina, UAE 🇦🇪\n\nSleek skyscrapers tower over a waterfront lined with restaurants, boats and lively promenades.\n\nThe district’s skyline is especially striking after dark.\n\nWould you take an evening walk here?\n\n#Travel #TravelPhotography #Dubai",
-    "thread": null,
-    "media": {
-      "path": "media/1794516671970-photo_5857456113610504043_y.jpg",
-      "sha": "f26034ff3ae8102566724d403123ece28600dd43",
-      "name": "photo_5857456113610504043_y.jpg",
-      "type": "image/jpeg",
-      "size": 230081
-    },
-    "createdAt": "2026-11-12T20:51:17.378Z",
-    "postedAt": "2026-11-15T23:54:45.308Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2f7lfg6xe2o",
-    "cid": "bafyreibflwekfsjajuyin2y4kvuciqurylrvf2dxshcozritpe5xfrulhu"
-  },
-  {
-    "id": "c2a40fb2-76eb-4d4b-9fec-c7b619a88c95",
-    "platform": "bluesky",
-    "date": "2026-11-16T02:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Rammang-Rammang, Maros, South Sulawesi, Indonesia 🇮🇩\n\nTowering limestone karsts rise above lush green landscapes and winding waterways in this remarkable natural wonder.\n\nWould you explore this hidden gem by boat?\n\n#Travel #TravelPhotography #Indonesia",
-    "thread": null,
-    "media": {
-      "path": "media/1794516871258-photo_6194796387070224793_y.jpg",
-      "sha": "5899d7de394ae3a76678a0df5966e556d246bb64",
-      "name": "photo_6194796387070224793_y.jpg",
-      "type": "image/jpeg",
-      "size": 233016
-    },
-    "createdAt": "2026-11-12T20:54:35.766Z",
-    "postedAt": "2026-11-16T05:01:31.624Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2fqpwx5xi2u",
-    "cid": "bafyreiemfewzpvaegl7qp4sehbmfki5unolisbyws44nvwppvdk6jglce4"
-  },
-  {
     "id": "7924e8e3-e171-46cd-bce9-56adf08bcf75",
     "platform": "bluesky",
     "date": "2026-11-16T08:11:00.000Z",
@@ -137,8 +85,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Helmcken Falls, British Columbia, Canada 🇨🇦\n\nWater plunges 141 metres into a deep volcanic canyon in Wells Gray Provincial Park.\n\nThe dramatic cliffs make this waterfall especially impressive in winter.\n\nWould you visit? ❄️\n\n#Travel #TravelPhotography #Canada",
@@ -150,7 +98,10 @@
       "type": "image/jpeg",
       "size": 229584
     },
-    "createdAt": "2026-11-13T21:07:40.829Z"
+    "createdAt": "2026-11-13T21:07:40.829Z",
+    "postedAt": "2026-11-17T05:01:35.944Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2ib6yksar25",
+    "cid": "bafyreihiq4k5zz5z6vq6okplxo776eyh7cnsd6shaqvco47mxbbtxetqy4"
   },
   {
     "id": "1332abe9-c760-4c08-8fbb-ffd218782f94",
