@@ -292,5 +292,28 @@
       "size": 226217
     },
     "createdAt": "2026-11-18T20:12:01.129Z"
+  },
+  {
+    "id": "ccd88f52-8824-4409-b5b4-7560e47d8b53",
+    "platform": "bluesky",
+    "date": "2026-11-20T08:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Emerald Lake, Yoho National Park, Canada 🇨🇦\n\nBrilliant turquoise water reflects the surrounding forest and towering Rocky Mountain peaks.\n\nIts peaceful shoreline and stunning scenery make it a Canadian Rockies favourite.\n\nWould you visit in summer or winter?\n\n#Travel #TravelPhotography #Canada",
+    "thread": null,
+    "media": {
+      "path": "media/1795032789767-photo_6224042417116522740_y.jpg",
+      "sha": "92ecf05e7d86e6a4d0c8d7e56615465767251d3e",
+      "name": "photo_6224042417116522740_y.jpg",
+      "type": "image/jpeg",
+      "size": 180513
+    },
+    "createdAt": "2026-11-18T20:13:22.852Z"
   }
 ]
