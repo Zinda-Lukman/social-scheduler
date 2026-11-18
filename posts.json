@@ -1,31 +1,5 @@
 [
   {
-    "id": "b3fe25e2-b123-4848-b046-e5864ea610a3",
-    "platform": "bluesky",
-    "date": "2026-11-17T02:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Helmcken Falls, British Columbia, Canada 🇨🇦\n\nWater plunges 141 metres into a deep volcanic canyon in Wells Gray Provincial Park.\n\nThe dramatic cliffs make this waterfall especially impressive in winter.\n\nWould you visit? ❄️\n\n#Travel #TravelPhotography #Canada",
-    "thread": null,
-    "media": {
-      "path": "media/1794604051068-photo_6203794901901093001_y.jpg",
-      "sha": "3e66ab3e8621de0527c537b1965ef22f10485a18",
-      "name": "photo_6203794901901093001_y.jpg",
-      "type": "image/jpeg",
-      "size": 229584
-    },
-    "createdAt": "2026-11-13T21:07:40.829Z",
-    "postedAt": "2026-11-17T05:01:35.944Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2ib6yksar25",
-    "cid": "bafyreihiq4k5zz5z6vq6okplxo776eyh7cnsd6shaqvco47mxbbtxetqy4"
-  },
-  {
     "id": "1332abe9-c760-4c08-8fbb-ffd218782f94",
     "platform": "bluesky",
     "date": "2026-11-17T08:11:00.000Z",
@@ -137,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Mount Fuji, Japan 🇯🇵\n\nJapan’s iconic volcanic peak rises above the surrounding landscape, often crowned with snow and reflected in nearby lakes.\n\nA breathtaking sight in every season.\n\nWould you love to see Fuji in person?\n\n#Travel #TravelPhotography #Japan",
@@ -150,7 +124,10 @@
       "type": "image/jpeg",
       "size": 118871
     },
-    "createdAt": "2026-11-16T19:51:33.945Z"
+    "createdAt": "2026-11-16T19:51:33.945Z",
+    "postedAt": "2026-11-18T12:20:59.956Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2lk7mx6lx2u",
+    "cid": "bafyreibx2rhlzl77e2n23xkyeoos5mbbvrzbkrrcvjekmtp5g2m7mqwdja"
   },
   {
     "id": "5711e11d-4831-45b2-88c4-d0bd9f064ee1",
