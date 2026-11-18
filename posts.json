@@ -315,5 +315,28 @@
       "size": 180513
     },
     "createdAt": "2026-11-18T20:13:22.852Z"
+  },
+  {
+    "id": "81e35d3e-b340-4dd2-82cc-42eeb9ea6916",
+    "platform": "bluesky",
+    "date": "2026-11-20T14:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Lake Powell, Utah, USA 🇺🇸\n\nDeep blue water winds between towering red sandstone cliffs, creating a striking contrast across the desert landscape.\n\nThis vast reservoir is a paradise for boating and exploring hidden canyons.\n\nWould you visit?\n\n#Travel #TravelPhotography #Utah",
+    "thread": null,
+    "media": {
+      "path": "media/1795032985135-photo_6232982211154520202_y.jpg",
+      "sha": "5224fcdf94582fd73958cd6a914f62e21008ade3",
+      "name": "photo_6232982211154520202_y.jpg",
+      "type": "image/jpeg",
+      "size": 166224
+    },
+    "createdAt": "2026-11-18T20:16:38.167Z"
   }
 ]
