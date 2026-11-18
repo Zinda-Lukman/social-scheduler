@@ -338,5 +338,28 @@
       "size": 166224
     },
     "createdAt": "2026-11-18T20:16:38.167Z"
+  },
+  {
+    "id": "bb3bd3b4-fa06-4b6e-b872-e11819989b24",
+    "platform": "bluesky",
+    "date": "2026-11-20T20:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Hochosterwitz Castle, Carinthia, Austria 🇦🇹 \n\nPerched dramatically on a limestone hill, this medieval fortress is famous for its series of 14 historic gates leading up to the castle. \n\nA remarkable piece of Austrian history. \n\nWould you climb to the top?\n\n#Travel #TravelPhotography #Austria",
+    "thread": null,
+    "media": {
+      "path": "media/1795033356368-photo_6232982211154520203_y.jpg",
+      "sha": "5b9446e9ca4b126638b0bd433b889d036ca0ac83",
+      "name": "photo_6232982211154520203_y.jpg",
+      "type": "image/jpeg",
+      "size": 191757
+    },
+    "createdAt": "2026-11-18T20:23:11.210Z"
   }
 ]
