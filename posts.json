@@ -1,57 +1,5 @@
 [
   {
-    "id": "1332abe9-c760-4c08-8fbb-ffd218782f94",
-    "platform": "bluesky",
-    "date": "2026-11-17T08:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Emerald Lake, Yoho National Park, Canada 🇨🇦\n\nBrilliant turquoise water is surrounded by forested mountains, with Emerald Lake Lodge nestled along the shore.\n\nA peaceful Rocky Mountain escape.\n\nWould you stay here?\n\n#Travel #TravelPhotography #Canada",
-    "thread": null,
-    "media": {
-      "path": "media/1794604130068-photo_6197373715340175524_y.jpg",
-      "sha": "fb1e0629db64d60bcdf68ee0ef0352fa1fd3f519",
-      "name": "photo_6197373715340175524_y.jpg",
-      "type": "image/jpeg",
-      "size": 144394
-    },
-    "createdAt": "2026-11-13T21:08:55.683Z",
-    "postedAt": "2026-11-17T14:16:56.099Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2ja7z7ec42a",
-    "cid": "bafyreiad47qaqgdkkywmto2e5dgzz3fdbhv5347kjftgzjtwjcfofsyafm"
-  },
-  {
-    "id": "883cdf58-2b3b-4eec-8e6d-625da6ccf02e",
-    "platform": "bluesky",
-    "date": "2026-11-17T14:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Lake O’Hara, Yoho National Park, Canada 🇨🇦\n\nCrystal-clear alpine waters reflect towering mountain peaks, surrounded by forests and rugged trails.\n\nThis secluded corner of the Canadian Rockies looks like a dream.\n\nWould you hike here?\n\n#Travel #TravelPhotography #Canada",
-    "thread": null,
-    "media": {
-      "path": "media/1794604261324-photo_6197244484069206455_y.jpg",
-      "sha": "7344d1f1532d6f79146dd85029fd9f03522c9a1a",
-      "name": "photo_6197244484069206455_y.jpg",
-      "type": "image/jpeg",
-      "size": 175014
-    },
-    "createdAt": "2026-11-13T21:11:16.795Z",
-    "postedAt": "2026-11-17T14:16:57.896Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2jaa26vwp2s",
-    "cid": "bafyreigpqe2v4hwiv2fneuxlk7d2tviks3tis7g665uuvfsqsxx5rtetxu"
-  },
-  {
     "id": "e3f6fc43-d505-47fd-bf0c-cd5bdaad15c4",
     "platform": "bluesky",
     "date": "2026-11-17T20:11:00.000Z",
@@ -137,8 +85,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Hallstatt, Austria 🇦🇹\n\nColourful historic houses sit between the shores of Lake Hallstatt and towering Alpine mountains.\n\nWith its lakeside setting and charming streets, this village looks like a fairytale. \n\nWould you visit?\n\n#Travel #TravelPhotography #Austria",
@@ -150,7 +98,10 @@
       "type": "image/jpeg",
       "size": 192931
     },
-    "createdAt": "2026-11-16T19:53:14.297Z"
+    "createdAt": "2026-11-16T19:53:14.297Z",
+    "postedAt": "2026-11-18T20:46:08.609Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2mggvekxc22",
+    "cid": "bafyreievl46b2mxtowswsd562e5usuwe64dowkoowcwrgd7f6k3nijocru"
   },
   {
     "id": "434774bb-40fa-4931-be06-60ba8f23ec0a",
@@ -160,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Elands River Waterfall, Mpumalanga, South Africa 🇿🇦\n\nWater cascades down a dramatic rocky cliff into the lush landscape below.\n\nA beautiful natural attraction tucked away in South Africa’s scenic highlands. \n\nWould you visit?\n\n#Travel #TravelPhotography #SouthAfrica",
@@ -173,7 +124,10 @@
       "type": "image/jpeg",
       "size": 70840
     },
-    "createdAt": "2026-11-16T19:56:44.724Z"
+    "createdAt": "2026-11-16T19:56:44.724Z",
+    "postedAt": "2026-11-18T20:46:09.558Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2mggwaqox2n",
+    "cid": "bafyreibvz7v562mmxwvfj4u7wxhj2natn2gbtzxbiuct4a3cgdltc23gj4"
   },
   {
     "id": "3f16ec00-44d8-4653-a8f7-73fe2d530bbe",
