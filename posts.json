@@ -1,57 +1,5 @@
 [
   {
-    "id": "8f3ed2b8-6db5-4b43-8cd1-7a88416b4284",
-    "platform": "bluesky",
-    "date": "2026-11-16T14:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Shiprock, New Mexico, USA 🇺🇸\n\nThis striking volcanic formation rises dramatically from the desert plains.\n\nIts jagged silhouette is the exposed remnant of an ancient volcanic system and a sacred landmark of the Navajo Nation.\n\n#Travel #TravelPhotography #NewMexico #USA",
-    "thread": null,
-    "media": {
-      "path": "media/1794517187018-photo_6187985174529157208_y.jpg",
-      "sha": "202501f2b2e5e3e17eff61d29387d942b0c514fa",
-      "name": "photo_6187985174529157208_y.jpg",
-      "type": "image/jpeg",
-      "size": 165473
-    },
-    "createdAt": "2026-11-12T20:59:52.128Z",
-    "postedAt": "2026-11-16T23:00:09.760Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2hmyp26jh2l",
-    "cid": "bafyreies25rtrbuw55bl4vpesv2l6yudbu74aieevk4kpzt5ynibydkyi4"
-  },
-  {
-    "id": "bd69ff87-852e-4eb2-8a18-aa191ead401b",
-    "platform": "bluesky",
-    "date": "2026-11-16T20:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Sassolungo (Langkofel), Dolomites, Italy 🇮🇹\n\nThis dramatic mountain group rises above the alpine meadows of South Tyrol, with rugged limestone peaks that glow beautifully in the changing light.\n\nWould you hike here?\n\n#Travel #TravelPhotography #Dolomites",
-    "thread": null,
-    "media": {
-      "path": "media/1794603952966-photo_6195248999313811648_y.jpg",
-      "sha": "c704778df034ddda977263391c6f276199677eda",
-      "name": "photo_6195248999313811648_y.jpg",
-      "type": "image/jpeg",
-      "size": 201222
-    },
-    "createdAt": "2026-11-13T21:06:05.600Z",
-    "postedAt": "2026-11-16T23:00:10.832Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2hmyq3z6z27",
-    "cid": "bafyreie32evohlygbn5l5kyy7mcibnduga4mw4gnfa72gjxe7g6ahzhnwy"
-  },
-  {
     "id": "b3fe25e2-b123-4848-b046-e5864ea610a3",
     "platform": "bluesky",
     "date": "2026-11-17T02:11:00.000Z",
@@ -163,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 San Francisco Cable Car, California, USA 🇺🇸\n\nThese iconic historic streetcars climb the city’s steep hills, offering a classic way to experience San Francisco’s streets and landmarks.\n\nWould you take a ride?\n\n#Travel #TravelPhotography #SanFrancisco",
@@ -176,7 +124,10 @@
       "type": "image/jpeg",
       "size": 120140
     },
-    "createdAt": "2026-11-16T19:50:06.300Z"
+    "createdAt": "2026-11-16T19:50:06.300Z",
+    "postedAt": "2026-11-18T03:49:21.455Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2knmqfvo72r",
+    "cid": "bafyreif56p7owxeyttqblv52w6gddglt4w75j4kq7xpmvxr74vuoklk3uu"
   },
   {
     "id": "3d9290db-6315-4078-a221-670fca947004",
