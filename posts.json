@@ -1,31 +1,5 @@
 [
   {
-    "id": "3d9290db-6315-4078-a221-670fca947004",
-    "platform": "bluesky",
-    "date": "2026-11-18T08:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Mount Fuji, Japan 🇯🇵\n\nJapan’s iconic volcanic peak rises above the surrounding landscape, often crowned with snow and reflected in nearby lakes.\n\nA breathtaking sight in every season.\n\nWould you love to see Fuji in person?\n\n#Travel #TravelPhotography #Japan",
-    "thread": null,
-    "media": {
-      "path": "media/1794858688236-photo_5985632742475412194_x.jpg",
-      "sha": "6934b9f004ab94639195779fe2f14e853d279b14",
-      "name": "photo_5985632742475412194_x.jpg",
-      "type": "image/jpeg",
-      "size": 118871
-    },
-    "createdAt": "2026-11-16T19:51:33.945Z",
-    "postedAt": "2026-11-18T12:20:59.956Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2lk7mx6lx2u",
-    "cid": "bafyreibx2rhlzl77e2n23xkyeoos5mbbvrzbkrrcvjekmtp5g2m7mqwdja"
-  },
-  {
     "id": "5711e11d-4831-45b2-88c4-d0bd9f064ee1",
     "platform": "bluesky",
     "date": "2026-11-18T14:11:00.000Z",
@@ -140,8 +114,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Lake Brienz, Switzerland 🇨🇭\n\nA traditional wooden chalet sits above striking turquoise waters, surrounded by the dramatic peaks of the Swiss Alps.\n\nThe peaceful lakeside scenery is hard to forget.\n\nWould you spend a few days here?\n\n#Travel #TravelPhotography #Switzerland",
@@ -153,7 +127,10 @@
       "type": "image/jpeg",
       "size": 84489
     },
-    "createdAt": "2026-11-16T20:08:19.314Z"
+    "createdAt": "2026-11-16T20:08:19.314Z",
+    "postedAt": "2026-11-19T19:01:53.172Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2or3eyrc62s",
+    "cid": "bafyreida6iqnmhmdjjyjdr2fonthzedish7opawyt6vvohpfoe572du7uq"
   },
   {
     "id": "3841b3de-3bf0-4158-bf7a-bf34b6a3cbe7",
