@@ -1,31 +1,5 @@
 [
   {
-    "id": "7100d3ec-8811-47f3-acd4-eb59ea0d3558",
-    "platform": "bluesky",
-    "date": "2026-11-18T02:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 San Francisco Cable Car, California, USA 🇺🇸\n\nThese iconic historic streetcars climb the city’s steep hills, offering a classic way to experience San Francisco’s streets and landmarks.\n\nWould you take a ride?\n\n#Travel #TravelPhotography #SanFrancisco",
-    "thread": null,
-    "media": {
-      "path": "media/1794858598852-photo_5863943288048954899_x.jpg",
-      "sha": "5a599b36663dc4a76cf4cfc63825e383ab1038b6",
-      "name": "photo_5863943288048954899_x.jpg",
-      "type": "image/jpeg",
-      "size": 120140
-    },
-    "createdAt": "2026-11-16T19:50:06.300Z",
-    "postedAt": "2026-11-18T03:49:21.455Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2knmqfvo72r",
-    "cid": "bafyreif56p7owxeyttqblv52w6gddglt4w75j4kq7xpmvxr74vuoklk3uu"
-  },
-  {
     "id": "3d9290db-6315-4078-a221-670fca947004",
     "platform": "bluesky",
     "date": "2026-11-18T08:11:00.000Z",
@@ -111,8 +85,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Kamchatka Peninsula, Russia 🇷🇺\n\nTowering stratovolcanoes dominate this remote volcanic landscape, where rugged peaks, glaciers and steaming craters reveal the power of nature.\n\nWould you explore this wild region?\n\n#Travel #TravelPhotography #Kamchatka",
@@ -127,7 +101,10 @@
       "type": "image/jpeg",
       "size": 49463
     },
-    "createdAt": "2026-11-16T20:04:01.476Z"
+    "createdAt": "2026-11-16T20:04:01.476Z",
+    "postedAt": "2026-11-19T10:13:34.169Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2ntko2evr27",
+    "cid": "bafyreihghse2lkgjqqou6hgzoxoylsrqzdkgw3ao2vfv4bgoymp4nbcamq"
   },
   {
     "id": "d09956e8-36bf-4ebc-9890-b0c7b56b76f3",
@@ -137,8 +114,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Duffey Lake Road, British Columbia, Canada 🇨🇦\n\nA dramatic U-shaped hairpin bend winds down the mountainside above Seton Lake, offering sweeping views of turquoise water and rugged peaks.\n\nWould you drive this scenic route?\n\n#Travel #TravelPhotography #Canada",
@@ -150,7 +127,10 @@
       "type": "image/jpeg",
       "size": 155355
     },
-    "createdAt": "2026-11-16T20:05:26.462Z"
+    "createdAt": "2026-11-16T20:05:26.462Z",
+    "postedAt": "2026-11-19T10:13:35.186Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2ntkpmvbd2r",
+    "cid": "bafyreiaguvtgss35ynskhaj4c2miosanpcmmmk462nrayqo62awokudjsa"
   },
   {
     "id": "1779ea7e-6c33-49dd-8f7a-65b67c328cbb",
