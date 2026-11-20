@@ -220,5 +220,28 @@
       "size": 77320
     },
     "createdAt": "2026-11-20T20:26:48.380Z"
+  },
+  {
+    "id": "9ca3fff6-a370-450a-acb4-27cfa178e44c",
+    "platform": "bluesky",
+    "date": "2026-11-21T20:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Merchants Millpond State Park, Gatesville, North Carolina, USA 🇺🇸\n\nAncient bald cypress trees rise from still, dark waters, creating a peaceful landscape best explored by kayak or canoe.\n\nWould you paddle through this quiet wilderness?\n\n#Travel #TravelPhotography #NorthCarolina",
+    "thread": null,
+    "media": {
+      "path": "media/1795206554817-photo_665772183908362705_x.jpg",
+      "sha": "3baced38254122501bab6cd8586eca9cac2533ff",
+      "name": "photo_665772183908362705_x.jpg",
+      "type": "image/jpeg",
+      "size": 115960
+    },
+    "createdAt": "2026-11-20T20:29:19.137Z"
   }
 ]
