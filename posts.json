@@ -174,5 +174,28 @@
       "size": 191712
     },
     "createdAt": "2026-11-20T20:19:27.105Z"
+  },
+  {
+    "id": "5477f93f-d721-4624-a0cf-2710b7cad372",
+    "platform": "bluesky",
+    "date": "2026-11-21T08:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Hamilton Pool Preserve, Texas, USA 🇺🇸\n\nA natural limestone grotto shelters a beautiful emerald swimming pool, fed by a waterfall cascading from above.\n\nThis hidden natural oasis feels worlds away from the city.\n\nWould you take a dip here?\n\n#Travel #TravelPhotography #Texas",
+    "thread": null,
+    "media": {
+      "path": "media/1795206150257-photo_665772183908362590_x.jpg",
+      "sha": "52b459ac0c840d91ce41ceb102a499b301c1b7be",
+      "name": "photo_665772183908362590_x.jpg",
+      "type": "image/jpeg",
+      "size": 92213
+    },
+    "createdAt": "2026-11-20T20:22:35.397Z"
   }
 ]
