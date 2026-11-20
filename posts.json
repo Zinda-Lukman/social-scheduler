@@ -197,5 +197,28 @@
       "size": 92213
     },
     "createdAt": "2026-11-20T20:22:35.397Z"
+  },
+  {
+    "id": "ad2e217c-e306-4304-950f-4ad725d19dd9",
+    "platform": "bluesky",
+    "date": "2026-11-21T14:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Mount Fitz Roy, Patagonia, Argentina 🇦🇷 \n\nIts jagged granite peaks rise dramatically above glaciers, forests and turquoise lakes.\n\nOne of Patagonia’s most iconic mountain landscapes, and a dream destination for hikers.\n\nWould you take on the trail?\n\n#Travel #TravelPhotography #Patagonia",
+    "thread": null,
+    "media": {
+      "path": "media/1795206403488-photo_665772183908362688_x.jpg",
+      "sha": "e75af822942539ec15337fbc15e9b2b597821cbe",
+      "name": "photo_665772183908362688_x.jpg",
+      "type": "image/jpeg",
+      "size": 77320
+    },
+    "createdAt": "2026-11-20T20:26:48.380Z"
   }
 ]
