@@ -243,5 +243,28 @@
       "size": 115960
     },
     "createdAt": "2026-11-20T20:29:19.137Z"
+  },
+  {
+    "id": "68046d36-0e35-4d52-a2b4-920928c77ee7",
+    "platform": "bluesky",
+    "date": "2026-11-22T02:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Shale Creek Preserve, Chestnut Ridge Park, New York, USA 🇺🇸\n\nHidden among the woodland is Eternal Flame Falls, where a small natural gas flame flickers behind a cascading waterfall.\n\nAn unusual meeting of fire and water.\n\nWould you visit?\n\n#Travel #TravelPhotography #NewYork",
+    "thread": null,
+    "media": {
+      "path": "media/1795206625569-photo_665772183908362835_x.jpg",
+      "sha": "0865e5c8d34f43924dd2c0345134ef30d8d599d2",
+      "name": "photo_665772183908362835_x.jpg",
+      "type": "image/jpeg",
+      "size": 203770
+    },
+    "createdAt": "2026-11-20T20:30:30.148Z"
   }
 ]
