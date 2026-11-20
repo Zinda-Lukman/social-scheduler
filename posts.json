@@ -1,60 +1,5 @@
 [
   {
-    "id": "3f16ec00-44d8-4653-a8f7-73fe2d530bbe",
-    "platform": "bluesky",
-    "date": "2026-11-19T02:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Kamchatka Peninsula, Russia 🇷🇺\n\nTowering stratovolcanoes dominate this remote volcanic landscape, where rugged peaks, glaciers and steaming craters reveal the power of nature.\n\nWould you explore this wild region?\n\n#Travel #TravelPhotography #Kamchatka",
-    "thread": [
-      "📍 Kamchatka Peninsula, Russia 🇷🇺\n\nTowering stratovolcanoes dominate this remote volcanic landscape, where rugged peaks, glaciers and steaming craters reveal the power of nature.\n\nWould you explore this wild region?\n\n#Travel #TravelPhotography #Kamchatka",
-      "Subscribe to my newsletter where, I share about different places in Europe:\n\nhttps://earthexplorationtravels.substack.com/?r=3ubigq&utm_campaign=pub-share-checklist"
-    ],
-    "media": {
-      "path": "media/1794860094193-photo_6039776358634206239_x.jpg",
-      "sha": "692ce743cb8bc7d8c520af6be29662c0289bc626",
-      "name": "photo_6039776358634206239_x.jpg",
-      "type": "image/jpeg",
-      "size": 49463
-    },
-    "createdAt": "2026-11-16T20:04:01.476Z",
-    "postedAt": "2026-11-19T10:13:34.169Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2ntko2evr27",
-    "cid": "bafyreihghse2lkgjqqou6hgzoxoylsrqzdkgw3ao2vfv4bgoymp4nbcamq"
-  },
-  {
-    "id": "d09956e8-36bf-4ebc-9890-b0c7b56b76f3",
-    "platform": "bluesky",
-    "date": "2026-11-19T08:11:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "📍 Duffey Lake Road, British Columbia, Canada 🇨🇦\n\nA dramatic U-shaped hairpin bend winds down the mountainside above Seton Lake, offering sweeping views of turquoise water and rugged peaks.\n\nWould you drive this scenic route?\n\n#Travel #TravelPhotography #Canada",
-    "thread": null,
-    "media": {
-      "path": "media/1794859519147-photo_6010565079168299399_x.jpg",
-      "sha": "82416dedc5d028d9e522509ef9413e33df7fd805",
-      "name": "photo_6010565079168299399_x.jpg",
-      "type": "image/jpeg",
-      "size": 155355
-    },
-    "createdAt": "2026-11-16T20:05:26.462Z",
-    "postedAt": "2026-11-19T10:13:35.186Z",
-    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2ntkpmvbd2r",
-    "cid": "bafyreiaguvtgss35ynskhaj4c2miosanpcmmmk462nrayqo62awokudjsa"
-  },
-  {
     "id": "1779ea7e-6c33-49dd-8f7a-65b67c328cbb",
     "platform": "bluesky",
     "date": "2026-11-19T14:11:00.000Z",
@@ -166,8 +111,8 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "📍 Lake Powell, Utah, USA 🇺🇸\n\nDeep blue water winds between towering red sandstone cliffs, creating a striking contrast across the desert landscape.\n\nThis vast reservoir is a paradise for boating and exploring hidden canyons.\n\nWould you visit?\n\n#Travel #TravelPhotography #Utah",
@@ -179,7 +124,10 @@
       "type": "image/jpeg",
       "size": 166224
     },
-    "createdAt": "2026-11-18T20:16:38.167Z"
+    "createdAt": "2026-11-18T20:16:38.167Z",
+    "postedAt": "2026-11-20T17:16:12.577Z",
+    "uri": "at://did:plc:lrubiptyxg2h3ivcfmcwho5g/app.bsky.feed.post/3n2r3ndrjsy2i",
+    "cid": "bafyreigjtrbuqu73ikm2csj7ex55qk7qgdt2uxfztsxvnz3ksmz4l54tji"
   },
   {
     "id": "bb3bd3b4-fa06-4b6e-b872-e11819989b24",
