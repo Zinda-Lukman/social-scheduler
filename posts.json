@@ -151,5 +151,28 @@
       "size": 191757
     },
     "createdAt": "2026-11-18T20:23:11.210Z"
+  },
+  {
+    "id": "a830fd48-8bbc-4306-b66e-a010a1ba9ab8",
+    "platform": "bluesky",
+    "date": "2026-11-21T02:11:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "📍 Alpe di Siusi, Dolomites, Italy 🇮🇹 The Milky Way stretches across the night sky above rolling alpine meadows and the dramatic Dolomite peaks. A breathtaking meeting of mountains and stars. Would you spend a night under this sky?\n\n#Travel #TravelPhotography #Dolomites",
+    "thread": null,
+    "media": {
+      "path": "media/1795205963203-photo_6248778190336141506_y.jpg",
+      "sha": "a732b62827ad29e0ae858096af5143a318ee87ed",
+      "name": "photo_6248778190336141506_y.jpg",
+      "type": "image/jpeg",
+      "size": 191712
+    },
+    "createdAt": "2026-11-20T20:19:27.105Z"
   }
 ]
