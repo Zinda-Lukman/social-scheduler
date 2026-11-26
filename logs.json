@@ -2,14 +2,6 @@
   {
     "time": "2026-10-19T06:54:18.178Z",
     "level": "info",
-    "event": "DELETED",
-    "message": "Deleted posted post ce30f587-3c8e-4a53-bb4f-fe35f54c5ec6 after 24 hours and associated media file deleted.",
-    "postId": "ce30f587-3c8e-4a53-bb4f-fe35f54c5ec6",
-    "timezone": "Africa/Nairobi"
-  },
-  {
-    "time": "2026-10-19T06:54:18.178Z",
-    "level": "info",
     "event": "CHECK",
     "message": "No posts are due.",
     "postId": null,
@@ -3993,6 +3985,14 @@
   },
   {
     "time": "2026-11-26T11:05:27.121Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
+  },
+  {
+    "time": "2026-11-26T20:08:08.896Z",
     "level": "info",
     "event": "CHECK",
     "message": "No posts are due.",
