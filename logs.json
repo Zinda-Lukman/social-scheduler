@@ -1,13 +1,5 @@
 [
   {
-    "time": "2026-10-19T01:41:12.426Z",
-    "level": "info",
-    "event": "PUBLISHED",
-    "message": "Post ad98ca98-34b2-4253-a910-2728abd5bc00 published successfully.",
-    "postId": "ad98ca98-34b2-4253-a910-2728abd5bc00",
-    "timezone": "Africa/Nairobi"
-  },
-  {
     "time": "2026-10-19T06:54:18.178Z",
     "level": "info",
     "event": "DELETED",
@@ -3993,6 +3985,14 @@
   },
   {
     "time": "2026-11-26T02:16:22.485Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
+  },
+  {
+    "time": "2026-11-26T11:05:27.121Z",
     "level": "info",
     "event": "CHECK",
     "message": "No posts are due.",
